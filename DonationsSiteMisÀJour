@@ -354,13 +354,13 @@ cacheId('popupdossiercs');
 <!-- Fin calque DON -->
                 
 <!-- Calque FORMULAIRE -->
-<div id="textecorpsdon2" class="corps" style="float:left; width:350px; left:360px; font-size:12px; line-height:15px; text-align:justify; margin-right:10px; border-right:dotted 1px #666666; padding-left:20px; border-left:dotted 1px #666666; min-height:650px;">
+<div id="textecorpsdon2" class="corps" style="float:left; width:377px; left:350; font-size:12px; line-height:15px; text-align:justify; margin-right:10px; border-right:dotted 1px #666666; padding-left:10px; border-left:dotted 1px #666666; min-height:650px;">
 	<table width="320" cellpadding="0" cellspacing="0" border="0">
     	<tr>
         	<td style="padding-bottom:5px;"><h1 style="color:#000000;">My contact</h1></td>
 		</tr>
 		<tr id="connexiondon">
-		  <td style="padding-bottom:5px; width:300px; padding-top:10px; background-color:#CCCCCC; padding:10px; -moz-border-radius:10px; -webkit-border-radius:10px; -khtml-border-radius:10px; border-radius:10px;">
+		  <td style="padding-bottom:5px; width:290px; padding-top:10px; background-color:#CCCCCC; padding:10px; -moz-border-radius:10px; -webkit-border-radius:10px; -khtml-border-radius:10px; border-radius:10px;">
           <div id="connexiondon0">
   			    <p style="font-size:10px; color:#990099; padding-bottom:0px;"><a href="#" onclick="afficheId('popupconnexion');return(false);">If you already have account click here</a></p>
           </div>
@@ -766,7 +766,8 @@ cacheId('popupdossiercs');
       </table>
       <table id="paiementTGE" width="320" cellpadding="0" cellspacing="0" border="0">
       <tr style="padding-right:70px;">
-		  <td><h2>By Transnational Giving Europe (TGE) program</h2></td>
+		  <td><h2>By Transnational Giving Europe</h2>
+		  <h2> (TGE) </h2></td>
 	  </tr>
 		<tr>
 		  <td style="padding-right:70px;"><p>TGE is currently operational for donations from and to Belgium, Bulgaria, Germany, Hungary, Ireland, Italy, Luxembourg, the Netherlands, Poland, Romania, Slovakia, Slovenia, Switzerland and the United Kingdom.</p><p><a href="../documents/association/Transnational-Giving-Europe.pdf" target="_blank">Download Contact Details of the TGE partners</a> (pdf - 500ko)</p> </td>

@@ -1,1 +1,1 @@
-à faire:
+Resiver, mieux traduire le site français

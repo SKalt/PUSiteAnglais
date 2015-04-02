@@ -1,29 +1,26 @@
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-    <head>
-    	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-        <title>Association Plan&egrave;te Urgence</title>
-        <meta name="description" content="L'association vous aide Ã  agir en faveur des pays du Sud pour renforcer leur autonomie et protÃ©ger leur environnement : partez 15 jours en mission de CongÃ© Solidaire ou soutenez notre programme Environnement & DÃ©veloppement." />
-		<meta name="keywords" content="" />
-		<meta name="organization" content="PlanÃ¨te Urgence, 39 rue Crozatier, 75012 Paris, France" />
-		<meta name="author" content="Steven" />
+<html><head>
+    	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <title>Association Planète Urgence</title>
+        <meta name="description" content="L'association vous aide Ã&nbsp; agir en faveur des pays du Sud pour renforcer leur autonomie et protÃ©ger leur environnement : partez 15 jours en mission de CongÃ© Solidaire ou soutenez notre programme Environnement &amp; DÃ©veloppement.">
+		<meta name="keywords" content="">
+		<meta name="organization" content="PlanÃ¨te Urgence, 39 rue Crozatier, 75012 Paris, France">
+		<meta name="author" content="Steven" >
         
-        <meta property="og:title" content="" />
-        <meta property="og:type" content="non_profit" />
-        <meta property="og:url" content="http://www.planete-urgence.org/" />
-        <meta property="og:image" content="" />
-        <meta property="og:site_name" content="PlanÃ¨te Urgence, 39 rue Crozatier, 75012 Paris, France" />
-        <meta property="fb:admins" content="100004107064963" />
-        <meta property="og:description" content="L'association vous aide ?gir en faveur des pays du Sud pour renforcer leur autonomie et prot?r leur environnement : partez 15 jours en mission de Cong?olidaire ou soutenez notre programme Environnement & D?loppement." />
+        <meta property="og:title" content="">
+        <meta property="og:type" content="non_profit">
+        <meta property="og:url" content="http://www.planete-urgence.org/">
+        <meta property="og:image" content="">
+        <meta property="og:site_name" content="PlanÃ¨te Urgence, 39 rue Crozatier, 75012 Paris, France">
+        <meta property="fb:admins" content="100004107064963">
+        <meta property="og:description" content="L'association vous aide ?gir en faveur des pays du Sud pour renforcer leur autonomie et prot?r leur environnement : partez 15 jours en mission de Cong?olidaire ou soutenez notre programme Environnement &amp; D?loppement.">
         
         <!--<meta name="ROBOTS" content="NOINDEX,NOFOLLOW">-->
 		<meta name="robots" content="index">
 		<meta name="REVISIT-AFTER" content="7 days">
         <link rel="shortcut icon" href="../images/logos/favicon.ico">
-        <link rel="stylesheet" href="../css/global.css" type="text/css" media="screen"/>
-        <link rel="stylesheet" href="../css/jscrollpane.css" type="text/css" media="screen"/>
-        <link rel="stylesheet" href="../css/clipintro.css" type="text/css" media="screen"/>
+        <link rel="stylesheet" href="../css/global.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="../css/jscrollpane.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="../css/clipintro.css" type="text/css" media="screen">
        <script type="text/javascript" src="../scripts/local.js"></script>
         <script type="text/javascript" src="../scripts/form.js"></script>
 		<script type="text/javascript" src="../scripts/flash.js"></script>
@@ -46,47 +43,47 @@
 		afficheId('popup');
         </script>
         
-    	<div id="header" class="header" style="position:relative; z-index:100001;"> <form id="deconnexion" method="post" action="" >
-    <input id="CON" name="CON" type="hidden" value="DECONNECT" />
-    <input name="MONPANIER" id="MONPANIER" type="hidden" value="" />
+    	<div id="header" class="header" style="position:relative; z-index:100001;"> <form id="deconnexion" method="post" action="">
+    <input id="CON" name="CON" type="hidden" value="DECONNECT">
+    <input name="MONPANIER" id="MONPANIER" type="hidden" value="">
 	</form>
 
 <div id="popupconnexion"><div id="popupconnexionbg"></div>
 <div id="popupconnexioncorps" class="popupcorps">
-<p class="popupfermer"><a onClick="cacheId('popupconnexion');" >x</a></p>
-<h4>Connexion &agrave; votre compte</h4>
+<p class="popupfermer"><a onclick="cacheId('popupconnexion');">x</a></p>
+<h4>Connexion à votre compte</h4>
 <form id="connexion" method="post" action="" onsubmit="return validationconnexion();">
 
 <table width="320" border="0" cellspacing="0" cellpadding="0" style="padding-bottom:20px;">
-  <tr>
-    <td><p><label><input type="radio" name="connexion_select" value="particulier" id="connexion_select_0" checked="checked" />
-    &nbsp;Je suis volontaire ou donateur et me connecte &agrave; titre personnel</label></p></td>
+  <tbody><tr>
+    <td><p><label><input type="radio" name="connexion_select" value="particulier" id="connexion_select_0" checked="checked">
+    &nbsp;Je suis volontaire ou donateur et me connecte à titre personnel</label></p></td>
   </tr>
   <tr>
-    <td><p><label><input type="radio" name="connexion_select" value="entreprise" id="connexion_select_1" />&nbsnbsp;Je me connecte au nom de mon entreprise</label></p></td>
+    <td><p><label><input type="radio" name="connexion_select" value="entreprise" id="connexion_select_1">&amp;nbsnbsp;Je me connecte au nom de mon entreprise</label></p></td>
   </tr>
   <!--<tr>
     <td><p><label><input type="radio" name="connexion_select" value="porteur" id="connexion_select_2" />&nbsp;Je me connecte en tant que porteur de projet</label></p></td>
   </tr>-->
-</table>
+</tbody></table>
 
 <table width="320" border="0" cellspacing="0" cellpadding="0" style="padding-bottom:20px;">
-  <tr>
+  <tbody><tr>
     <td width="80"><p>Identifiant</p></td>
-    <td><input type="text" id="login" name="login" size="20" class="popupinputtexteoff" onFocus="focusform('login','popupinputtexteon'); if(this.value == 'Identifiant') { this.value='' ; } if(this.form.password.value == 'mot de passe') { this.form.password.value ='' ; }" onBlur="focusform('login','popupinputtexteoff');" value="Identifiant" /></td>
+    <td><input type="text" id="login" name="login" size="20" class="popupinputtexteoff" onfocus="focusform('login','popupinputtexteon'); if(this.value == 'Identifiant') { this.value='' ; } if(this.form.password.value == 'mot de passe') { this.form.password.value ='' ; }" onblur="focusform('login','popupinputtexteoff');" value="Identifiant" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDhss3LcOZQAAAU5JREFUOMvdkzFLA0EQhd/bO7iIYmklaCUopLAQA6KNaawt9BeIgnUwLHPJRchfEBR7CyGWgiDY2SlIQBT/gDaCoGDudiy8SLwkBiwz1c7y+GZ25i0wnFEqlSZFZKGdi8iiiOR7aU32QkR2c7ncPcljAARAkgckb8IwrGf1fg/oJ8lRAHkR2VDVmOQ8AKjqY1bMHgCGYXhFchnAg6omJGcBXEZRtNoXYK2dMsaMt1qtD9/3p40x5yS9tHICYF1Vn0mOxXH8Uq/Xb389wff9PQDbQRB0t/QNOiPZ1h4B2MoO0fxnYz8dOOcOVbWhqq8kJzzPa3RAXZIkawCenHMjJN/+GiIqlcoFgKKq3pEMAMwAuCa5VK1W3SAfbAIopum+cy5KzwXn3M5AI6XVYlVt1mq1U8/zTlS1CeC9j2+6o1wuz1lrVzpWXLDWTg3pz/0CQnd2Jos49xUAAAAASUVORK5CYII=); background-attachment: scroll; background-position: 100% 50%; background-repeat: no-repeat;" autocomplete="off"></td>
   </tr>
   <tr>
     <td width="80"><p>Mot de passe</p></td>
-    <td><input type="password" id="password" name="password" size="20" class="popupinputtexteoff" onFocus="focusform('password','popupinputtexteon'); if(this.value == 'mot de passe') { this.value ='' ; }" onBlur="focusform('password','popupinputtexteoff');" value="mot de passe" /></td>
+    <td><input type="password" id="password" name="password" size="20" class="popupinputtexteoff" onfocus="focusform('password','popupinputtexteon'); if(this.value == 'mot de passe') { this.value ='' ; }" onblur="focusform('password','popupinputtexteoff');" value="mot de passe" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDhss3LcOZQAAAU5JREFUOMvdkzFLA0EQhd/bO7iIYmklaCUopLAQA6KNaawt9BeIgnUwLHPJRchfEBR7CyGWgiDY2SlIQBT/gDaCoGDudiy8SLwkBiwz1c7y+GZ25i0wnFEqlSZFZKGdi8iiiOR7aU32QkR2c7ncPcljAARAkgckb8IwrGf1fg/oJ8lRAHkR2VDVmOQ8AKjqY1bMHgCGYXhFchnAg6omJGcBXEZRtNoXYK2dMsaMt1qtD9/3p40x5yS9tHICYF1Vn0mOxXH8Uq/Xb389wff9PQDbQRB0t/QNOiPZ1h4B2MoO0fxnYz8dOOcOVbWhqq8kJzzPa3RAXZIkawCenHMjJN/+GiIqlcoFgKKq3pEMAMwAuCa5VK1W3SAfbAIopum+cy5KzwXn3M5AI6XVYlVt1mq1U8/zTlS1CeC9j2+6o1wuz1lrVzpWXLDWTg3pz/0CQnd2Jos49xUAAAAASUVORK5CYII=); background-attachment: scroll; background-position: 100% 50%; background-repeat: no-repeat;" autocomplete="off"></td>
   </tr>
-</table>
+</tbody></table>
 
 <table width="320" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="right"><input type="hidden" name="action" id="action" value="monespace" /><input type="hidden" name="action2" id="action2" value="" /><input type="hidden" name="mission1" id="mission1" value="" /><input type="hidden" name="mission2" id="mission2" value="" /><input type="hidden" name="mission3" id="mission3" value="" /><input type="hidden" name="montantconnect" id="montantconnect" value="" /><input type="hidden" name="idtemporaire" id="idtemporaire" value="" /><input id="CON" name="CON" type="hidden" value="CONNECT" /><input name="MONPANIER" id="MONPANIER" type="hidden" value="" /><input type="submit" id="submit2" name="submit2" value="Connexion" class="popupbouton" /></td>
-    <td width="120" align="right"><input type="button" id="boutonannuler" name="boutonannuler" value="Annuler" class="popupbouton" onClick="cacheId('popupconnexion');" /></td>
+  <tbody><tr>
+    <td align="right"><input type="hidden" name="action" id="action" value="monespace"><input type="hidden" name="action2" id="action2" value=""><input type="hidden" name="mission1" id="mission1" value=""><input type="hidden" name="mission2" id="mission2" value=""><input type="hidden" name="mission3" id="mission3" value=""><input type="hidden" name="montantconnect" id="montantconnect" value=""><input type="hidden" name="idtemporaire" id="idtemporaire" value=""><input id="CON" name="CON" type="hidden" value="CONNECT"><input name="MONPANIER" id="MONPANIER" type="hidden" value=""><input type="submit" id="submit2" name="submit2" value="Connexion" class="popupbouton"></td>
+    <td width="120" align="right"><input type="button" id="boutonannuler" name="boutonannuler" value="Annuler" class="popupbouton" onclick="cacheId('popupconnexion');"></td>
   </tr>
-</table>
+</tbody></table>
 
 </form>
 </div></div>
@@ -97,7 +94,7 @@ cacheId('popupconnexion');
 <div id="popupmiseajour"><div id="popupconnexionbg"></div>
 <div id="popupconnexioncorps" class="popupcorps" style="min-height:30px;">
 <p class="popupfermer"><a href="">x</a></p>
-<h4>Votre compte a &eacute;t&eacute; mis &agrave; jour</h4>
+<h4>Votre compte a été mis à jour</h4>
 <p style="text-align:center;"><a href="">Cliquez pour retourner au formulaire</a></p>
 </div></div>
 <script>
@@ -106,8 +103,8 @@ cacheId('popupmiseajour');</script>
 
 <div id="popupdossiercs"><div id="popupconnexionbg"></div>
 <div id="popupconnexioncorps" class="popupcorps">
-<p class="popupfermer"><a onClick="cacheId('popupdossiercs');" >x</a></p>
-<h4>Votre dossier de Cong&eacute; Solidaire</h4>
+<p class="popupfermer"><a onclick="cacheId('popupdossiercs');">x</a></p>
+<h4>Votre dossier de Congé Solidaire</h4>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:0 0 10px 0 ;">
 	</table>
 </div></div>
@@ -115,15 +112,15 @@ cacheId('popupmiseajour');</script>
 cacheId('popupdossiercs');
 </script>
     
-<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_cs_ed.css" type="text/css" media="screen" />
-<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_asso.css" type="text/css" media="screen" />
-<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_second.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_cs_ed.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_asso.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_second.css" type="text/css" media="screen">
 
 <div id="headercenterpage" class="header" style="height:80px; margin-top:5px;">
-<div id="headerbaseline" style="background:url(http://www.planete-urgence.org/images/logos/baseline.png) no-repeat;">
+<div id="headerbaseline" style="background:url(http://www.planete-urgence.org/images/logos/baseline_EN.png) no-repeat;">
 </div>
 <div id="header1" style="position:absolute; float:left; width:180px; line-height:normal; height:70px; vertical-align:bottom;">
-<a href="http://www.planete-urgence.org/"><img src="http://www.planete-urgence.org/images/logos/logo-planete-urgence-177.png" width="177" border="0"></a>
+<a href="http://www.planete-urgence.org/?langue=en"><img src="http://www.planete-urgence.org/images/logos/logo-planete-urgence-177_EN.png" width="177" border="0"></a>
 </div>
 
 <div id="header2" style="position:relative; left:180px; width:820px;">
@@ -131,12 +128,12 @@ cacheId('popupdossiercs');
     	<div id="menusec1">
 <div id="selectlangue">
     <table width="50" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50" align="left"><a href="http://www.planete-urgence.org/association/make-a-donation.htm?langue=en"><img src="http://www.planete-urgence.org/images/icones/drapeau_uk_off.png" width="50" height="50" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/drapeau_uk_on.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/drapeau_uk_off.png';" /></a></td>
+  <tbody><tr>
+    <td width="50" align="left"><a href="http://www.planete-urgence.org/association/faire-un-don.htm?langue=fr"><img src="http://www.planete-urgence.org/images/icones/drapeau_fr_off.png" width="50" height="50" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/drapeau_fr_on.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/drapeau_fr_off.png';"></a></td>
   </tr>
-</table>
+</tbody></table>
 </div>
-<div id="connectionoff" class="connectionoff pointer" onClick="afficheId('popupconnexion');" onmouseover="document.getElementById('connectionoff').className = 'connectionon pointer';" onmouseout="document.getElementById('connectionoff').className = 'connectionoff pointer';">Votre compte</div>
+<div id="connectionoff" class="connectionoff pointer" onclick="afficheId('popupconnexion');" onmouseover="document.getElementById('connectionoff').className = 'connectionon pointer';" onmouseout="document.getElementById('connectionoff').className = 'connectionoff pointer';">Your account</div>
 
 
 </div>
@@ -145,65 +142,40 @@ cacheId('popupdossiercs');
     
     
     <div id="header2bas" style="height:43px; margin-top:-36px;">
-    	<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_cs_ed.css" type="text/css" media="screen" />
-<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_asso.css" type="text/css" media="screen" />
+    	<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_cs_ed.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_asso.css" type="text/css" media="screen">
 
 <div id="menuprincipal1" style="position:absolute; width:500px;">
 <ul id="menucsed">
 
 	<!-- D&eacute;but Menu CS -->
     
-    <li><a href="http://www.planete-urgence.org/conge-solidaire/" class="drop">Cong&eacute; Solidaire<span style="font-size:12px; font-weight:normal;"> &reg;</span></a>
+    <li><a href="http://www.planete-urgence.org/conge-solidaire/?langue=en" class="drop">Short-Term Volunteer Assignment</a>
     
-      <div class="dropdown_3columns">
+      <div class="dropdown_2columns">
         
-            <div class="col_3">
-                <h2>Pendant votre temps libre ou vos cong&eacute;s, sans &ecirc;tre forc&eacute;ment un expert, partez en mission de 2 &agrave; 4 semaines apporter le coup de pouce utile &agrave; des porteurs de projets (associations, groupements de femmes, d'artisans, coop&eacuteeacute;ratives, r&eacute;seaux &eacute;ducatifs, partenaires scientifiques...).</h2>
-            </div>
+            <div class="col_2">
+                <h2>At the request of a local organization (associations, women's groups, artisans, cooperatives, educational networks, scientific partners) the STVA program allows you to be involved in a short-term assignment (2 to 4 weeks).</h2>
+        </div>
             
             <div class="col_1">
             	<ul class="greybox">
-                    <li style="line-height:37px; background:#990099;" onmouseover="this.style.backgroundColor='#333333';" onmouseout="this.style.backgroundColor='#990099';"><a id="menupartez" href="http://www.planete-urgence.org/conge-solidaire/les-missions-de-conge-solidaire.htm" style="color:#FFFFFF;">Partez en mission</a></li>
-                    <li><a href="http://www.planete-urgence.org/conge-solidaire/les-pays-d-intervention-du-conge-solidaire.htm">Les pays d'intervention</a></li>
+                    <li style="line-height:37px; background:#990099;" onmouseover="this.style.backgroundColor='#333333';" onmouseout="this.style.backgroundColor='#990099';"><a id="menupartez" href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire-missions.htm" style="color:#FFFFFF;">Find and display STVA</a></li>
+                    <li><a href="http://www.planete-urgence.org/conge-solidaire/countries-in-which-conge-solidaire-is-involved.htm">Countries of operation</a></li>
                 </ul>
             </div>
             
             <div class="col_1">
             	<ul class="greybox">
-                	<li><a href="http://www.planete-urgence.org/conge-solidaire/le-conge-solidaire.htm">Le Cong&eacute; Solidaire, c'est quoi ?</a></li>
-                    <li><a href="http://www.planete-urgence.org/conge-solidaire/rapports-et-temoignages-de-volontaires.htm">T&eacute;moignages de volontaires</a></li>
+                	<li style="line-height:37px;"><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire.htm">What is STVA?</a></li>
+                    <li style="line-height:37px;"><a href="http://www.planete-urgence.org/conge-solidaire/funding-conge-solidaire.htm">Funding STVA</a></li>
+                    
                     
                 </ul>
             </div>
-            	
-            <div class="col_1">	
-            	<ul class="greybox">
-                
-                	<li><a href="http://www.planete-urgence.org/conge-solidaire/le-financement-du-conge-solidaire.htm">Le financement des missions</a></li>
-                   
-                   <li><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire-faq.htm">FAQ<br />Foire aux questions</a></li>
-                </ul>
-            </div>
             
-            <div class="col_3 pointer" onclick="window.location.href = 'http://www.planete-urgence.org/partenariats/devenir-partenaire-du-conge-solidaire.htm';">
-                 <h2 style="margin-top:5px; padding-top:0;">Devenir partenaire du Cong&eacute; Solidaire</h2>
-            </div>
             
-           <div class="col_3 pointer" onclick="window.location.href = 'http://www.planete-urgence.org/partenariats/devenir-partenaire-du-conge-solidaire.htm';"><p>Ouvert &agrave; tous les employeurs, le Cong&eacute; Solidaire vous permet de mobiliser vos ressources internes en faveur de la solidarit&eacute; internationale et de soutenir les missions de transfert de comp&eacute;tences de vos collaborateurs.</p></div>
-        
-            <div class="col_3 pointer" onclick="window.location.href = 'http://www.planete-urgence.org/conge-solidaire/conge-solidaire-actualites.htm';">
-                <h2 style="margin-top:5px; padding-top:0;">&Eacute;chos du terrain...</h2>
-            </div>
            
-            <div class="col_3">
-            
-                        	<div class="pointer" onclick="window.location.href = 'http://www.planete-urgence.org/conge-solidaire/article,6807_planete-urgence-et-les-alliances-francaises.htm';">
-            	<img src="../images/Articles/6807.jpg" width="70" height="53" class="img_left imgshadow" alt="" />
-              <p><a href="http://www.planete-urgence.org/conge-solidaire/article,6807_planete-urgence-et-les-alliances-francaises.htm">PlanÃ¨te Urgence et les Alliances FranÃ§aises</a>PlanÃ¨te Urgence a nouÃ© un partenariat privilÃ©giÃ© avec le rÃ©seau des Alliances FranÃ§aises depuis...<a href="http://www.planete-urgence.org/conge-solidaire/article,6807_planete-urgence-et-les-alliances-francaises.htm"  style="text-align:right;">Lire la suite...</a></p>
-              </div>
-			                
-            
-            </div>
         
         </div>
         
@@ -213,140 +185,50 @@ cacheId('popupdossiercs');
 
 	<!-- Debut Menu ED -->
     
-    <li><a href="http://www.planete-urgence.org/environnement-et-developpement/" class="drop">Environnement & D&eacute;veloppement</a>
+    <li><a href="http://www.planete-urgence.org/environnement-et-developpement/?langue=en" class="drop">Environment &amp; Development</a>
     
-        <div class="dropdown_3columns">
+        <div class="dropdown_2columns">
         
-            <div class="col_3">
-                <h2>Reboisement, reconstruction de l'habitat, agroforesterie, efficacit&eacute; &eacute;nerg&eacute;tique : en Indon&eacute;sie, en Ha&iuml;ti, &agrave; Madagascar et au Mali, nos &eacute;quipes interviennent en partenariat avec des organisations locales.</h2>
+            <div class="col_2">
+                <h2>Offering support to local organizations in their project, reconciling the development of economic activities and environmental protection: these are the issues addressed by the "Environment &amp; Development" program that was implemented in 2006 by PU.</h2>
             </div>
             
             <div class="col_1">
             	<ul class="greybox">
-                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environnement-et-developpement.htm">Le programme</a></li>
-                <li><a href="http://www.planete-urgence.org/environnement-et-developpement/geolocalisation.htm">G&eacute;olocalisation de nos actions</a></li>
+                <li style="line-height:37px; background:#990099;" onmouseover="this.style.backgroundColor='#333333';" onmouseout="this.style.backgroundColor='#990099';"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development.htm" style="color:#FFFFFF;">The program</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-haiti.htm">Haiti</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-indonesia.htm">Indonesia</a></li>
                 </ul>
             </div>
             
             <div class="col_1">
             	<ul class="greybox">
-                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environnement-et-developpement-haiti.htm">Ha&iuml;ti</a></li>
-                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environnement-et-developpement-indonesie.htm">Indon&eacute;sie</a></li>
-                </ul>
-            </div>
-            
-            <div class="col_1">
-                <ul class="greybox">
-                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environnement-et-developpement-madagascar.htm">Madagascar</a></li>
-                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environnement-et-developpement-mali.htm">Mali</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=arbre">Plant a tree!</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-madagascar.htm">Madagascar</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-mali.htm">Mali</a></li>
                 </ul> 
             </div>
-            
-            <div class="col_3 pointer" onclick="window.location.href = 'http://www.planete-urgence.org/partenariats/devenir-partenaire-d-environnement-et-developpement.htm';">
-                <h2 style="margin-top:5px; padding-top:0;">Devenir partenaire d'Environnement & D&eacute;veloppement</h2>
-            </div>
-            
-            <div class="col_3 pointer" onclick="window.location.href = 'http://www.planete-urgence.org/partenariats/devenir-partenaire-d-environnement-et-developpement.htm';"><p>Mobilisez votre entreprise et ses parties prenantes en faveur de projet de protection de l'environnement et de d&eacute;veloppement au b&eacute;n&eacute;fice direct des populations locales.</p></div>
-        
-            <div class="col_3 pointer" onclick="window.location.href = 'http://www.planete-urgence.org/environnement-et-developpement/environnement-et-developpement-actualites.htm';">
-                <h2 style="margin-top:5px; padding-top:0;">&Eacute;chos du terrain...</h2>
-            </div>
-           
-            <div class="col_3">
-            
-                                <div class="pointer" onclick="window.location.href = 'http://www.planete-urgence.org/environnement-et-developpement/article,6813_foret-tryo--deja-plus-de-17000-arbres-plantes.htm';">
-                <img src="../images/Articles/6813.jpg" width="70" height="53" class="img_left imgshadow" alt="" />
-              <p><a href="http://www.planete-urgence.org/environnement-et-developpement/article,6813_foret-tryo--deja-plus-de-17000-arbres-plantes.htm">ForÃªt Tryo : DÃ©jÃ  plus de 17 000 arbres plantÃ©s!</a>Le 31 octobre 2014, le groupe musical franÃ§ais Tryo a lancÃ© un appel Ã  sa communautÃ© : plantons des...<a href="http://www.planete-urgence.org/environnement-et-developpement/article,6813_foret-tryo--deja-plus-de-17000-arbres-plantes.htm" style="text-align:right;">Lire la suite...</a></p>
-              </div>
-			            
-            </div>
-        
         </div>
         
 	</li>
     
     <!-- Fin Menu ED -->
-    
-    <!-- DÃÂ©but Menu Agir -->
-    
-    <li><a href="http://www.planete-urgence.org/association/?p=faire-un-don" class="drop">Agissez !</a>
-    	<div class="dropdown_2columns">
-
-            <div class="col_1">
-            	<ul class="greybox">
-                <li style="line-height:37px;background:#990099;" onmouseover="this.style.backgroundColor='#333333';" onmouseout="this.style.backgroundColor='#990099';"><a href="http://www.planete-urgence.org/association/faire-un-don.htm" style="color:#FFFFFF;">Faites un don</a></li>
-                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/association/faire-un-don.htm?op=adherer">Devenez adh&eacute;rent</a></li>
-                <li><a href="http://www.planete-urgence.org/conge-solidaire/les-missions-de-conge-solidaire.htm">Partez en mission de Cong&eacute; Solidaire</a></li>
-                </ul>
-      </div>
-                
-                <div class="col_1">
-            	<ul class="greybox">
-                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/partenariats/" style="padding-top:5px;">Devenez Partenaire</a></li>
-                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/planter-un-arbre">Plantez un arbre</a></li>
-                 <li style="line-height:37px;"><a href="http://www.planete-urgence.org/boutique">Boutique</a></li>
-                  </ul>   
-                     
-                </div>
-                
-                
-            <div class="col_2">
-                <h2 style="margin-top:5px; padding-top:0;">Partagez sur les r&eacute;seaux sociaux !</h2>
-            </div>
-            
-            <div class="col_2">
-            <div class="col_1">
-                <ul class="greybox">
-                <li style="line-height:40px;"><a href="http://www.facebook.com/planete.urgence" target="_blank"><img id="facebook2" src="http://www.planete-urgence.org/images/icones/icone-facebook.png" width="32" height="32" border="0" class="img_left" />Facebook</a></li>
-                <li style="line-height:40px;"><a href="http://twitter.com/#!/PlaneteUrgence" target="_blank"><img id="twitter2" src="http://www.planete-urgence.org/images/icones/icone-twitter.png" width="32" height="32" border="0" class="img_left" />Twitter</a></li>
-                </ul>
-            </div>
-            
-            <div class="col_1">
-                <ul class="greybox">
-                <li style="line-height:40px;"><a href="http://www.youtube.com/user/planete1urgence" target="_blank"><img id="youtube2" src="http://www.planete-urgence.org/images/icones/icone-youtube.png" width="32" height="32" border="0" class="img_left" />YouTube</a></li>
-                <li style="line-height:40px;"><a href="https://plus.google.com/+planeteurgence/" target="_blank"><img id="googleplus2" src="http://www.planete-urgence.org/images/icones/icone-googleplus.png" width="32" height="32" border="0" class="img_left" />Google+</a></li> 
-                </ul>
-            </div> 
-            
-            </div>
-            
-            <div class="col_2">
-                <h2 style="margin-top:5px; padding-top:0;">Actualit&eacute; collecte</h2>
-            </div>
-           
-            <div class="col_2">
-            
-                <div class="pointer">
-                <img src="../images/Articles/6617.jpg" width="70" height="53" class="img_left imgshadow" alt="" />
-              <p><a href="http://www.planete-urgence.org/actualites/article,6617_.htm">Collecte : Un livre Â« Dans ma poche Â» = 1 arbre plantÃ© dans une forÃªt !</a>Lorette Berger et Fanny Rouyer, auteur et...<a href="http://www.planete-urgence.org/actualites/article,6617_.htm" style="text-align:right;">Lire la suite...</a></p>
-              </div>
-			
-            
-		</div>
-    </li>
-    
-    
-    <!-- Fin Menu Agir -->
 </ul>
 
 </div>
 
-<div id="menuprincipal2" style="position: relative; left:600px; top:32px; width:210px;">
+<div id="menuprincipal2" style="position: relative; left:600px; top:32px; width:310px;">
 <ul id="menuasso">
     
-    <li><a href="http://www.planete-urgence.org/association/association.htm" class="drop">L'association</a>
+    <li><a href="http://www.planete-urgence.org/association/?langue=en" class="drop">The association</a>
     	<div class="dropdown_1column align_right">
         
                 <div class="col_1">
                 
                     <ul class="simple">
-                        <li><a href="http://www.planete-urgence.org/association/association.htm">Qui sommes-nous ?</a></li>
-                        <li><a href="http://www.planete-urgence.org/association/ils-font-l-association.htm">Ils font l'association</a></li>
-                        <li><a href="http://www.planete-urgence.org/association/recrutement.htm">Postulez chez Plan&egrave;te Urgence</a></li>
-                        <li><a href="http://www.planete-urgence.org/association/contactez-nous.htm">Contactez-nous</a></li>
-                        <li><a href="http://www.planete-urgence.org/partenariats/partenaires.htm">Nos partenaires</a></li>
-                         <li style="padding-top:10px; padding-bottom:0; border-top:1px dotted #6F685F;"><a href="http://www.planete-urgence.org/presse">Espace Presse</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/the-association.htm">Who we are</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/who-is-who.htm">Who's who in the association</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/contact-us.htm">Contact us</a></li>
                         
                     </ul>   
                      
@@ -354,45 +236,48 @@ cacheId('popupdossiercs');
                 
 		</div>
     </li>
+  
     
-    <li><a href="http://www.planete-urgence.org/actualites/revue-de-presse.htm" class="drop">M&eacute;diath&egrave;que</a>
+    <li><a href="http://www.planete-urgence.org/association/make-a-donation.htm" class="drop">Support us!</a>
     	<div class="dropdown_1column align_right">
         
                 <div class="col_1">
                 
                     <ul class="simple">
-                    	<li><a href="http://www.planete-urgence.org/actualites/revue-de-presse.htm">Revue de presse</a></li>
-                        <li><a href="http://www.planete-urgence.org/actualites/actualites.htm">Derni&egrave;res actualit&eacute;s</a></li>
-                        <li><a href="http://www.planete-urgence.org/actualites/lettres-d-information.htm">Lettres d'information</a></li>
-                        <li><a href="http://www.planete-urgence.org/mediatheque/videos.htm">Vid&eacute;os / Audios</a></li>
-                        <li><a href="http://www.planete-urgence.org/mediatheque/le-logo-planete-urgence.htm">Logo</a></li>
-                        <li style="padding-top:10px; padding-bottom:0; border-top:1px dotted #6F685F;"><a href="http://www.planete-urgence.org/presse">Espace Presse</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/make-a-donation.htm">Make a donation</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=adherer">Membership</a></li>
+                        <li><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire-missions.htm">Short-Term Volunteer Assignments</a></li>
+                        <li style="padding-top:10px; border-top:1px dotted #6F685F;"><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=arbre">Plant a tree</a></li>
+                        <li style="padding-top:10px; border-top:1px dotted #6F685F; line-height:20px;"><a style="cursor:default; color:#000000;">Share...</a></li>
+                        <li style="line-height:30px;"><a href="http://www.facebook.com/share.php?u=http://www.planete-urgence.org" target="_blank"><img id="facebook2" src="http://www.planete-urgence.org/images/icones/icone-facebook.png" width="22" height="22" border="0" class="img_left" title="Partagez notre site internet sur Facebook !">...on Facebook</a></li>
+                        <li style="line-height:30px;"><a href="http://twitter.com/home?status=Site internet de @PlaneteUrgence : http://www.planete-urgence.org" target="_blank"><img id="twitter2" src="http://www.planete-urgence.org/images/icones/icone-twitter.png" width="22" height="22" border="0" class="img_left" title="Twittez notre site internet !">...via Twitter</a></li>
                     </ul>   
                      
                 </div>
                 
 		</div>
     </li>
+
 </ul>
 </div>	</div>
     
 </div>
 
-</div></div>
+</div>
 
         
-        <div id="centerpage">
+        <div id="centerpage" style="margin-top:50px;">
 			<div>
-                <img src="http://www.planete-urgence.org/images/upload/don-arbre-1E1A.jpg" width="1000" height="257" />
+                <img src="http://www.planete-urgence.org/images/upload/don-arbre-1E1A.jpg" width="1000" height="257">
 <div id="corps" class="corps" style="position:relative; width:100%; min-height:800px ;">
 
 
 <!-- operations spÃÂ©ciale entreprise -->
-<p>Your donation will go towards the "1 &euro; = 1 Tree Planted" program.  Alternately, if you wish, you could earmark your donation to the following projects :
+<p>Your donation will go towards the "1 € = 1 Tree Planted" program.  Alternately, if you wish, you could earmark your donation to the following projects :
 <a href="../don-haiti">Haiti</a>, <a href="../don-kits-scolaires">School Kits</a>, <a href="../don-aide-et-securite-alimentaires-prioritaires-au-mali">Priority Aid and Food Security</a> in Mali, 
-or you could <a href="http://www.planete-urgence.org/association/make-a-donation.htm?langue=en" > let Planet Urgence allocate your donation according to our projects' needs</a>
+or you could <a href="http://www.planete-urgence.org/association/make-a-donation.htm?langue=en"> let Planet Urgence allocate your donation according to our projects' needs</a>
 .</p>
-<p> If you represent a businees and wish to put the 1 &euro; = 1 Tree Planted program on your product, <a href="http://www.planete-urgence.org/association/contact-us.htm?langue=en" >contact us here.</a></p>
+<p> If you represent a businees and wish to put the 1 € = 1 Tree Planted program on your product, <a href="http://www.planete-urgence.org/association/contact-us.htm?langue=en">contact us here.</a></p>
 <h2 style="padding-top:10px;">Transnational Giving Europe (TGE) program</h2>
 <p>If you wish to make a donation to PU for one of our programs including STVA while benefiting directly from the tax advantages provided for in the legislation of your country of residence, you can do so through the Transnational Giving Europe (TGE) program.</p>
 <p>TGE is currently operational for donations from and to Belgium, Bulgaria, Germany, Hungary, Ireland, Italy, Luxembourg, the Netherlands, Poland, Romania, Slovakia, Slovenia, Switzerland and the United Kingdom.</p>
@@ -405,52 +290,52 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
 <div id="textecorpsdon1">
 	
     <table width="310" cellpadding="0" cellspacing="0" border="0">
-		<tr>
+		<tbody><tr>
   			<td style="padding-bottom:5px;"><h1 style="color:#000000;">
-            My&nbsp;donation&nbsp;to&nbsp;the&nbsp;"1&euro;&nbsp;=&nbsp;1&nbsp;tree&nbsp;planted"&nbsp;program</h1></td>
+            My&nbsp;donation&nbsp;to&nbsp;the&nbsp;"1€&nbsp;=&nbsp;1&nbsp;tree&nbsp;planted"&nbsp;program</h1></td>
 		</tr>
         		<tr>
 			<td style="width:280px; min-height:245px; margin:0 auto; background-color:#CCCCCC; padding:10px; -moz-border-radius:10px; -webkit-border-radius:10px; -khtml-border-radius:10px; border-radius:10px;">
 <table width="280" cellspacing="0" cellpadding="0" border="0">
-  					<tr id="lignedonlibre">
+  					<tbody><tr id="lignedonlibre">
   					  <td valign="top" align="center" style="padding-bottom:20px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-  					    <tr>
-  					      <td><label><h3 style="color:#000000;"><input type="radio" name="regularite" value="1" id="regularite_1" onclick="document.forms.don.action2.value = ''; document.forms.don.action.value='Don libre'; afficheId('paiementchk');" checked="checked" >
+  					    <tbody><tr>
+  					      <td><label><h3 style="color:#000000;"><input type="radio" name="regularite" value="1" id="regularite_1" onclick="document.forms.don.action2.value = ''; document.forms.don.action.value='Don libre'; afficheId('paiementchk');" checked="checked">
 				          &nbsp;Make a <span style="color:#990099;">one-time donation</span></h3></label></td>
 				        </tr>
   					    <tr>
-  					      <td><label><h3 style="color:#000000;"><input type="radio" name="regularite" value="0" id="regularite_0" onclick="faireundonregulier('montant'); cacheId('paiementchk');" >
+  					      <td><label><h3 style="color:#000000;"><input type="radio" name="regularite" value="0" id="regularite_0" onclick="faireundonregulier('montant'); cacheId('paiementchk');">
   					        &nbsp;Make a <span style="color:#990099;">monthly donation</span></h3></label></td>
 				        </tr>
-				      </table></td>
+				      </tbody></table></td>
 		  </tr>
   					
   					<tr>
     					<td valign="top">
       						<table border="0" cellspacing="0" cellpadding="0">
-        						<tr>
-          						          							<td width="80" ><input  type="radio" name="montantfixe" value="0" id="montant_0" style="display:none;" ><label><h1 style="color:#990099;"><input checked="checked" type="radio" name="montantfixe" value="50" id="montant_50" onclick="focusfaireundon('montant_50','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_50','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }">&nbsp;50&euro;</h1></label></td>
-          							<td width="80"><label><h1 style="color:#990099;"><input  type="radio" name="montantfixe" value="100" id="montant_100" onclick="focusfaireundon('montant_100','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_100','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }" >&nbsp;100&euro;</h1></label></td>
-                                    <td width="100"><label><h1 style="color:#990099;"><input  type="radio" name="montantfixe" value="150" id="montant_150" onclick="focusfaireundon('montant_150','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_150','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }">&nbsp;150&euro;</h1></label></td>
+        						<tbody><tr>
+          						          							<td width="80"><input type="radio" name="montantfixe" value="0" id="montant_0" style="display:none;"><label><h1 style="color:#990099;"><input checked="checked" type="radio" name="montantfixe" value="50" id="montant_50" onclick="focusfaireundon('montant_50','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_50','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }">&nbsp;50€</h1></label></td>
+          							<td width="80"><label><h1 style="color:#990099;"><input type="radio" name="montantfixe" value="100" id="montant_100" onclick="focusfaireundon('montant_100','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_100','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }">&nbsp;100€</h1></label></td>
+                                    <td width="100"><label><h1 style="color:#990099;"><input type="radio" name="montantfixe" value="150" id="montant_150" onclick="focusfaireundon('montant_150','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_150','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }">&nbsp;150€</h1></label></td>
                                 </tr>
-        					</table>
+        					</tbody></table>
       					</td>
   					</tr>
  					 <tr>
     					<td valign="top" style="padding-bottom:20px;;"><table border="0" cellspacing="0" cellpadding="0">
-    					  <tr>
+    					  <tbody><tr>
     					    <td width="110"><p>Montant libre :</p></td>
-    					    <td><input name="montantlibre" type="text" id="montantlibre" size="10" maxlength="5" value="" class="inputtexteoff2" style="font-family: 'Open Sans Condensed',Verdana,Arial, sans-serif; font-weight:bold; font-size:18px; text-align:center;" onfocus="focusform('montantlibre','inputtexteon2'); focusfaireundon('montantlibre','montant_0','0','dedfisdonop','Don kit scolaire'); schemacomptetypefocus('50','dedfisschema1','dedfisschema2'); this.value = '';  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }"  onKeyPress="if((event.keyCode < 45 || event.keyCode > 57) && event.keyCode > 31 && event.keyCode != 43) event.returnValue = false; if((event.which < 45 || event.which > 57) && event.which > 31 && event.which != 43) return false;  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }" onKeyUp="keyupfaireundon('montantlibre','dedfisdonop'); schemacomptetype('montantlibre','dedfisschema1','dedfisschema2');" onBlur="focusform('montantlibre','inputtexteoff2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }" /></td>
-    					    <td><h1 style="color:#990099;">&nbsp;&euro;</h1><input type="hidden" id="tauxdeduction" name="tauxdeduction" value="0.66" /></td>
+    					    <td><input name="montantlibre" type="text" id="montantlibre" size="10" maxlength="5" value="" class="inputtexteoff2" style="font-family: 'Open Sans Condensed',Verdana,Arial, sans-serif; font-weight:bold; font-size:18px; text-align:center;" onfocus="focusform('montantlibre','inputtexteon2'); focusfaireundon('montantlibre','montant_0','0','dedfisdonop','Don kit scolaire'); schemacomptetypefocus('50','dedfisschema1','dedfisschema2'); this.value = '';  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }" onkeypress="if((event.keyCode < 45 || event.keyCode > 57) &amp;&amp; event.keyCode > 31 &amp;&amp; event.keyCode != 43) event.returnValue = false; if((event.which < 45 || event.which > 57) &amp;&amp; event.which > 31 &amp;&amp; event.which != 43) return false;  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }" onkeyup="keyupfaireundon('montantlibre','dedfisdonop'); schemacomptetype('montantlibre','dedfisschema1','dedfisschema2');" onblur="focusform('montantlibre','inputtexteoff2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }"></td>
+    					    <td><h1 style="color:#990099;">&nbsp;€</h1><input type="hidden" id="tauxdeduction" name="tauxdeduction" value="0.66"></td>
   					      </tr>
-  					  </table>
+  					  </tbody></table>
    					    </td>
   					</tr>
   					<tr>
     					<td valign="top" style="padding-bottom:20px;;"></td>
   					</tr>
     				<tr id="deductionfiscale1">
-    					<td><input name="dedfisdonop" style="text-align:center;" class="inputdedfis2" type="text" id="dedfisdonop" size="60" value="Votre don vous co&ucirc;tera 34 &euro; apr&egrave;s d&eacute;duction fiscale (66%)." readonly ></td>
+    					<td><input name="dedfisdonop" style="text-align:center;" class="inputdedfis2" type="text" id="dedfisdonop" size="60" value="Votre don vous coûtera 34 € après déduction fiscale (66%)." readonly=""></td>
     				</tr>
     				<tr>
     				 <!-- <td id="repartdon" style="height:265px; background:url(http://www.planete-urgence.org/images/action/repartition-cout-don-66pc-1.png); background-repeat:no-repeat; vertical-align:top;"><div style="text-align:center; padding-left:100px; padding-top:37px;">
@@ -461,10 +346,10 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
     </div></td>
   				  </tr> //-->
     				
-				</table>
+				</tr></tbody></table>
 			</td>
 		</tr>
-        	</table>
+        	</tbody></table>
 </div>
 <!-- Fin calque DON -->
                 
@@ -863,7 +748,7 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
                 
 <!-- Calque PAIEMENT -->
 <div id="textecorpsdon3" class="corps" style="float:left; width:220px; left:710px; font-size:12px; line-height:15px; text-align:justify; min-height:650px;">
-	<form id="don" action="" method="post" name="don" onsubmit="if(document.getElementById('typecompte').value == 'entreprise') { return validationdonentreprise(); } else { return validationdonparticulier(); } "><input name="montant" id="montant" type="hidden" value="50" /><input name="EMAIL" id="EMAIL" type="hidden" value="" /><input name="PREFIXE" id="PREFIXE" type="hidden" value="0" /><input name="typecompte" id="typecompte" type="hidden" value="particulier" /><input name="NOM_ST" id="NOM_ST" type="hidden" value="" /><input name="NOM" id="NOM" type="hidden" value="" /><input name="PRENOM" id="PRENOM" type="hidden" value="" /><input name="TITRE_CO" id="TITRE_CO" type="hidden" value="" /><input name="ADR1" id="ADR1" type="hidden" value="" /><input name="ADR2" id="ADR2" type="hidden" value="" /><input name="CODEPOSTAL" id="CODEPOSTAL" type="hidden" value="" /><input name="VILLE" id="VILLE" type="hidden" value="" /><input name="PAYS" id="PAYS" type="hidden" value="FRANCE" /><input name="Ddate" id="Ddate" type="hidden" value="2015-03-19" /><input name="DType" id="DType" type="hidden" value="9" /><input name="DPaiment" id="DPaiment" type="hidden" value="" /><input name="action" id="action" type="hidden" value="Don reforestation" /><input name="action2" id="action2" type="hidden" value="" /><input name="diffusion" id="diffusion" size="2" type="hidden" value="1" /><input name="connectnbr" id="connectnbr" type="hidden" value="" />
+	<form id="don" action="" method="post" name="don" onsubmit="if(document.getElementById('typecompte').value == 'entreprise') { return validationdonentreprise(); } else { return validationdonparticulier(); } "><input name="montant" id="montant" type="hidden" value="50"><input name="EMAIL" id="EMAIL" type="hidden" value=""><input name="PREFIXE" id="PREFIXE" type="hidden" value="0"><input name="typecompte" id="typecompte" type="hidden" value="particulier"><input name="NOM_ST" id="NOM_ST" type="hidden" value=""><input name="NOM" id="NOM" type="hidden" value=""><input name="PRENOM" id="PRENOM" type="hidden" value=""><input name="TITRE_CO" id="TITRE_CO" type="hidden" value=""><input name="ADR1" id="ADR1" type="hidden" value=""><input name="ADR2" id="ADR2" type="hidden" value=""><input name="CODEPOSTAL" id="CODEPOSTAL" type="hidden" value=""><input name="VILLE" id="VILLE" type="hidden" value=""><input name="PAYS" id="PAYS" type="hidden" value="FRANCE"><input name="Ddate" id="Ddate" type="hidden" value="2015-03-19"><input name="DType" id="DType" type="hidden" value="9"><input name="DPaiment" id="DPaiment" type="hidden" value=""><input name="action" id="action" type="hidden" value="Don reforestation"><input name="action2" id="action2" type="hidden" value=""><input name="diffusion" id="diffusion" size="2" type="hidden" value="1"><input name="connectnbr" id="connectnbr" type="hidden" value="">
     
     <table id="paiementcb" width="320" cellpadding="0" cellspacing="0" border="0">
 		<tbody><tr>
@@ -961,5 +846,5 @@ $(".bullereseausociaux").tipTip({defaultPosition: "right", maxWidth: "150px", ed
 		imageBtnNext: '../images/lightbox/next2.png'
 	   });
 	</script>
-	</body>
-</html>
+	
+</div></div></body></html>

@@ -1,0 +1,852 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+    <head>
+    	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+        <title>Association Plan&egrave;te Urgence</title>
+        <meta name="description" content="L'association vous aide à agir en faveur des pays du Sud pour renforcer leur autonomie et protéger leur environnement : partez 15 jours en mission de Congé Solidaire ou soutenez notre programme Environnement & Développement." />
+		<meta name="keywords" content="" />
+		<meta name="organization" content="Planète Urgence, 39 rue Crozatier, 75012 Paris, France" />
+		<meta name="author" content="Steven" />
+        
+        <meta property="og:title" content="" />
+        <meta property="og:type" content="non_profit" />
+        <meta property="og:url" content="http://www.planete-urgence.org/" />
+        <meta property="og:image" content="" />
+        <meta property="og:site_name" content="Planète Urgence, 39 rue Crozatier, 75012 Paris, France" />
+        <meta property="fb:admins" content="100004107064963" />
+        <meta property="og:description" content="L'association vous aide ?gir en faveur des pays du Sud pour renforcer leur autonomie et prot?r leur environnement : partez 15 jours en mission de Cong?olidaire ou soutenez notre programme Environnement & D?loppement." />
+        
+        <!--<meta name="ROBOTS" content="NOINDEX,NOFOLLOW">-->
+		<meta name="robots" content="index">
+		<meta name="REVISIT-AFTER" content="7 days">
+        <link rel="shortcut icon" href="../images/logos/favicon.ico">
+        <link rel="stylesheet" href="../css/global.css" type="text/css" media="screen"/>
+        <link rel="stylesheet" href="../css/jscrollpane.css" type="text/css" media="screen"/>
+        <link rel="stylesheet" href="../css/clipintro.css" type="text/css" media="screen"/>
+       <script type="text/javascript" src="../scripts/local.js"></script>
+        <script type="text/javascript" src="../scripts/form.js"></script>
+		<script type="text/javascript" src="../scripts/flash.js"></script>
+		<script type="text/javascript" src="../scripts/swfobject.js"></script>
+        <script language="javascript" type="text/javascript" src="../LofSlider/js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="../LofSlider/js/jquery.easing.js"></script>
+<script language="javascript" type="text/javascript" src="../LofSlider/js/script.js"></script>
+<script type="text/javascript" src="../scripts/jquery.tipTip.js"></script>
+<script type="text/javascript" src="../scripts/mousewheel.js"></script>
+<script type="text/javascript" src="../scripts/mwheelIntent.js"></script>
+<script type="text/javascript" src="../scripts/jscrollpane.min.js"></script>
+    </head>
+
+    <body>
+    
+    	<div id="popup">
+		        </div>
+        
+        <script>
+		afficheId('popup');
+        </script>
+        
+    	<div id="header" class="header" style="position:relative; z-index:100001;"> <form id="deconnexion" method="post" action="" >
+    <input id="CON" name="CON" type="hidden" value="DECONNECT" />
+    <input name="MONPANIER" id="MONPANIER" type="hidden" value="" />
+	</form>
+
+<div id="popupconnexion"><div id="popupconnexionbg"></div>
+<div id="popupconnexioncorps" class="popupcorps">
+<p class="popupfermer"><a onClick="cacheId('popupconnexion');" >x</a></p>
+<h4>Login to your account</h4>
+<form id="connexion" method="post" action="" onsubmit="return validationconnexion();">
+
+<table width="320" border="0" cellspacing="0" cellpadding="0" style="padding-bottom:20px;">
+  <tr>
+    <td><p><label><input type="radio" name="connexion_select" value="particulier" id="connexion_select_0" checked="checked" />
+    &nbsp;I volunteer or donor and connects me personally</label>
+    </p></td>
+  </tr>
+  <tr>
+    <td><p><label><input type="radio" name="connexion_select" value="entreprise" id="connexion_select_1" />&nbsp;I connect to my company name</label>
+    </p></td>
+  </tr>
+  <!--<tr>
+    <td><p><label><input type="radio" name="connexion_select" value="porteur" id="connexion_select_2" />&nbsp;Je me connecte en tant que porteur de projet</label></p></td>
+  </tr>-->
+</table>
+
+<table width="320" border="0" cellspacing="0" cellpadding="0" style="padding-bottom:20px;">
+  <tr>
+    <td width="80"><p>Login</p></td>
+    <td><input type="text" id="login" name="login" size="20" class="popupinputtexteoff" onFocus="focusform('login','popupinputtexteon'); if(this.value == 'login') { this.value='' ; } if(this.form.password.value == 'password') { this.form.password.value ='' ; }" onBlur="focusform('login','popupinputtexteoff');" value="login" /></td>
+  </tr>
+  <tr>
+    <td width="80"><p>Password</p></td>
+    <td><input type="password" id="password" name="password" size="20" class="popupinputtexteoff" onFocus="focusform('password','popupinputtexteon'); if(this.value == 'password') { this.value ='' ; }" onBlur="focusform('password','popupinputtexteoff');" value="password" /></td>
+  </tr>
+</table>
+
+<table width="320" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="right"><input type="hidden" name="action" id="action" value="monespace" /><input type="hidden" name="action2" id="action2" value="" /><input type="hidden" name="mission1" id="mission1" value="" /><input type="hidden" name="mission2" id="mission2" value="" /><input type="hidden" name="mission3" id="mission3" value="" /><input type="hidden" name="montantconnect" id="montantconnect" value="" /><input type="hidden" name="idtemporaire" id="idtemporaire" value="" /><input id="CON" name="CON" type="hidden" value="CONNECT" /><input type="submit" id="submit2" name="submit2" value="Connection" class="popupbouton" /></td>
+    <td width="120" align="right"><input type="button" id="boutonannuler" name="boutonannuler" value="Cancel" class="popupbouton" onClick="cacheId('popupconnexion');" /></td>
+  </tr>
+</table>
+
+</form>
+</div></div>
+<script>
+cacheId('popupconnexion');
+</script>
+
+<div id="popupmiseajour"><div id="popupconnexionbg"></div>
+<div id="popupconnexioncorps" class="popupcorps" style="min-height:30px;">
+<p class="popupfermer"><a href="">x</a></p>
+<h4>Your account has been updated</h4>
+<p style="text-align:center;"><a href="">Click to return to application form</a></p>
+</div></div>
+<script>
+cacheId('popupmiseajour');</script>
+
+
+<div id="popupdossiercs"><div id="popupconnexionbg"></div>
+<div id="popupconnexioncorps" class="popupcorps">
+<p class="popupfermer"><a onClick="cacheId('popupdossiercs');" >x</a></p>
+<h4>Your application for a STVA</h4>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:0 0 10px 0 ;">
+	</table>
+</div></div>
+<script>
+cacheId('popupdossiercs');
+</script>
+    
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_cs_ed.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_asso.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_second.css" type="text/css" media="screen" />
+
+<div id="headercenterpage" class="header" style="height:80px; margin-top:5px;">
+<div id="headerbaseline" style="background:url(http://www.planete-urgence.org/images/logos/baseline_EN.png) no-repeat;">
+</div>
+<div id="header1" style="position:absolute; float:left; width:180px; line-height:normal; height:70px; vertical-align:bottom;">
+<a href="http://www.planete-urgence.org/?langue=en"><img src="http://www.planete-urgence.org/images/logos/logo-planete-urgence-177_EN.png" width="177" border="0"></a>
+</div>
+
+<div id="header2" style="position:relative; left:180px; width:820px;">
+	<div id="header2haut" style="width:830px; height:60px; vertical-align:top;">
+    	<div id="menusec1">
+<div id="selectlangue">
+    <table width="50" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50" align="left"><a href="http://www.planete-urgence.org/association/faire-un-don.htm?langue=fr"><img src="http://www.planete-urgence.org/images/icones/drapeau_fr_off.png" width="50" height="50" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/drapeau_fr_on.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/drapeau_fr_off.png';" /></a></td>
+  </tr>
+</table>
+</div>
+<div id="connectionoff" class="connectionoff pointer" onClick="afficheId('popupconnexion');" onmouseover="document.getElementById('connectionoff').className = 'connectionon pointer';" onmouseout="document.getElementById('connectionoff').className = 'connectionoff pointer';">Your account</div>
+
+
+</div>
+
+	</div>
+    
+    
+    <div id="header2bas" style="height:43px; margin-top:-36px;">
+    	<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_cs_ed.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_asso.css" type="text/css" media="screen" />
+
+<div id="menuprincipal1" style="position:absolute; width:500px;">
+<ul id="menucsed">
+
+	<!-- D&eacute;but Menu CS -->
+    
+    <li><a href="http://www.planete-urgence.org/conge-solidaire/?langue=en" class="drop">Short-Term Volunteer Assignment</a>
+    
+      <div class="dropdown_2columns">
+        
+            <div class="col_2">
+                <h2>At the request of a local organization (associations, women's groups, artisans, cooperatives, educational networks, scientific partners) the STVA program allows you to be involved in a short-term assignment (2 to 4 weeks).</h2>
+        </div>
+            
+            <div class="col_1">
+            	<ul class="greybox">
+                    <li style="line-height:37px; background:#990099;" onmouseover="this.style.backgroundColor='#333333';" onmouseout="this.style.backgroundColor='#990099';"><a id="menupartez" href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire-missions.htm" style="color:#FFFFFF;">Find and display STVA</a></li>
+                    <li><a href="http://www.planete-urgence.org/conge-solidaire/countries-in-which-conge-solidaire-is-involved.htm">Countries of operation</a></li>
+                </ul>
+            </div>
+            
+            <div class="col_1">
+            	<ul class="greybox">
+                	<li style="line-height:37px;"><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire.htm">What is STVA?</a></li>
+                    <li style="line-height:37px;"><a href="http://www.planete-urgence.org/conge-solidaire/funding-conge-solidaire.htm">Funding STVA</a></li>
+                    
+                    
+                </ul>
+            </div>
+            
+            
+           
+        
+        </div>
+        
+	</li>
+    
+    <!-- Fin Menu CS -->
+
+	<!-- Debut Menu ED -->
+    
+    <li><a href="http://www.planete-urgence.org/environnement-et-developpement/?langue=en" class="drop">Environment & Development</a>
+    
+        <div class="dropdown_2columns">
+        
+            <div class="col_2">
+                <h2>Offering support to local organizations in their project, reconciling the development of economic activities and environmental protection: these are the issues addressed by the "Environment & Development" program that was implemented in 2006 by PU.</h2>
+            </div>
+            
+            <div class="col_1">
+            	<ul class="greybox">
+                <li  style="line-height:37px; background:#990099;" onmouseover="this.style.backgroundColor='#333333';" onmouseout="this.style.backgroundColor='#990099';"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development.htm" style="color:#FFFFFF;">The program</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-haiti.htm">Haiti</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-indonesia.htm">Indonesia</a></li>
+                </ul>
+            </div>
+            
+            <div class="col_1">
+            	<ul class="greybox">
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=arbre">Plant a tree!</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-madagascar.htm">Madagascar</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-mali.htm">Mali</a></li>
+                </ul> 
+            </div>
+        </div>
+        
+	</li>
+    
+    <!-- Fin Menu ED -->
+</ul>
+
+</div>
+
+<div id="menuprincipal2" style="position: relative; left:600px; top:32px; width:310px;">
+<ul id="menuasso">
+    
+    <li><a href="http://www.planete-urgence.org/association/?langue=en" class="drop">The association</a>
+    	<div class="dropdown_1column align_right">
+        
+                <div class="col_1">
+                
+                    <ul class="simple">
+                        <li><a href="http://www.planete-urgence.org/association/the-association.htm">Who we are</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/who-is-who.htm">Who's who in the association</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/contact-us.htm">Contact us</a></li>
+                        
+                    </ul>   
+                     
+                </div>
+                
+		</div>
+    </li>
+  
+    
+    <li><a href="http://www.planete-urgence.org/association/make-a-donation.htm" class="drop">Support us!</a>
+    	<div class="dropdown_1column align_right">
+        
+                <div class="col_1">
+                
+                    <ul class="simple">
+                        <li><a href="http://www.planete-urgence.org/association/make-a-donation.htm">Make a donation</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=adherer">Membership</a></li>
+                        <li><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire-missions.htm">Short-Term Volunteer Assignments</a></li>
+                        <li style="padding-top:10px; border-top:1px dotted #6F685F;"><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=arbre">Plant a tree</a></li>
+                        <li style="padding-top:10px; border-top:1px dotted #6F685F; line-height:20px;"><a style="cursor:default; color:#000000;">Share...</a></li>
+                        <li style="line-height:30px;"><a href="http://www.facebook.com/share.php?u=http://www.planete-urgence.org" target="_blank"><img id="facebook2" src="http://www.planete-urgence.org/images/icones/icone-facebook.png" width="22" height="22" border="0" class="img_left" title="Partagez notre site internet sur Facebook !" />...on Facebook</a></li>
+                        <li style="line-height:30px;"><a href="http://twitter.com/home?status=Site internet de @PlaneteUrgence : http://www.planete-urgence.org" target="_blank"><img id="twitter2" src="http://www.planete-urgence.org/images/icones/icone-twitter.png" width="22" height="22" border="0" class="img_left" title="Twittez notre site internet !" />...via Twitter</a></li>
+                    </ul>   
+                     
+                </div>
+                
+		</div>
+    </li>
+
+</ul>
+</div>	</div>
+    
+</div>
+
+</div></div>
+
+        
+        <div id="centerpage">
+			<div>
+                <img src="http://www.planete-urgence.org/images/upload/don-libre.jpg" width="1000" height="257" />
+<div id="corps" class="corps" style="position:relative; width:100%; min-height:800px ;">
+
+
+
+<!-- operations spÃ©ciale entreprise -->
+<h2 sytle = "padding-top:30px;">Where Your Donation Goes</h2>
+<p>Planet Urgence will assign your donation according to the needs of our projects.  The efficiency of our operations rests on your trust in our allocation of your donation.  However, if you wish, you can earmark your donation to one of the following projects:
+ <a href=">http://www.planete-urgence.org/planter-un-arbre">1 &euro; = 1 Tree Planted </a>, 
+ <a href="http://www.planete-urgence.org/don-haiti"> Haiti </a>, 
+ <a href="<a href="../don-kits-scolaires">Kits Scolaires">School Kits</a>, or
+ <a href="http://www.planete-urgence.org/don-aide-et-securite-alimentaires-prioritaires-au-mali" > Malien Aid and Food Security </a> </p>
+<h2 style="padding-top:30px;">Transnational Giving Europe (TGE) program</h2>
+<p>If you wish to make a donation to PU for one of our programs including STVA while benefiting directly from the tax advantages provided for in the legislation of your country of residence, you can do so through the Transnational Giving Europe (TGE) program.</p>
+<p>TGE is currently operational for donations from and to Belgium, Bulgaria, Germany, Hungary, Ireland, Italy, Luxembourg, the Netherlands, Poland, Romania, Slovakia, Slovenia, Switzerland and the United Kingdom.</p>
+<p>Transnational Giving Europe (TGE) is a partnership of leading European foundations and associations that facilitates tax-efficient cross-border giving within Europe. The TGE network enables donors, both corporations and individuals, resident in one of the participating countries, to financially support non-profit organisations in other member countries, while benefiting directly from the tax advantages provided for in the legislation of their country of residence.</p>
+<p><strong>If you wish to make a donation to PU for one our programs including the STVA, you have to contact the foundation in your country of residence. The foundation will transfer your donation to PU via the Fondation de France and then provide you with a tax receipt.</strong></p>
+<p>You can also contact Myriam Meskar, donors relation manager, she will guide you through this process. +33 (0)1 43 40 42 00.</p>
+<p style="padding-bottom:20px;"><a href="../documents/association/Transnational-Giving-Europe.pdf" target="_blank">Download Contact Details of the TGE partners</a> (pdf - 500ko)</p> 
+<!-- Calque DON -->
+<div id="textecorpsdon1">
+	
+    <table width="310" cellpadding="0" cellspacing="0" border="0">
+		<tr>
+  			<td style="padding-bottom:5px;"><h1 style="color:#000000;">
+            My donation</h1></td>
+		</tr>
+        		<tr>
+			<td style="width:280px; min-height:245px; margin:0 auto; background-color:#CCCCCC; padding:10px; -moz-border-radius:10px; -webkit-border-radius:10px; -khtml-border-radius:10px; border-radius:10px;">
+<table width="280" cellspacing="0" cellpadding="0" border="0">
+  					<tr id="lignedonlibre">
+  					  <td valign="top" align="center" style="padding-bottom:20px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  					    <tr>
+  					      <td><label><h3 style="color:#000000;"><input type="radio" name="regularite" value="1" id="regularite_1" onclick="document.forms.don.action2.value = ''; document.forms.don.action.value='Don libre'; cacheId('paiementchk');" checked="checked" >
+				          &nbsp;Make a <span style="color:#990099;">one-time donation</span></h3></label></td>
+				        </tr>
+  					    <tr>
+  					      <td><label><h3 style="color:#000000;"><input type="radio" name="regularite" value="0" id="regularite_0" onclick="faireundonregulier('montant'); cacheId('paiementchk');" >
+  					        &nbsp;Make a <span style="color:#990099;">monthly-donation</span></h3></label></td>
+				        </tr>
+				      </table></td>
+		  </tr>
+  					
+  					<tr>
+    					<td valign="top">
+      						<table border="0" cellspacing="0" cellpadding="0">
+        						<tr>
+          						          							<td width="80" ><input  type="radio" name="montantfixe" value="0" id="montant_0" style="display:none;" ><label><h1 style="color:#990099;"><input checked="checked" type="radio" name="montantfixe" value="50" id="montant_50" onclick="focusfaireundon('montant_50','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_50','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }">&nbsp;&euro;50</h1></label></td>
+          							<td width="80"><label><h1 style="color:#990099;"><input  type="radio" name="montantfixe" value="100" id="montant_100" onclick="focusfaireundon('montant_100','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_100','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }" >&nbsp;&euro;100</h1></label></td>
+                                    <td width="100"><label><h1 style="color:#990099;"><input  type="radio" name="montantfixe" value="150" id="montant_150" onclick="focusfaireundon('montant_150','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_150','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }">&nbsp;&euro;150</h1></label></td>
+                                </tr>
+        					</table>
+      					</td>
+  					</tr>
+ 					 <tr>
+    					<td valign="top" style="padding-bottom:10px;;"><table border="0" cellspacing="0" cellpadding="0">
+    					  <tr>
+    					    <td width="100"><p>Other amount:</p></td>
+    					     <td width="20" style="text-align:left;"><h1 style="color:#990099;">&nbsp;&euro;</h1><input type="hidden" id="tauxdeduction" name="tauxdeduction" value="0.66" /></td>
+                             <td><input name="montantlibre" type="text" id="montantlibre" size="10" maxlength="5" value="" class="inputtexteoff2" style="font-family: 'Open Sans Condensed',Verdana,Arial, sans-serif; font-weight:bold; font-size:18px; text-align:center;" onfocus="focusform('montantlibre','inputtexteon2'); focusfaireundon('montantlibre','montant_0','0','dedfisdonop','Don kit scolaire'); schemacomptetypefocus('50','dedfisschema1','dedfisschema2'); this.value = '';  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }"  onKeyPress="if((event.keyCode < 45 || event.keyCode > 57) && event.keyCode > 31 && event.keyCode != 43) event.returnValue = false; if((event.which < 45 || event.which > 57) && event.which > 31 && event.which != 43) return false;  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }" onKeyUp="keyupfaireundon('montantlibre','dedfisdonop'); schemacomptetype('montantlibre','dedfisschema1','dedfisschema2');" onBlur="focusform('montantlibre','inputtexteoff2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }" /></td>
+    					   
+  					      </tr>
+  					  </table>
+   					    </td>
+  					</tr>
+  					<tr>
+    					<td valign="top" style="padding-bottom:10px;;"></td>
+  					</tr>
+    				<tr id="deductionfiscale1">
+    					<td><input name="dedfisdonop" style="text-align:center; display:none;" class="inputdedfis2" type="text" id="dedfisdonop" size="60" value="This donation will cost you 34 euros after tax deduction (66%)." readonly ></td>
+    				</tr>
+    				
+    				
+				</table>
+			</td>
+		</tr>
+        	</table>
+</div>
+<!-- Fin calque DON -->
+                
+<!-- Calque FORMULAIRE -->
+<div id="textecorpsdon2" class="corps" style="float:left; width:350px; left:360px; font-size:12px; line-height:15px; text-align:justify; margin-right:10px; border-right:dotted 1px #666666; padding-left:20px; border-left:dotted 1px #666666; min-height:650px;">
+	<table width="320" cellpadding="0" cellspacing="0" border="0">
+    	<tr>
+        	<td style="padding-bottom:5px;"><h1 style="color:#000000;">My contact</h1></td>
+		</tr>
+		<tr id="connexiondon">
+		  <td style="padding-bottom:5px; width:300px; padding-top:10px; background-color:#CCCCCC; padding:10px; -moz-border-radius:10px; -webkit-border-radius:10px; -khtml-border-radius:10px; border-radius:10px;">
+          <div id="connexiondon0">
+  			    <p style="font-size:10px; color:#990099; padding-bottom:0px;"><a href="#" onclick="afficheId('popupconnexion');return(false);">If you already have account click here</a></p>
+          </div>
+                         
+                
+          </td>
+	  </tr>
+		
+		<tr>
+  			<td style="padding-bottom:5px; padding-top:10px;">Email </td>
+		</tr>
+		<tr>
+   	  		<td width="315" style="padding-bottom:12px;"><input name="EMAIL_PE_ST" id="EMAIL_PE_ST"  type="text" size="48" maxlength="50" class="inputtexteoff" onkeyup="minuscule('EMAIL_PE_ST');dupliquerchamp('EMAIL','EMAIL_PE_ST');" onFocus="focusform('EMAIL_PE_ST','inputtexteon');minuscule('EMAIL_PE_ST');dupliquerchamp('EMAIL','EMAIL_PE_ST');" onBlur="focusform('EMAIL_PE_ST','inputtexteoff');minuscule('EMAIL_PE_ST');dupliquerchamp('EMAIL','EMAIL_PE_ST');" value="" /></td>
+		</tr>
+		<tr>
+		  	<td style="padding-bottom:12px;">
+          		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="30%"><label><input type="radio" name="connexion_select_PE_ST" value="particulier" id="connexion_select_PE_ST_0" onclick="cacheId('formulairestructure'); afficheId('formulaireparticulier');dupliquerchamp('typecompte','connexion_select_PE_ST_0'); document.getElementById('tauxdeduction').value = '0.66'; schemacomptetype('montant','dedfisschema1','dedfisschema2'); document.getElementById('repartdon').style.backgroundImage = 'url(http://www.planete-urgence.org/images/action/repartition-cout-don-66pc-2.png)';" checked="checked" />
+                      Individual</label></td>
+                      <td width="70%"><label><input type="radio" name="connexion_select_PE_ST" value="entreprise" id="connexion_select_PE_ST_1" onclick="cacheId('formulaireparticulier'); afficheId('formulairestructure');dupliquerchamp('typecompte','connexion_select_PE_ST_1'); document.getElementById('tauxdeduction').value = '0.6'; schemacomptetype('montant','dedfisschema1','dedfisschema2'); document.getElementById('repartdon').style.backgroundImage = 'url(http://www.planete-urgence.org/images/action/repartition-cout-don-60pc-2.png)';"  >
+                      Company</label></td>
+                    </tr>
+            	</table>
+			</td>
+	  	</tr>
+	</table>
+    
+    <table id="formulaireparticulier" width="320" cellpadding="0" cellspacing="0" border="0">
+<tr>
+        	<td style=" padding-bottom:5px;">Civility</td>
+      </tr>
+		<tr>
+        	<td width="315" style="padding-bottom:12px;"><select name="PREFIXE_PE" id="PREFIXE_PE" class="inputtexteoff" onFocus="focusform('PREFIXE_PE','inputtexteon');dupliquerchamp('PREFIXE','PREFIXE_PE');" onBlur="focusform('PREFIXE_PE','inputtexteoff');dupliquerchamp('PREFIXE,PREFIXE_PE');" onchange="dupliquerchamp('PREFIXE','PREFIXE_PE');"><option value="0" selected></option><option value="3" >Ms</option><option value="2" >Mr</option></select></td>
+		</tr>
+		<tr>
+  			<td style=" padding-bottom:5px;">Last name </td>
+		</tr>
+		<tr>
+			<td width="315" style="padding-bottom:12px;"><input name="NOM_PE" id="NOM_PE"  type="text" size="48" maxlength="30" class="inputtexteoff" onkeyup="majuscule('NOM_PE');dupliquerchamp('NOM','NOM_PE');" onFocus="focusform('NOM_PE','inputtexteon');majuscule('NOM_PE');dupliquerchamp('NOM','NOM_PE');" onBlur="focusform('NOM_PE','inputtexteoff');majuscule('NOM_PE');dupliquerchamp('NOM','NOM_PE');"  value="" /></td>
+		</tr>
+		<tr>
+  			<td style=" padding-bottom:5px;">First name </td>
+		</tr>
+		<tr>
+			<td width="315" style="padding-bottom:12px;"><input name="PRENOM_PE" id="PRENOM_PE"  type="text" size="48" maxlength="30" class="inputtexteoff" onkeyup="majuscule('PRENOM_PE');dupliquerchamp('PRENOM','PRENOM_PE');" onFocus="focusform('PRENOM_PE','inputtexteon');majuscule('PRENOM_PE');dupliquerchamp('PRENOM','PRENOM_PE');" onBlur="focusform('PRENOM_PE','inputtexteoff');majuscule('PRENOM_PE');dupliquerchamp('PRENOM','PRENOM_PE');" value="" /></td>
+		</tr>
+		<tr>
+			<td style=" padding-bottom:5px;">Mailing address </td>
+		</tr>
+		<tr>
+			<td width="315" style=" padding-bottom:5px;"><input name="ADR1_PE" id="ADR1_PE"  type="text" size="48" maxlength="30" class="inputtexteoff" onkeyup="majuscule('ADR1_PE');dupliquerchamp('ADR1','ADR1_PE');" onFocus="focusform('ADR1_PE','inputtexteon');majuscule('ADR1_PE');dupliquerchamp('ADR1','ADR1_PE');" onBlur="focusform('ADR1_PE','inputtexteoff');majuscule('ADR1_PE');dupliquerchamp('ADR1','ADR1_PE');" value="" /></td>
+		</tr>
+		<tr>
+			<td width="315" style="padding-bottom:12px;"><input name="ADR2_PE" id="ADR2_PE"  type="text" size="48" maxlength="30" class="inputtexteoff" onkeyup="majuscule('ADR2_PE');dupliquerchamp('ADR2','ADR2_PE');" onFocus="focusform('ADR2_PE','inputtexteon');majuscule('ADR2_PE');dupliquerchamp('ADR2','ADR2_PE');" onBlur="focusform('ADR2_PE','inputtexteoff');majuscule('ADR2_PE');dupliquerchamp('ADR2','ADR2_PE');" value="" /></td>
+		</tr>
+		<tr>
+			<td style=" padding-bottom:5px;">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="width:115px; padding-bottom:5px;">Zip code </td>
+						<td style="width:200px; padding-bottom:5px;">Town </td>
+					</tr>
+					<tr>
+						<td style="width:115px; padding-bottom:15px;"><input name="CODEPOSTAL_PE" id="CODEPOSTAL_PE"  type="text" size="10" maxlength="5" class="inputtexteoff" onkeyup="dupliquerchamp('CODEPOSTAL','CODEPOSTAL_PE');" onFocus="focusform('CODEPOSTAL_PE','inputtexteon');dupliquerchamp('CODEPOSTAL','CODEPOSTAL_PE');" onBlur="focusform('CODEPOSTAL_PE','inputtexteoff');dupliquerchamp('CODEPOSTAL','CODEPOSTAL_PE');" value="" /></td>
+						<td style="width:200px; padding-bottom:15px;"><input name="VILLE_PE" id="VILLE_PE"  type="text" size="30" maxlength="50" class="inputtexteoff" onkeyup="majuscule('VILLE_PE');dupliquerchamp('VILLE','VILLE_PE');" onFocus="focusform('VILLE_PE','inputtexteon');majuscule('VILLE_PE');dupliquerchamp('VILLE','VILLE_PE');" onBlur="focusform('VILLE_PE','inputtexteoff');majuscule('VILLE_PE');dupliquerchamp('VILLE','VILLE_PE');" value="" /></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+        <tr>
+			<td style=" padding-bottom:5px;">Country</td>
+		</tr>
+		<tr>
+			<td width="315" style=" padding-bottom:20px;"><select name="PAYS_PE" id="PAYS_PE" class="inputtexteoff" onFocus="focusform('PAYS_PE','inputtexteon');dupliquerchamp('PAYS','PAYS_PE');" onBlur="focusform('PAYS_PE','inputtexteoff');dupliquerchamp('PAYS','PAYS_PE');" onchange="dupliquerchamp('PAYS','PAYS_PE');">
+   	    	   	    	<option value="AFGHANISTAN">AFGHANISTAN</option>
+   	    	   	    	<option value="AFRIQUE DU SUD">AFRIQUE DU SUD</option>
+   	    	   	    	<option value="ALBANIE">ALBANIE</option>
+   	    	   	    	<option value="ALGÉRIE">ALGÉRIE</option>
+   	    	   	    	<option value="ALLEMAGNE">ALLEMAGNE</option>
+   	    	   	    	<option value="ANDORRE">ANDORRE</option>
+   	    	   	    	<option value="ANGOLA">ANGOLA</option>
+   	    	   	    	<option value="ANGUILLA">ANGUILLA</option>
+   	    	   	    	<option value="ANTIGUA-ET-BARBUDA">ANTIGUA-ET-BARBUDA</option>
+   	    	   	    	<option value="ANTILLES NÉERLANDAISES">ANTILLES NÉERLANDAISES</option>
+   	    	   	    	<option value="ARABIE SAOUDITE">ARABIE SAOUDITE</option>
+   	    	   	    	<option value="ARGENTINE - PATAGONIE">ARGENTINE - PATAGONIE</option>
+   	    	   	    	<option value="ARMÉNIE">ARMÉNIE</option>
+   	    	   	    	<option value="ARUBA">ARUBA</option>
+   	    	   	    	<option value="AUSTRALIE">AUSTRALIE</option>
+   	    	   	    	<option value="AUTRICHE">AUTRICHE</option>
+   	    	   	    	<option value="AZERBAÏDJAN">AZERBAÏDJAN</option>
+   	    	   	    	<option value="BAHAMAS">BAHAMAS</option>
+   	    	   	    	<option value="BAHREÏN">BAHREÏN</option>
+   	    	   	    	<option value="BANGLADESH">BANGLADESH</option>
+   	    	   	    	<option value="BARBADE">BARBADE</option>
+   	    	   	    	<option value="BELGIQUE">BELGIQUE</option>
+   	    	   	    	<option value="BELIZE">BELIZE</option>
+   	    	   	    	<option value="BERMUDES">BERMUDES</option>
+   	    	   	    	<option value="BÉLARUS">BÉLARUS</option>
+   	    	   	    	<option value="BÉNIN">BÉNIN</option>
+   	    	   	    	<option value="BHOUTAN">BHOUTAN</option>
+   	    	   	    	<option value="BOLIVIE">BOLIVIE</option>
+   	    	   	    	<option value="BOSNIE-HERZÉGOVINE">BOSNIE-HERZÉGOVINE</option>
+   	    	   	    	<option value="BOTSWANA">BOTSWANA</option>
+   	    	   	    	<option value="BRÉSIL">BRÉSIL</option>
+   	    	   	    	<option value="BRUNÉI DARUSSALAM">BRUNÉI DARUSSALAM</option>
+   	    	   	    	<option value="BULGARIE">BULGARIE</option>
+   	    	   	    	<option value="BURKINA FASO">BURKINA FASO</option>
+   	    	   	    	<option value="BURUNDI">BURUNDI</option>
+   	    	   	    	<option value="CAMBODGE">CAMBODGE</option>
+   	    	   	    	<option value="CAMEROUN">CAMEROUN</option>
+   	    	   	    	<option value="CANADA">CANADA</option>
+   	    	   	    	<option value="CAP-VERT">CAP-VERT</option>
+   	    	   	    	<option value="Cà´TE D'IVOIRE">Cà´TE D'IVOIRE</option>
+   	    	   	    	<option value="CHILI">CHILI</option>
+   	    	   	    	<option value="CHINE">CHINE</option>
+   	    	   	    	<option value="CHYPRE">CHYPRE</option>
+   	    	   	    	<option value="COLOMBIE">COLOMBIE</option>
+   	    	   	    	<option value="COMORES">COMORES</option>
+   	    	   	    	<option value="CONGO">CONGO</option>
+   	    	   	    	<option value="COSTA RICA">COSTA RICA</option>
+   	    	   	    	<option value="CROATIE">CROATIE</option>
+   	    	   	    	<option value="CUBA">CUBA</option>
+   	    	   	    	<option value="DANEMARK">DANEMARK</option>
+   	    	   	    	<option value="DJIBOUTI">DJIBOUTI</option>
+   	    	   	    	<option value="DOMINIQUE">DOMINIQUE</option>
+   	    	   	    	<option value="EL SALVADOR">EL SALVADOR</option>
+   	    	   	    	<option value="ESPAGNE">ESPAGNE</option>
+   	    	   	    	<option value="ESTONIE">ESTONIE</option>
+   	    	   	    	<option value="EX-RÉPUBLIQUE YOUGOSLAVE DE MACÉDOINE">EX-RÉPUBLIQUE YOUGOSLAVE DE MA...</option>
+   	    	   	    	<option value="ÉGYPTE">ÉGYPTE</option>
+   	    	   	    	<option value="ÉMIRATS ARABES UNIS">ÉMIRATS ARABES UNIS</option>
+   	    	   	    	<option value="ÉQUATEUR">ÉQUATEUR</option>
+   	    	   	    	<option value="ÉRYTHRÉE">ÉRYTHRÉE</option>
+   	    	   	    	<option value="ÉTATS-UNIS D'AMÉRIQUE">ÉTATS-UNIS D'AMÉRIQUE</option>
+   	    	   	    	<option value="ÉTHIOPIE">ÉTHIOPIE</option>
+   	    	   	    	<option value="FÉDÉRATION DE RUSSIE">FÉDÉRATION DE RUSSIE</option>
+   	    	   	    	<option value="FIDJI">FIDJI</option>
+   	    	   	    	<option value="FINLANDE">FINLANDE</option>
+   	    	   	    	<option value="FRANCE"selected>FRANCE</option>
+   	    	   	    	<option value="GABON">GABON</option>
+   	    	   	    	<option value="GAMBIE">GAMBIE</option>
+   	    	   	    	<option value="GÉORGIE">GÉORGIE</option>
+   	    	   	    	<option value="GHANA">GHANA</option>
+   	    	   	    	<option value="GIBRALTAR">GIBRALTAR</option>
+   	    	   	    	<option value="GRENADE">GRENADE</option>
+   	    	   	    	<option value="GRÈCE">GRÈCE</option>
+   	    	   	    	<option value="GROENLAND">GROENLAND</option>
+   	    	   	    	<option value="GUADELOUPE">GUADELOUPE</option>
+   	    	   	    	<option value="GUAM">GUAM</option>
+   	    	   	    	<option value="GUATEMALA">GUATEMALA</option>
+   	    	   	    	<option value="GUINÉE">GUINÉE</option>
+   	    	   	    	<option value="GUINÉE ÉQUATORIALE">GUINÉE ÉQUATORIALE</option>
+   	    	   	    	<option value="GUINÉE-BISSAU">GUINÉE-BISSAU</option>
+   	    	   	    	<option value="GUYANA">GUYANA</option>
+   	    	   	    	<option value="GUYANE FRANà§AISE">GUYANE FRANà§AISE</option>
+   	    	   	    	<option value="HAÏTI">HAÏTI</option>
+   	    	   	    	<option value="HONDURAS">HONDURAS</option>
+   	    	   	    	<option value="HONG KONG RÉGION ADMINISTRATIVE SPÉCIALE DEÂ CHINE">HONG KONG RÉGION ADMINISTRATIV...</option>
+   	    	   	    	<option value="HONGRIE">HONGRIE</option>
+   	    	   	    	<option value="ILES D' à…LAND">ILES D' à…LAND</option>
+   	    	   	    	<option value="INDE">INDE</option>
+   	    	   	    	<option value="INDONÉSIE">INDONÉSIE</option>
+   	    	   	    	<option value="IRAN (RÉPUBLIQUE ISLAMIQUE D')">IRAN (RÉPUBLIQUE ISLAMIQUE D')</option>
+   	    	   	    	<option value="IRAQ">IRAQ</option>
+   	    	   	    	<option value="IRLANDE">IRLANDE</option>
+   	    	   	    	<option value="ISLANDE">ISLANDE</option>
+   	    	   	    	<option value="ISRAà«L">ISRAà«L</option>
+   	    	   	    	<option value="ITALIE">ITALIE</option>
+   	    	   	    	<option value="ÎLE DE MAN">ÎLE DE MAN</option>
+   	    	   	    	<option value="ÎLE NORFOLK">ÎLE NORFOLK</option>
+   	    	   	    	<option value="ÎLES ANGLO-NORMANDES">ÎLES ANGLO-NORMANDES</option>
+   	    	   	    	<option value="ÎLES CAÏMANES">ÎLES CAÏMANES</option>
+   	    	   	    	<option value="ÎLES COOK">ÎLES COOK</option>
+   	    	   	    	<option value="ÎLES FALKLAND (MALVINAS)">ÎLES FALKLAND (MALVINAS)</option>
+   	    	   	    	<option value="ÎLES FÉROÉ">ÎLES FÉROÉ</option>
+   	    	   	    	<option value="ÎLES MARIANNES SEPTENTRIONALES">ÎLES MARIANNES SEPTENTRIONALES</option>
+   	    	   	    	<option value="ÎLES MARSHALL">ÎLES MARSHALL</option>
+   	    	   	    	<option value="ÎLES SALOMON">ÎLES SALOMON</option>
+   	    	   	    	<option value="ÎLES SVALBARD ET JAN MAYEN">ÎLES SVALBARD ET JAN MAYEN</option>
+   	    	   	    	<option value="ÎLES TURQUES ET CAÏQUES">ÎLES TURQUES ET CAÏQUES</option>
+   	    	   	    	<option value="ÎLES VIERGES AMÉRICAINES">ÎLES VIERGES AMÉRICAINES</option>
+   	    	   	    	<option value="ÎLES VIERGES BRITANNIQUES">ÎLES VIERGES BRITANNIQUES</option>
+   	    	   	    	<option value="ÎLES WALLIS ET FUTUNA">ÎLES WALLIS ET FUTUNA</option>
+   	    	   	    	<option value="JAMAHIRIYA ARABE LIBYENNE">JAMAHIRIYA ARABE LIBYENNE</option>
+   	    	   	    	<option value="JAMAÏQUE">JAMAÏQUE</option>
+   	    	   	    	<option value="JAPON">JAPON</option>
+   	    	   	    	<option value="JORDANIE">JORDANIE</option>
+   	    	   	    	<option value="KAZAKHSTAN">KAZAKHSTAN</option>
+   	    	   	    	<option value="KENYA">KENYA</option>
+   	    	   	    	<option value="KIRGHIZISTAN">KIRGHIZISTAN</option>
+   	    	   	    	<option value="KIRIBATI">KIRIBATI</option>
+   	    	   	    	<option value="KOSOVO">KOSOVO</option>
+   	    	   	    	<option value="KOWEÏT">KOWEÏT</option>
+   	    	   	    	<option value="LAOS">LAOS</option>
+   	    	   	    	<option value="LESOTHO">LESOTHO</option>
+   	    	   	    	<option value="LETTONIE">LETTONIE</option>
+   	    	   	    	<option value="LIBAN">LIBAN</option>
+   	    	   	    	<option value="LIBÉRIA">LIBÉRIA</option>
+   	    	   	    	<option value="LIECHTENSTEIN">LIECHTENSTEIN</option>
+   	    	   	    	<option value="LITUANIE">LITUANIE</option>
+   	    	   	    	<option value="LUXEMBOURG">LUXEMBOURG</option>
+   	    	   	    	<option value="MACAO RÉGION ADMINISTRATIVE SPÉCIALE DE CHINE">MACAO RÉGION ADMINISTRATIVE SP...</option>
+   	    	   	    	<option value="MADAGASCAR">MADAGASCAR</option>
+   	    	   	    	<option value="MALAISIE">MALAISIE</option>
+   	    	   	    	<option value="MALAWI">MALAWI</option>
+   	    	   	    	<option value="MALDIVES">MALDIVES</option>
+   	    	   	    	<option value="MALI">MALI</option>
+   	    	   	    	<option value="MALTE">MALTE</option>
+   	    	   	    	<option value="MAROC">MAROC</option>
+   	    	   	    	<option value="MARTINIQUE">MARTINIQUE</option>
+   	    	   	    	<option value="MAURICE">MAURICE</option>
+   	    	   	    	<option value="MAURITANIE">MAURITANIE</option>
+   	    	   	    	<option value="MAYOTTE">MAYOTTE</option>
+   	    	   	    	<option value="MEXIQUE">MEXIQUE</option>
+   	    	   	    	<option value="MICRONÉSIE (ÉTATS FÉDÉRÉS DE)">MICRONÉSIE (ÉTATS FÉDÉRÉS DE)</option>
+   	    	   	    	<option value="MONACO">MONACO</option>
+   	    	   	    	<option value="MONGOLIE">MONGOLIE</option>
+   	    	   	    	<option value="MONTSERRAT">MONTSERRAT</option>
+   	    	   	    	<option value="MOZAMBIQUE">MOZAMBIQUE</option>
+   	    	   	    	<option value="MYANMAR">MYANMAR</option>
+   	    	   	    	<option value="NAMIBIE">NAMIBIE</option>
+   	    	   	    	<option value="NAURU">NAURU</option>
+   	    	   	    	<option value="NÉPAL">NÉPAL</option>
+   	    	   	    	<option value="NICARAGUA">NICARAGUA</option>
+   	    	   	    	<option value="NIGER">NIGER</option>
+   	    	   	    	<option value="NIGÉRIA">NIGÉRIA</option>
+   	    	   	    	<option value="NIOUÉ">NIOUÉ</option>
+   	    	   	    	<option value="NORVÈGE">NORVÈGE</option>
+   	    	   	    	<option value="NOUVELLE-CALÉDONIE">NOUVELLE-CALÉDONIE</option>
+   	    	   	    	<option value="NOUVELLE-ZÉLANDE">NOUVELLE-ZÉLANDE</option>
+   	    	   	    	<option value="OMAN">OMAN</option>
+   	    	   	    	<option value="OUGANDA">OUGANDA</option>
+   	    	   	    	<option value="OUZBÉKISTAN">OUZBÉKISTAN</option>
+   	    	   	    	<option value="PAKISTAN">PAKISTAN</option>
+   	    	   	    	<option value="PALAOS">PALAOS</option>
+   	    	   	    	<option value="PANAMA">PANAMA</option>
+   	    	   	    	<option value="PAPOUASIE-NOUVELLE-GUINÉE">PAPOUASIE-NOUVELLE-GUINÉE</option>
+   	    	   	    	<option value="PARAGUAY">PARAGUAY</option>
+   	    	   	    	<option value="PAYS-BAS">PAYS-BAS</option>
+   	    	   	    	<option value="PÉROU">PÉROU</option>
+   	    	   	    	<option value="PHILIPPINES">PHILIPPINES</option>
+   	    	   	    	<option value="PITCAIRN">PITCAIRN</option>
+   	    	   	    	<option value="POLOGNE">POLOGNE</option>
+   	    	   	    	<option value="POLYNÉSIE FRANCAISE">POLYNÉSIE FRANCAISE</option>
+   	    	   	    	<option value="PORTO RICO">PORTO RICO</option>
+   	    	   	    	<option value="PORTUGAL">PORTUGAL</option>
+   	    	   	    	<option value="QATAR">QATAR</option>
+   	    	   	    	<option value="RÉPUBLIQUE ARABE SYRIENNE">RÉPUBLIQUE ARABE SYRIENNE</option>
+   	    	   	    	<option value="RÉPUBLIQUE CENTRAFRICAINE">RÉPUBLIQUE CENTRAFRICAINE</option>
+   	    	   	    	<option value="RÉPUBLIQUE DE CORÉE">RÉPUBLIQUE DE CORÉE</option>
+   	    	   	    	<option value="RÉPUBLIQUE DE MOLDOVA">RÉPUBLIQUE DE MOLDOVA</option>
+   	    	   	    	<option value="RÉPUBLIQUE DÉMOCRATIQUE DU CONGO">RÉPUBLIQUE DÉMOCRATIQUE DU CON...</option>
+   	    	   	    	<option value="RÉPUBLIQUE DOMINICAINE">RÉPUBLIQUE DOMINICAINE</option>
+   	    	   	    	<option value="RÉPUBLIQUE POPULAIRE DÉMOCRATIQUE DE CORÉE">RÉPUBLIQUE POPULAIRE DÉMOCRATI...</option>
+   	    	   	    	<option value="RÉPUBLIQUE TCHÈQUE">RÉPUBLIQUE TCHÈQUE</option>
+   	    	   	    	<option value="RÉUNION">RÉUNION</option>
+   	    	   	    	<option value="ROUMANIE">ROUMANIE</option>
+   	    	   	    	<option value="ROYAUME-UNI">ROYAUME-UNI</option>
+   	    	   	    	<option value="RWANDA">RWANDA</option>
+   	    	   	    	<option value="SAHARA OCCIDENTAL">SAHARA OCCIDENTAL</option>
+   	    	   	    	<option value="SAINT-KITTS-ET-NEVIS">SAINT-KITTS-ET-NEVIS</option>
+   	    	   	    	<option value="SAINT-MARIN">SAINT-MARIN</option>
+   	    	   	    	<option value="SAINT-PIERRE-ET-MIQUELON">SAINT-PIERRE-ET-MIQUELON</option>
+   	    	   	    	<option value="SAINT-SIÈGE">SAINT-SIÈGE</option>
+   	    	   	    	<option value="SAINT-VINCENT-ET-LES GRENADINES">SAINT-VINCENT-ET-LES GRENADINE...</option>
+   	    	   	    	<option value="SAINTE-HÉLÈNE">SAINTE-HÉLÈNE</option>
+   	    	   	    	<option value="SAINTE-LUCIE">SAINTE-LUCIE</option>
+   	    	   	    	<option value="SAMOA">SAMOA</option>
+   	    	   	    	<option value="SAMOAS AMÉRICAINES">SAMOAS AMÉRICAINES</option>
+   	    	   	    	<option value="SAO TOMÉ-ET-PRINCIPE">SAO TOMÉ-ET-PRINCIPE</option>
+   	    	   	    	<option value="SERBIE-ET-MONTÉNÉGRO">SERBIE-ET-MONTÉNÉGRO</option>
+   	    	   	    	<option value="SEYCHELLES">SEYCHELLES</option>
+   	    	   	    	<option value="SÉNÉGAL">SÉNÉGAL</option>
+   	    	   	    	<option value="SIERRA LEONE">SIERRA LEONE</option>
+   	    	   	    	<option value="SINGAPOUR">SINGAPOUR</option>
+   	    	   	    	<option value="SLOVAQUIE">SLOVAQUIE</option>
+   	    	   	    	<option value="SLOVÉNIE">SLOVÉNIE</option>
+   	    	   	    	<option value="SOMALIE">SOMALIE</option>
+   	    	   	    	<option value="SOUDAN">SOUDAN</option>
+   	    	   	    	<option value="SRI LANKA">SRI LANKA</option>
+   	    	   	    	<option value="SUÈDE">SUÈDE</option>
+   	    	   	    	<option value="SUISSE">SUISSE</option>
+   	    	   	    	<option value="SURINAME">SURINAME</option>
+   	    	   	    	<option value="SWAZILAND">SWAZILAND</option>
+   	    	   	    	<option value="TADJIKISTAN">TADJIKISTAN</option>
+   	    	   	    	<option value="TANZANIE">TANZANIE</option>
+   	    	   	    	<option value="TCHAD">TCHAD</option>
+   	    	   	    	<option value="TERRITOIRE PALESTINIEN OCCUPÉ">TERRITOIRE PALESTINIEN OCCUPÉ</option>
+   	    	   	    	<option value="THAÏLANDE">THAÏLANDE</option>
+   	    	   	    	<option value="TIMOR-LESTE">TIMOR-LESTE</option>
+   	    	   	    	<option value="TOGO">TOGO</option>
+   	    	   	    	<option value="TOKÉLAOU">TOKÉLAOU</option>
+   	    	   	    	<option value="TONGA">TONGA</option>
+   	    	   	    	<option value="TRINITÉ-ET-TOBAGO">TRINITÉ-ET-TOBAGO</option>
+   	    	   	    	<option value="TUNISIE">TUNISIE</option>
+   	    	   	    	<option value="TURKMÉNISTAN">TURKMÉNISTAN</option>
+   	    	   	    	<option value="TURQUIE">TURQUIE</option>
+   	    	   	    	<option value="TUVALU">TUVALU</option>
+   	    	   	    	<option value="UKRAINE">UKRAINE</option>
+   	    	   	    	<option value="URUGUAY">URUGUAY</option>
+   	    	   	    	<option value="VANUATU">VANUATU</option>
+   	    	   	    	<option value="VENEZUELA">VENEZUELA</option>
+   	    	   	    	<option value="VIET NAM">VIET NAM</option>
+   	    	   	    	<option value="YÉMEN">YÉMEN</option>
+   	    	   	    	<option value="ZAMBIE">ZAMBIE</option>
+   	    	   	    	<option value="ZIMBABWE">ZIMBABWE</option>
+   	    	 	    	</select></td>
+		</tr>
+		<tr>
+		  <td style=" padding-bottom:5px;"><table width="320" border="0" cellspacing="0" cellpadding="0">
+  <tr style="line-height:120%;">
+    <td width="245" rowspan="2" valign="top" style="padding-right:15px; font-size:10px;">Would you like to receive email information (french) about our projects and activities?</td>
+    <td valign="top" style="font-size:10px;"><label>
+      <input checked="checked" type="radio" name="PR_1" value="1" id="PR_1_1" onclick="dupliquerchamp('diffusion','PR_1_1');" />
+      &nbsp;Yes</label></td>
+    </tr>
+  <tr style="line-height:120%;">
+    <td width="75" valign="top" style="font-size:10px; padding-top:5px;"><label><input  type="radio" name="PR_1" value="0" id="PR_1_0" onclick="dupliquerchamp('diffusion','PR_1_0');" />
+    &nbsp;No</label></td>
+    </tr>
+</table></td>
+	  </tr>
+  </table>
+    
+    <table id="formulairestructure" width="320" cellpadding="0" cellspacing="0" border="0">
+		<tr>
+		  <td style=" padding-bottom:5px;">Company name &nbsp;</td>
+	  </tr>
+		<tr>
+		  <td style=" padding-bottom:12px;"><input name="NOM_ST_ST" id="NOM_ST_ST"  type="text" size="48" maxlength="30" class="inputtexteoff" onkeyup="majuscule('NOM_ST_ST');dupliquerchamp('NOM_ST','NOM_ST_ST');" onFocus="focusform('NOM_ST_ST','inputtexteon');majuscule('NOM_ST_ST');dupliquerchamp('NOM_ST','NOM_ST_ST');" onBlur="focusform('NOM_ST_ST','inputtexteoff');majuscule('NOM_ST_ST');dupliquerchamp('NOM_ST','NOM_ST_ST');"  value="" /></td>
+	  </tr>
+		<tr>
+        	<td style=" padding-bottom:5px;">Civility</td>
+        </tr>
+		<tr>
+        	<td style=" padding-bottom:12px;"><select name="PREFIXE_CO_ST" id="PREFIXE_CO_ST" class="inputtexteoff" onFocus="focusform('PREFIXE_CO_ST','inputtexteon');dupliquerchamp('PREFIXE','PREFIXE_CO_ST');" onBlur="focusform('PREFIXE_CO_ST','inputtexteoff');dupliquerchamp('PREFIXE','PREFIXE_CO_ST');" onchange="dupliquerchamp(PREFIXE_CO,PREFIXE_CO_ST);"><option value="0"></option><option value="3">Ms</option><option value="2">Mr</option></select></td>
+	  	</tr>
+      	<tr>
+			<td style=" padding-bottom:5px;">Last name </td>
+		</tr>
+		<tr>
+		  <td style=" padding-bottom:12px;"><input name="NOM_CO_ST" id="NOM_CO_ST"  type="text" size="48" maxlength="30" class="inputtexteoff" onkeyup="majuscule('NOM_CO_ST');dupliquerchamp('NOM','NOM_CO_ST');" onfocus="focusform('NOM_CO_ST','inputtexteon');majuscule('NOM_CO_ST');dupliquerchamp('NOM','NOM_CO_ST');" onblur="focusform('NOM_CO_ST','inputtexteoff');majuscule('NOM_CO_ST');dupliquerchamp('NOM','NOM_CO_ST');"  value="" /></td>
+	  </tr>
+		<tr>
+			<td style=" padding-bottom:5px;">First name </td>
+		</tr>
+		<tr>
+		  <td style=" padding-bottom:12px;"><input name="PRENOM_CO_ST" id="PRENOM_CO_ST"  type="text" size="48" maxlength="30" class="inputtexteoff" onkeyup="majuscule('PRENOM_CO_ST');dupliquerchamp('PRENOM','PRENOM_CO_ST');" onfocus="focusform('PRENOM_CO_ST','inputtexteon');majuscule('PRENOM_CO_ST');dupliquerchamp('PRENOM','PRENOM_CO_ST');" onblur="focusform('PRENOM_CO_ST','inputtexteoff');majuscule('PRENOM_CO_ST');dupliquerchamp('PRENOM','PRENOM_CO_ST');" value="" /></td>
+	  </tr>
+		<tr>
+			<td style=" padding-bottom:5px;">Situation </td>
+		</tr>
+		<tr>
+		  <td style=" padding-bottom:12px;"><input name="TITRE_CO_ST" id="TITRE_CO_ST"  type="text" size="48" maxlength="50" class="inputtexteoff" onkeyup="majuscule('TITRE_CO_ST');dupliquerchamp('TITRE_CO','TITRE_CO_ST');" onfocus="focusform('TITRE_CO_ST','inputtexteon');majuscule('TITRE_CO_ST');dupliquerchamp('TITRE_CO','TITRE_CO_ST');" onblur="focusform('TITRE_CO_ST','inputtexteoff');majuscule('TITRE_CO_ST');dupliquerchamp('TITRE_CO','TITRE_CO_ST');" value="" /></td>
+	  </tr>
+		<tr>
+		  <td style=" padding-bottom:5px;">Mailing address </td>
+	  </tr>
+		<tr>
+			<td width="315" style=" padding-bottom:5px;"><input name="ADR1_ST_ST" id="ADR1_ST_ST"  type="text" size="48" maxlength="30" class="inputtexteoff" onkeyup="majuscule('ADR1_ST_ST');dupliquerchamp('ADR1','ADR1_ST_ST');" onFocus="focusform('ADR1_ST_ST','inputtexteon');majuscule('ADR1_ST_ST');dupliquerchamp('ADR1','ADR1_ST_ST');" onBlur="focusform('ADR1_ST_ST','inputtexteoff');majuscule('ADR1_ST_ST');dupliquerchamp('ADR1','ADR1_ST_ST');" value="" /></td>
+	  </tr>
+		<tr>
+			<td width="315" style="padding-bottom:12px;"><input name="ADR2_ST_ST" id="ADR2_ST_ST"  type="text" size="48" maxlength="30" class="inputtexteoff" onkeyup="majuscule('ADR2_ST_ST');dupliquerchamp('ADR2','ADR2_ST_ST');" onFocus="focusform('ADR2_ST_ST','inputtexteon');majuscule('ADR2_ST_ST');dupliquerchamp('ADR2','ADR2_ST_ST');" onBlur="focusform('ADR2_ST_ST','inputtexteoff');majuscule('ADR2_ST_ST');dupliquerchamp('ADR2','ADR2_ST_ST');" value="" /></td>
+	  </tr>
+		<tr>
+			<td style=" padding-bottom:12px;">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="width:115px; padding-bottom:5px;">Zip code </td>
+						<td style="width:200px; padding-bottom:5px;">Town </td>
+					</tr>
+					<tr>
+						<td style="width:115px; padding-bottom:15px;"><input name="CODEPOSTAL_ST" id="CODEPOSTAL_ST"  type="text" size="10" maxlength="5" class="inputtexteoff" onkeyup="dupliquerchamp('CODEPOSTAL','CODEPOSTAL_ST');" onFocus="focusform('CODEPOSTAL_ST','inputtexteon');dupliquerchamp('CODEPOSTAL','CODEPOSTAL_ST');" onBlur="focusform('CODEPOSTAL_ST','inputtexteoff');dupliquerchamp('CODEPOSTAL','CODEPOSTAL_ST');" value="" /></td>
+						<td style="width:200px; padding-bottom:15px;"><input name="VILLE_ST" id="VILLE_ST"  type="text" size="30" maxlength="50" class="inputtexteoff" onkeyup="majuscule('VILLE_ST');dupliquerchamp('VILLE','VILLE_ST');" onFocus="focusform('VILLE_ST','inputtexteon');majuscule('VILLE_ST');dupliquerchamp('VILLE','VILLE_ST');" onBlur="focusform('VILLE_ST','inputtexteoff');majuscule('VILLE_ST');dupliquerchamp('VILLE','VILLE_ST');" value="" /></td>
+					</tr>
+				</table>
+			</td>
+	  </tr>
+		
+  </table>
+</div>
+<!-- Fin calque FORMULAIRE -->
+                
+<!-- Calque PAIEMENT -->
+<div id="textecorpsdon3" class="corps" style="float:left; width:220px; left:710px; font-size:12px; line-height:15px; text-align:justify; min-height:650px;">
+	<form id="don" action="" method="post" name="don" onsubmit="if(document.getElementById('typecompte').value == 'entreprise') { return validationdonentreprise(); } else { return validationdonparticulier(); } "><input name="montant" id="montant" type="hidden" value="50" /><input name="EMAIL" id="EMAIL" type="hidden" value="" /><input name="PREFIXE" id="PREFIXE" type="hidden" value="0" /><input name="typecompte" id="typecompte" type="hidden" value="particulier" /><input name="NOM_ST" id="NOM_ST" type="hidden" value="" /><input name="NOM" id="NOM" type="hidden" value="" /><input name="PRENOM" id="PRENOM" type="hidden" value="" /><input name="TITRE_CO" id="TITRE_CO" type="hidden" value="" /><input name="ADR1" id="ADR1" type="hidden" value="" /><input name="ADR2" id="ADR2" type="hidden" value="" /><input name="CODEPOSTAL" id="CODEPOSTAL" type="hidden" value="" /><input name="VILLE" id="VILLE" type="hidden" value="" /><input name="PAYS" id="PAYS" type="hidden" value="FRANCE" /><input name="Ddate" id="Ddate" type="hidden" value="2015-03-19" /><input name="DType" id="DType" type="hidden" value="1" /><input name="DPaiment" id="DPaiment" type="hidden" value="" /><input name="action" id="action" type="hidden" value="Don libre" /><input name="action2" id="action2" type="hidden" value="" /><input name="diffusion" id="diffusion" size="2" type="hidden" value="1" /><input name="connectnbr" id="connectnbr" type="hidden" value="" />
+    
+    <table id="paiementcb" width="320" cellpadding="0" cellspacing="0" border="0">
+		<tr>
+			<td style="padding-bottom:5px;"><h1 style="color:#000000;">Payment</h1></td>
+		</tr>
+		<tr style="padding-right:70px;">
+		  <td><h2 style="padding-top:0;">By credit card</h2></td>
+	  </tr>
+		<tr>
+		  <td style="padding-right:70px;"><p>You will be redirected to a fully secured page by PayBox.</p></td>
+	  </tr>
+		<tr>
+		  <td style="padding:5px 0 20px 0;"><input type="image" id="CB" name="CB" src="http://www.planete-urgence.org/images/boutons/reglement_cb_en.png" width="235" height="50" onclick="document.getElementById('DPaiment').value = 5 ;" /></td>
+	  </tr>
+      </table>
+      <table id="paiementTGE" width="320" cellpadding="0" cellspacing="0" border="0">
+      <tr style="padding-right:70px;">
+		  <td><h2>By Transnational Giving Europe (TGE) program</h2></td>
+	  </tr>
+		<tr>
+		  <td style="padding-right:70px;"><p>TGE is currently operational for donations from and to Belgium, Bulgaria, Germany, Hungary, Ireland, Italy, Luxembourg, the Netherlands, Poland, Romania, Slovakia, Slovenia, Switzerland and the United Kingdom.</p><p><a href="../documents/association/Transnational-Giving-Europe.pdf" target="_blank">Download Contact Details of the TGE partners</a> (pdf - 500ko)</p> </td>
+	  </tr>
+		<tr>
+		  <td style="padding:5px 0 20px 0;"><input type="image" id="TGE" name="TGE" src="http://www.planete-urgence.org/images/boutons/reglement_tge_en.png" width="235" height="50" onclick="document.getElementById('DPaiment').value = 2 ;" /></td>
+	  </tr>
+	</table>
+    </form>
+    
+</div>
+<!-- Fin calque PAIEMENT -->
+
+
+</div>
+
+
+<script>
+cacheId('calquearbre');cacheId('calquehaiti');cacheId('calquekit');cacheId('calqueadherer'); afficheId('formulairedon'); cacheId('formulaireadhesion');afficheId('calquealibre'); afficheId('lignedonlibre');cacheId('formulairestructure'); afficheId('formulaireparticulier');cacheId('deductionfiscale1');
+afficheId('connexiondon');
+afficheId('connexiondon0');
+afficheId('doublondepersonne');
+afficheId('paiementTGE');
+</script>          
+        </div>
+        
+        <div id="footerglobal">
+        	<div id="headercenterpage">
+			<script>
+$(function(){
+$(".bullereseausociaux").tipTip({defaultPosition: "right", maxWidth: "150px", edgeOffset: 5});
+});
+</script>
+
+<div id="footercentre" class="footer">
+    
+	<div id="footer20" style="float:left; width:40px; line-height:normal;">
+    <a href="http://www.facebook.com/planete.urgence" target="_blank" class="bullereseausociaux" title="Facebook : planete.urgence"><img id="facebook" src="http://www.planete-urgence.org/images/icones/icone-facebook.png" width="32" height="32" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/icone-facebook-2.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/icone-facebook.png';" /></a>
+    <a href="http://twitter.com/#!/PlaneteUrgence" target="_blank" class="bullereseausociaux" title="Twitter : @PlaneteUrgence"><img id="twitter" src="http://www.planete-urgence.org/images/icones/icone-twitter.png" width="32" height="32" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/icone-twitter-2.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/icone-twitter.png';" /></a>
+    <a href="http://www.youtube.com/user/planete1urgence" target="_blank" class="bullereseausociaux" title="YouTube : planete1urgence"><img id="youtube" src="http://www.planete-urgence.org/images/icones/icone-youtube.png" width="32" height="32" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/icone-youtube-2.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/icone-youtube.png';" /></a>
+    <a href="https://plus.google.com/+planeteurgence/" target="_blank" class="bullereseausociaux" title="Google+ : planete1urgence"><img id="googleplus" src="http://www.planete-urgence.org/images/icones/icone-googleplus.png" width="32" height="32" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/icone-googleplus-2.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/icone-googleplus.png';" /></a>
+	</div>
+    
+    <div id="footer21" style="float:left; width:100px; padding-left:20px;  line-height:100%;">
+
+<h1><a href="http://www.planete-urgence.org/?langue=en">Home</a></h1>
+<h1><a href="http://www.planete-urgence.org/association/Make-a-donation.htm">Make a donation</a></h1><h1><a href="http://www.planete-urgence.org/association/Make-a-donation.htm?op=adherer">Membership</a></h1></div>
+    
+    <div id="footer22" style="float:left; width:120px; padding-left:15px; line-height:100%;"><h1><a href="http://www.planete-urgence.org/association/the-association.htm">The association</a></h1><p><a href="http://www.planete-urgence.org/association/the-association.htm">Who we are</a></p><p><a href="http://www.planete-urgence.org/association/who-is-who.htm">Who's who in the association</a></p><p><a href="http://www.planete-urgence.org/association/contact-us.htm">Contact us</a></p></div>
+    
+    <div id="footer23" style="float:left; width:160px; padding-left:15px; line-height:100%;"><h1><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire.htm">Short-Term Volunteer Assignment</a></h1><p><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire-missions.htm">Find and display STVA</a></p><p><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire.htm">What is STVA?</a></p><p><a href="http://www.planete-urgence.org/conge-solidaire/funding-conge-solidaire.htm">Funding STVA</a></p><p><a href="http://www.planete-urgence.org/conge-solidaire//countries-in-which-conge-solidaire-is-involved.htm">Countries of operation</a></p></div>
+    
+    <div id="footer24" style="float:left; width:180px; padding-left:15px; line-height:100%;"><h1><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development.htm">Environment & Development</a></h1><p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development.htm">The program</a></p><p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-haiti.htm">Haiti</a></p>
+    <p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-indonesia.htm">Indonesia</a></p><p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-madagascar.htm">Madagascar</a></p><p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-mali.htm">Mali</a></p><p><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=arbre">Plant a tree!</a></p></div>
+    
+    <div id="footer25" style="float:left; width:120px; padding-left:15px; line-height:100%;"><h1>Direct access</h1>
+    <p><a href="http://www.planete-urgence.org/entreprise/partnership.htm">Partner</a></p><p><a href="#" onClick="afficheId('popupconnexion'); return false;" >Your account</a></p></div>
+    
+	<div id="footer26" style="float:left; width:200px; vertical-align:top;"><img src="http://www.planete-urgence.org/images/logos/signature-200.png" width="200" /></div>
+
+	<div id="footercopyright" style="position:relative; float:left;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="right"><a href="http://onepercentfortheplanet.org/" target="_blank"><img src="http://www.planete-urgence.org/images/logos/logo-1pc_en.png" border="0" align="right" width="50" style="padding-right:10px;"></a></td>
+    <td align="left"><a href="http://www.plant-for-the-planet.org/en" target="_blank"><img src="http://www.planete-urgence.org/images/logos/logo-plantons-pour-la-planete_en.png" border="0" align="left" width="50" style="padding-left:10px;"></a></td>
+  </tr>
+</table>&copy; Plan&egrave;te Urgence 2015 - Association reconnue d'utilit&eacute; publique - Nous vous aidons &agrave; agir</div>
+</div>
+
+            </div>
+       	</div>
+        
+    <script type="text/javascript">
+	$('a.lightbox').lightBox({
+		//fixedNavigation:true,
+		imageLoading: '../images/lightbox/loading.png',
+		imageBtnClose: '../images/lightbox/close.png',
+		imageBtnPrev: '../images/lightbox/prev2.png',
+		imageBtnNext: '../images/lightbox/next2.png'
+	   });
+	</script>
+	</body>
+</html>

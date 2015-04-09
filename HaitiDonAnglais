@@ -1,16 +1,16 @@
 <html><head>
-    	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-        <title>Association Plan√®te Urgence</title>
-        <meta name="description" content="We help you take action to benefit Southern countries to reinforce their autonomy and protect the environment : head out for a 15 day mission on short-term volunteer assignment or support our environmental development program." />
+    	<meta http-equiv="content-type" content="text/html; charset=UTF-8" >
+        <title>Association PlanËte Urgence</title>
+        <meta name="description" content="L'association vous aide √&nbsp; agir en faveur des pays du Sud pour renforcer leur autonomie et prot√©ger leur environnement : partez 15 jours en mission de Cong√© Solidaire ou soutenez notre programme Environnement &amp; D√©veloppement.">
 		<meta name="keywords" content="">
-		<meta name="organization" content="Plan√É¬®te Urgence, 39 rue Crozatier, 75012 Paris, France">
+		<meta name="organization" content="Plan√®te Urgence, 39 rue Crozatier, 75012 Paris, France">
 		<meta name="author" content="Steven" >
         
         <meta property="og:title" content="">
         <meta property="og:type" content="non_profit">
         <meta property="og:url" content="http://www.planete-urgence.org/">
         <meta property="og:image" content="">
-        <meta property="og:site_name" content="Plan√É¬®te Urgence, 39 rue Crozatier, 75012 Paris, France">
+        <meta property="og:site_name" content="Plan√®te Urgence, 39 rue Crozatier, 75012 Paris, France">
         <meta property="fb:admins" content="100004107064963">
         <meta property="og:description" content="L'association vous aide ?gir en faveur des pays du Sud pour renforcer leur autonomie et prot?r leur environnement : partez 15 jours en mission de Cong?olidaire ou soutenez notre programme Environnement &amp; D?loppement.">
         
@@ -51,13 +51,13 @@
 <div id="popupconnexion"><div id="popupconnexionbg"></div>
 <div id="popupconnexioncorps" class="popupcorps">
 <p class="popupfermer"><a onclick="cacheId('popupconnexion');">x</a></p>
-<h4>Connexion √† votre compte</h4>
+<h4>Connexion ‡ votre compte</h4>
 <form id="connexion" method="post" action="" onsubmit="return validationconnexion();">
 
 <table width="320" border="0" cellspacing="0" cellpadding="0" style="padding-bottom:20px;">
   <tbody><tr>
     <td><p><label><input type="radio" name="connexion_select" value="particulier" id="connexion_select_0" checked="checked">
-    &nbsp;Je suis volontaire ou donateur et me connecte √† titre personnel</label></p></td>
+    &nbsp;Je suis volontaire ou donateur et me connecte ‡ titre personnel</label></p></td>
   </tr>
   <tr>
     <td><p><label><input type="radio" name="connexion_select" value="entreprise" id="connexion_select_1">&amp;nbsnbsp;Je me connecte au nom de mon entreprise</label></p></td>
@@ -94,7 +94,7 @@ cacheId('popupconnexion');
 <div id="popupmiseajour"><div id="popupconnexionbg"></div>
 <div id="popupconnexioncorps" class="popupcorps" style="min-height:30px;">
 <p class="popupfermer"><a href="">x</a></p>
-<h4>Votre compte a √©t√© mis √† jour</h4>
+<h4>Votre compte a ÈtÈ mis ‡ jour</h4>
 <p style="text-align:center;"><a href="">Cliquez pour retourner au formulaire</a></p>
 </div></div>
 <script>
@@ -104,7 +104,7 @@ cacheId('popupmiseajour');</script>
 <div id="popupdossiercs"><div id="popupconnexionbg"></div>
 <div id="popupconnexioncorps" class="popupcorps">
 <p class="popupfermer"><a onclick="cacheId('popupdossiercs');">x</a></p>
-<h4>Votre dossier de Cong√© Solidaire</h4>
+<h4>Votre dossier de CongÈ Solidaire</h4>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:0 0 10px 0 ;">
 	</table>
 </div></div>
@@ -129,7 +129,7 @@ cacheId('popupdossiercs');
 <div id="selectlangue">
     <table width="50" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="50" align="left"><a href="http://www.planete-urgence.org/association/faire-un-don.htm?langue=fr"><img src="http://www.planete-urgence.org/images/icones/drapeau_fr_off.png" width="50" height="50" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/drapeau_fr_on.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/drapeau_fr_off.png';"></a></td>
+    <td width="50" align="left"><a href="http://www.planete-urgence.org/don-haiti"><img src="http://www.planete-urgence.org/images/icones/drapeau_fr_off.png" width="50" height="50" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/drapeau_fr_on.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/drapeau_fr_off.png';"></a></td>
   </tr>
 </tbody></table>
 </div>
@@ -195,7 +195,7 @@ cacheId('popupdossiercs');
             
             <div class="col_1">
             	<ul class="greybox">
-                <li style="line-height:37px; background:#990099;" onmouseover="this.style.backgroundColor='#333333';" onmouseout="this.style.backgroundColor='#990099';"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development.htm" style="color:#FFFFFF;">The program</a></li>
+                <li style="line-height: 37px; background: rgb(153, 0, 153);" onmouseover="this.style.backgroundColor='#333333';" onmouseout="this.style.backgroundColor='#990099';"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development.htm" style="color:#FFFFFF;">The program</a></li>
                 <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-haiti.htm">Haiti</a></li>
                 <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-indonesia.htm">Indonesia</a></li>
                 </ul>
@@ -268,16 +268,16 @@ cacheId('popupdossiercs');
         
         <div id="centerpage" style="margin-top:50px;">
 			<div>
-                <img src="http://www.planete-urgence.org/images/upload/don-arbre-1E1A.jpg" width="1000" height="257">
+                <img src="http://www.planete-urgence.org/images/upload/don-haiti.jpg" width="1000" height="257">
 <div id="corps" class="corps" style="position:relative; width:100%; min-height:800px ;">
 
 
-<!-- operations sp√É¬É√Ç¬©ciale entreprise -->
-<p>Your donation will go towards the "1 ‚Ç¨ = 1 Tree Planted" program.  Alternately, if you wish, you could earmark your donation to the following projects :
-<a href="../don-haiti">Haiti</a>, <a href="../don-kits-scolaires">School Kits</a>, <a href="../don-aide-et-securite-alimentaires-prioritaires-au-mali">Priority Aid and Food Security</a> in Mali, 
+<!-- operations sp√É¬©ciale entreprise -->
+<p>Planet Urgence will assign your donation to our projects in Haiti.  However, if you wish, you can earmark your donation for 
+<a href="../don-haiti"> the 1 &euro; = 1 tree planted program</a>, <a href="../don-kits-scolaires">School Kits</a>, <a href="../don-aide-et-securite-alimentaires-prioritaires-au-mali">Priority Aid and Food Security</a> in Mali, 
 or you could <a href="http://www.planete-urgence.org/association/make-a-donation.htm?langue=en"> let Planet Urgence allocate your donation according to our projects' needs</a>
 .</p>
-<p> If you represent a businees and wish to put the 1 ‚Ç¨ = 1 Tree Planted program on your product, <a href="http://www.planete-urgence.org/association/contact-us.htm?langue=en">contact us here.</a></p>
+
 <h2 style="padding-top:10px;">Transnational Giving Europe (TGE) program</h2>
 <p>If you wish to make a donation to PU for one of our programs including STVA while benefiting directly from the tax advantages provided for in the legislation of your country of residence, you can do so through the Transnational Giving Europe (TGE) program.</p>
 <p>TGE is currently operational for donations from and to Belgium, Bulgaria, Germany, Hungary, Ireland, Italy, Luxembourg, the Netherlands, Poland, Romania, Slovakia, Slovenia, Switzerland and the United Kingdom.</p>
@@ -292,7 +292,7 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
     <table width="310" cellpadding="0" cellspacing="0" border="0">
 		<tbody><tr>
   			<td style="padding-bottom:5px;"><h1 style="color:#000000;">
-            My&nbsp;donation&nbsp;to&nbsp;the&nbsp;"1‚Ç¨&nbsp;=&nbsp;1&nbsp;tree&nbsp;planted"&nbsp;program</h1></td>
+            My&nbsp;donation&nbsp;to&nbsp;the&nbsp;"1 &euro;&nbsp;=&nbsp;1&nbsp;tree&nbsp;planted"&nbsp;program</h1></td>
 		</tr>
         		<tr>
 			<td style="width:280px; min-height:245px; margin:0 auto; background-color:#CCCCCC; padding:10px; -moz-border-radius:10px; -webkit-border-radius:10px; -khtml-border-radius:10px; border-radius:10px;">
@@ -314,9 +314,9 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
     					<td valign="top">
       						<table border="0" cellspacing="0" cellpadding="0">
         						<tbody><tr>
-          						          							<td width="80"><input type="radio" name="montantfixe" value="0" id="montant_0" style="display:none;"><label><h1 style="color:#990099;"><input checked="checked" type="radio" name="montantfixe" value="50" id="montant_50" onclick="focusfaireundon('montant_50','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_50','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }">&nbsp;50‚Ç¨</h1></label></td>
-          							<td width="80"><label><h1 style="color:#990099;"><input type="radio" name="montantfixe" value="100" id="montant_100" onclick="focusfaireundon('montant_100','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_100','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }">&nbsp;100‚Ç¨</h1></label></td>
-                                    <td width="100"><label><h1 style="color:#990099;"><input type="radio" name="montantfixe" value="150" id="montant_150" onclick="focusfaireundon('montant_150','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_150','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }">&nbsp;150‚Ç¨</h1></label></td>
+          						          							<td width="80"><input type="radio" name="montantfixe" value="0" id="montant_0" style="display:none;"><label><h1 style="color:#990099;"><input checked="checked" type="radio" name="montantfixe" value="50" id="montant_50" onclick="focusfaireundon('montant_50','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_50','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }">&nbsp;50&euro;</h1></label></td>
+          							<td width="80"><label><h1 style="color:#990099;"><input type="radio" name="montantfixe" value="100" id="montant_100" onclick="focusfaireundon('montant_100','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_100','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }">&nbsp;100&euro;</h1></label></td>
+                                    <td width="100"><label><h1 style="color:#990099;"><input type="radio" name="montantfixe" value="150" id="montant_150" onclick="focusfaireundon('montant_150','montantlibre','','dedfisdonop','Don kit scolaire'); schemacomptetype('montant_150','dedfisschema1','dedfisschema2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }">&nbsp;150&euro;</h1></label></td>
                                 </tr>
         					</tbody></table>
       					</td>
@@ -326,7 +326,7 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
     					  <tbody><tr>
     					    <td width="110"><p>Montant libre :</p></td>
     					    <td><input name="montantlibre" type="text" id="montantlibre" size="10" maxlength="5" value="" class="inputtexteoff2" style="font-family: 'Open Sans Condensed',Verdana,Arial, sans-serif; font-weight:bold; font-size:18px; text-align:center;" onfocus="focusform('montantlibre','inputtexteon2'); focusfaireundon('montantlibre','montant_0','0','dedfisdonop','Don kit scolaire'); schemacomptetypefocus('50','dedfisschema1','dedfisschema2'); this.value = '';  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }" onkeypress="if((event.keyCode < 45 || event.keyCode > 57) &amp;&amp; event.keyCode > 31 &amp;&amp; event.keyCode != 43) event.returnValue = false; if((event.which < 45 || event.which > 57) &amp;&amp; event.which > 31 &amp;&amp; event.which != 43) return false;  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }" onkeyup="keyupfaireundon('montantlibre','dedfisdonop'); schemacomptetype('montantlibre','dedfisschema1','dedfisschema2');" onblur="focusform('montantlibre','inputtexteoff2');  if(document.getElementById('regularite_0').checked == true) { faireundonregulier('montant') ; }"></td>
-    					    <td><h1 style="color:#990099;">&nbsp;‚Ç¨</h1><input type="hidden" id="tauxdeduction" name="tauxdeduction" value="0.66"></td>
+    					    <td><h1 style="color:#990099;">&nbsp;&euro;</h1><input type="hidden" id="tauxdeduction" name="tauxdeduction" value="0.66"></td>
   					      </tr>
   					  </tbody></table>
    					    </td>
@@ -437,35 +437,35 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
    	    	   	    	<option value="AFGHANISTAN">AFGHANISTAN</option>
    	    	   	    	<option value="AFRIQUE DU SUD">AFRIQUE DU SUD</option>
    	    	   	    	<option value="ALBANIE">ALBANIE</option>
-   	    	   	    	<option value="ALG√âRIE">ALG√âRIE</option>
+   	    	   	    	<option value="ALG…RIE">ALG…RIE</option>
    	    	   	    	<option value="ALLEMAGNE">ALLEMAGNE</option>
    	    	   	    	<option value="ANDORRE">ANDORRE</option>
    	    	   	    	<option value="ANGOLA">ANGOLA</option>
    	    	   	    	<option value="ANGUILLA">ANGUILLA</option>
    	    	   	    	<option value="ANTIGUA-ET-BARBUDA">ANTIGUA-ET-BARBUDA</option>
-   	    	   	    	<option value="ANTILLES N√âERLANDAISES">ANTILLES N√âERLANDAISES</option>
+   	    	   	    	<option value="ANTILLES N…ERLANDAISES">ANTILLES N…ERLANDAISES</option>
    	    	   	    	<option value="ARABIE SAOUDITE">ARABIE SAOUDITE</option>
    	    	   	    	<option value="ARGENTINE - PATAGONIE">ARGENTINE - PATAGONIE</option>
-   	    	   	    	<option value="ARM√âNIE">ARM√âNIE</option>
+   	    	   	    	<option value="ARM…NIE">ARM…NIE</option>
    	    	   	    	<option value="ARUBA">ARUBA</option>
    	    	   	    	<option value="AUSTRALIE">AUSTRALIE</option>
    	    	   	    	<option value="AUTRICHE">AUTRICHE</option>
-   	    	   	    	<option value="AZERBA√èDJAN">AZERBA√èDJAN</option>
+   	    	   	    	<option value="AZERBAœDJAN">AZERBAœDJAN</option>
    	    	   	    	<option value="BAHAMAS">BAHAMAS</option>
-   	    	   	    	<option value="BAHRE√èN">BAHRE√èN</option>
+   	    	   	    	<option value="BAHREœN">BAHREœN</option>
    	    	   	    	<option value="BANGLADESH">BANGLADESH</option>
    	    	   	    	<option value="BARBADE">BARBADE</option>
    	    	   	    	<option value="BELGIQUE">BELGIQUE</option>
    	    	   	    	<option value="BELIZE">BELIZE</option>
    	    	   	    	<option value="BERMUDES">BERMUDES</option>
-   	    	   	    	<option value="B√âLARUS">B√âLARUS</option>
-   	    	   	    	<option value="B√âNIN">B√âNIN</option>
+   	    	   	    	<option value="B…LARUS">B…LARUS</option>
+   	    	   	    	<option value="B…NIN">B…NIN</option>
    	    	   	    	<option value="BHOUTAN">BHOUTAN</option>
    	    	   	    	<option value="BOLIVIE">BOLIVIE</option>
-   	    	   	    	<option value="BOSNIE-HERZ√âGOVINE">BOSNIE-HERZ√âGOVINE</option>
+   	    	   	    	<option value="BOSNIE-HERZ…GOVINE">BOSNIE-HERZ…GOVINE</option>
    	    	   	    	<option value="BOTSWANA">BOTSWANA</option>
-   	    	   	    	<option value="BR√âSIL">BR√âSIL</option>
-   	    	   	    	<option value="BRUN√âI DARUSSALAM">BRUN√âI DARUSSALAM</option>
+   	    	   	    	<option value="BR…SIL">BR…SIL</option>
+   	    	   	    	<option value="BRUN…I DARUSSALAM">BRUN…I DARUSSALAM</option>
    	    	   	    	<option value="BULGARIE">BULGARIE</option>
    	    	   	    	<option value="BURKINA FASO">BURKINA FASO</option>
    	    	   	    	<option value="BURUNDI">BURUNDI</option>
@@ -473,7 +473,7 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
    	    	   	    	<option value="CAMEROUN">CAMEROUN</option>
    	    	   	    	<option value="CANADA">CANADA</option>
    	    	   	    	<option value="CAP-VERT">CAP-VERT</option>
-   	    	   	    	<option value="C√†¬¥TE D'IVOIRE">C√†¬¥TE D'IVOIRE</option>
+   	    	   	    	<option value="C‡¥TE D'IVOIRE">C‡¥TE D'IVOIRE</option>
    	    	   	    	<option value="CHILI">CHILI</option>
    	    	   	    	<option value="CHINE">CHINE</option>
    	    	   	    	<option value="CHYPRE">CHYPRE</option>
@@ -489,63 +489,63 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
    	    	   	    	<option value="EL SALVADOR">EL SALVADOR</option>
    	    	   	    	<option value="ESPAGNE">ESPAGNE</option>
    	    	   	    	<option value="ESTONIE">ESTONIE</option>
-   	    	   	    	<option value="EX-R√âPUBLIQUE YOUGOSLAVE DE MAC√âDOINE">EX-R√âPUBLIQUE YOUGOSLAVE DE MA...</option>
-   	    	   	    	<option value="√âGYPTE">√âGYPTE</option>
-   	    	   	    	<option value="√âMIRATS ARABES UNIS">√âMIRATS ARABES UNIS</option>
-   	    	   	    	<option value="√âQUATEUR">√âQUATEUR</option>
-   	    	   	    	<option value="√âRYTHR√âE">√âRYTHR√âE</option>
-   	    	   	    	<option value="√âTATS-UNIS D'AM√âRIQUE">√âTATS-UNIS D'AM√âRIQUE</option>
-   	    	   	    	<option value="√âTHIOPIE">√âTHIOPIE</option>
-   	    	   	    	<option value="F√âD√âRATION DE RUSSIE">F√âD√âRATION DE RUSSIE</option>
+   	    	   	    	<option value="EX-R…PUBLIQUE YOUGOSLAVE DE MAC…DOINE">EX-R…PUBLIQUE YOUGOSLAVE DE MA...</option>
+   	    	   	    	<option value="…GYPTE">…GYPTE</option>
+   	    	   	    	<option value="…MIRATS ARABES UNIS">…MIRATS ARABES UNIS</option>
+   	    	   	    	<option value="…QUATEUR">…QUATEUR</option>
+   	    	   	    	<option value="…RYTHR…E">…RYTHR…E</option>
+   	    	   	    	<option value="…TATS-UNIS D'AM…RIQUE">…TATS-UNIS D'AM…RIQUE</option>
+   	    	   	    	<option value="…THIOPIE">…THIOPIE</option>
+   	    	   	    	<option value="F…D…RATION DE RUSSIE">F…D…RATION DE RUSSIE</option>
    	    	   	    	<option value="FIDJI">FIDJI</option>
    	    	   	    	<option value="FINLANDE">FINLANDE</option>
    	    	   	    	<option value="FRANCE" selected="">FRANCE</option>
    	    	   	    	<option value="GABON">GABON</option>
    	    	   	    	<option value="GAMBIE">GAMBIE</option>
-   	    	   	    	<option value="G√âORGIE">G√âORGIE</option>
+   	    	   	    	<option value="G…ORGIE">G…ORGIE</option>
    	    	   	    	<option value="GHANA">GHANA</option>
    	    	   	    	<option value="GIBRALTAR">GIBRALTAR</option>
    	    	   	    	<option value="GRENADE">GRENADE</option>
-   	    	   	    	<option value="GR√àCE">GR√àCE</option>
+   	    	   	    	<option value="GR»CE">GR»CE</option>
    	    	   	    	<option value="GROENLAND">GROENLAND</option>
    	    	   	    	<option value="GUADELOUPE">GUADELOUPE</option>
    	    	   	    	<option value="GUAM">GUAM</option>
    	    	   	    	<option value="GUATEMALA">GUATEMALA</option>
-   	    	   	    	<option value="GUIN√âE">GUIN√âE</option>
-   	    	   	    	<option value="GUIN√âE √âQUATORIALE">GUIN√âE √âQUATORIALE</option>
-   	    	   	    	<option value="GUIN√âE-BISSAU">GUIN√âE-BISSAU</option>
+   	    	   	    	<option value="GUIN…E">GUIN…E</option>
+   	    	   	    	<option value="GUIN…E …QUATORIALE">GUIN…E …QUATORIALE</option>
+   	    	   	    	<option value="GUIN…E-BISSAU">GUIN…E-BISSAU</option>
    	    	   	    	<option value="GUYANA">GUYANA</option>
-   	    	   	    	<option value="GUYANE FRAN√†¬ßAISE">GUYANE FRAN√†¬ßAISE</option>
-   	    	   	    	<option value="HA√èTI">HA√èTI</option>
+   	    	   	    	<option value="GUYANE FRAN‡ßAISE">GUYANE FRAN‡ßAISE</option>
+   	    	   	    	<option value="HAœTI">HAœTI</option>
    	    	   	    	<option value="HONDURAS">HONDURAS</option>
-   	    	   	    	<option value="HONG KONG R√âGION ADMINISTRATIVE SP√âCIALE DE√Ç&nbsp;CHINE">HONG KONG R√âGION ADMINISTRATIV...</option>
+   	    	   	    	<option value="HONG KONG R…GION ADMINISTRATIVE SP…CIALE DE¬&nbsp;CHINE">HONG KONG R…GION ADMINISTRATIV...</option>
    	    	   	    	<option value="HONGRIE">HONGRIE</option>
-   	    	   	    	<option value="ILES D' √†‚Ä¶LAND">ILES D' √†‚Ä¶LAND</option>
+   	    	   	    	<option value="ILES D' ‡...LAND">ILES D' ‡...LAND</option>
    	    	   	    	<option value="INDE">INDE</option>
-   	    	   	    	<option value="INDON√âSIE">INDON√âSIE</option>
-   	    	   	    	<option value="IRAN (R√âPUBLIQUE ISLAMIQUE D')">IRAN (R√âPUBLIQUE ISLAMIQUE D')</option>
+   	    	   	    	<option value="INDON…SIE">INDON…SIE</option>
+   	    	   	    	<option value="IRAN (R…PUBLIQUE ISLAMIQUE D')">IRAN (R…PUBLIQUE ISLAMIQUE D')</option>
    	    	   	    	<option value="IRAQ">IRAQ</option>
    	    	   	    	<option value="IRLANDE">IRLANDE</option>
    	    	   	    	<option value="ISLANDE">ISLANDE</option>
-   	    	   	    	<option value="ISRA√†¬´L">ISRA√†¬´L</option>
+   	    	   	    	<option value="ISRA‡´L">ISRA‡´L</option>
    	    	   	    	<option value="ITALIE">ITALIE</option>
-   	    	   	    	<option value="√éLE DE MAN">√éLE DE MAN</option>
-   	    	   	    	<option value="√éLE NORFOLK">√éLE NORFOLK</option>
-   	    	   	    	<option value="√éLES ANGLO-NORMANDES">√éLES ANGLO-NORMANDES</option>
-   	    	   	    	<option value="√éLES CA√èMANES">√éLES CA√èMANES</option>
-   	    	   	    	<option value="√éLES COOK">√éLES COOK</option>
-   	    	   	    	<option value="√éLES FALKLAND (MALVINAS)">√éLES FALKLAND (MALVINAS)</option>
-   	    	   	    	<option value="√éLES F√âRO√â">√éLES F√âRO√â</option>
-   	    	   	    	<option value="√éLES MARIANNES SEPTENTRIONALES">√éLES MARIANNES SEPTENTRIONALES</option>
-   	    	   	    	<option value="√éLES MARSHALL">√éLES MARSHALL</option>
-   	    	   	    	<option value="√éLES SALOMON">√éLES SALOMON</option>
-   	    	   	    	<option value="√éLES SVALBARD ET JAN MAYEN">√éLES SVALBARD ET JAN MAYEN</option>
-   	    	   	    	<option value="√éLES TURQUES ET CA√èQUES">√éLES TURQUES ET CA√èQUES</option>
-   	    	   	    	<option value="√éLES VIERGES AM√âRICAINES">√éLES VIERGES AM√âRICAINES</option>
-   	    	   	    	<option value="√éLES VIERGES BRITANNIQUES">√éLES VIERGES BRITANNIQUES</option>
-   	    	   	    	<option value="√éLES WALLIS ET FUTUNA">√éLES WALLIS ET FUTUNA</option>
+   	    	   	    	<option value="ŒLE DE MAN">ŒLE DE MAN</option>
+   	    	   	    	<option value="ŒLE NORFOLK">ŒLE NORFOLK</option>
+   	    	   	    	<option value="ŒLES ANGLO-NORMANDES">ŒLES ANGLO-NORMANDES</option>
+   	    	   	    	<option value="ŒLES CAœMANES">ŒLES CAœMANES</option>
+   	    	   	    	<option value="ŒLES COOK">ŒLES COOK</option>
+   	    	   	    	<option value="ŒLES FALKLAND (MALVINAS)">ŒLES FALKLAND (MALVINAS)</option>
+   	    	   	    	<option value="ŒLES F…RO…">ŒLES F…RO…</option>
+   	    	   	    	<option value="ŒLES MARIANNES SEPTENTRIONALES">ŒLES MARIANNES SEPTENTRIONALES</option>
+   	    	   	    	<option value="ŒLES MARSHALL">ŒLES MARSHALL</option>
+   	    	   	    	<option value="ŒLES SALOMON">ŒLES SALOMON</option>
+   	    	   	    	<option value="ŒLES SVALBARD ET JAN MAYEN">ŒLES SVALBARD ET JAN MAYEN</option>
+   	    	   	    	<option value="ŒLES TURQUES ET CAœQUES">ŒLES TURQUES ET CAœQUES</option>
+   	    	   	    	<option value="ŒLES VIERGES AM…RICAINES">ŒLES VIERGES AM…RICAINES</option>
+   	    	   	    	<option value="ŒLES VIERGES BRITANNIQUES">ŒLES VIERGES BRITANNIQUES</option>
+   	    	   	    	<option value="ŒLES WALLIS ET FUTUNA">ŒLES WALLIS ET FUTUNA</option>
    	    	   	    	<option value="JAMAHIRIYA ARABE LIBYENNE">JAMAHIRIYA ARABE LIBYENNE</option>
-   	    	   	    	<option value="JAMA√èQUE">JAMA√èQUE</option>
+   	    	   	    	<option value="JAMAœQUE">JAMAœQUE</option>
    	    	   	    	<option value="JAPON">JAPON</option>
    	    	   	    	<option value="JORDANIE">JORDANIE</option>
    	    	   	    	<option value="KAZAKHSTAN">KAZAKHSTAN</option>
@@ -553,16 +553,16 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
    	    	   	    	<option value="KIRGHIZISTAN">KIRGHIZISTAN</option>
    	    	   	    	<option value="KIRIBATI">KIRIBATI</option>
    	    	   	    	<option value="KOSOVO">KOSOVO</option>
-   	    	   	    	<option value="KOWE√èT">KOWE√èT</option>
+   	    	   	    	<option value="KOWEœT">KOWEœT</option>
    	    	   	    	<option value="LAOS">LAOS</option>
    	    	   	    	<option value="LESOTHO">LESOTHO</option>
    	    	   	    	<option value="LETTONIE">LETTONIE</option>
    	    	   	    	<option value="LIBAN">LIBAN</option>
-   	    	   	    	<option value="LIB√âRIA">LIB√âRIA</option>
+   	    	   	    	<option value="LIB…RIA">LIB…RIA</option>
    	    	   	    	<option value="LIECHTENSTEIN">LIECHTENSTEIN</option>
    	    	   	    	<option value="LITUANIE">LITUANIE</option>
    	    	   	    	<option value="LUXEMBOURG">LUXEMBOURG</option>
-   	    	   	    	<option value="MACAO R√âGION ADMINISTRATIVE SP√âCIALE DE CHINE">MACAO R√âGION ADMINISTRATIVE SP...</option>
+   	    	   	    	<option value="MACAO R…GION ADMINISTRATIVE SP…CIALE DE CHINE">MACAO R…GION ADMINISTRATIVE SP...</option>
    	    	   	    	<option value="MADAGASCAR">MADAGASCAR</option>
    	    	   	    	<option value="MALAISIE">MALAISIE</option>
    	    	   	    	<option value="MALAWI">MALAWI</option>
@@ -575,7 +575,7 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
    	    	   	    	<option value="MAURITANIE">MAURITANIE</option>
    	    	   	    	<option value="MAYOTTE">MAYOTTE</option>
    	    	   	    	<option value="MEXIQUE">MEXIQUE</option>
-   	    	   	    	<option value="MICRON√âSIE (√âTATS F√âD√âR√âS DE)">MICRON√âSIE (√âTATS F√âD√âR√âS DE)</option>
+   	    	   	    	<option value="MICRON…SIE (…TATS F…D…R…S DE)">MICRON…SIE (…TATS F…D…R…S DE)</option>
    	    	   	    	<option value="MONACO">MONACO</option>
    	    	   	    	<option value="MONGOLIE">MONGOLIE</option>
    	    	   	    	<option value="MONTSERRAT">MONTSERRAT</option>
@@ -583,40 +583,40 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
    	    	   	    	<option value="MYANMAR">MYANMAR</option>
    	    	   	    	<option value="NAMIBIE">NAMIBIE</option>
    	    	   	    	<option value="NAURU">NAURU</option>
-   	    	   	    	<option value="N√âPAL">N√âPAL</option>
+   	    	   	    	<option value="N…PAL">N…PAL</option>
    	    	   	    	<option value="NICARAGUA">NICARAGUA</option>
    	    	   	    	<option value="NIGER">NIGER</option>
-   	    	   	    	<option value="NIG√âRIA">NIG√âRIA</option>
-   	    	   	    	<option value="NIOU√â">NIOU√â</option>
-   	    	   	    	<option value="NORV√àGE">NORV√àGE</option>
-   	    	   	    	<option value="NOUVELLE-CAL√âDONIE">NOUVELLE-CAL√âDONIE</option>
-   	    	   	    	<option value="NOUVELLE-Z√âLANDE">NOUVELLE-Z√âLANDE</option>
+   	    	   	    	<option value="NIG…RIA">NIG…RIA</option>
+   	    	   	    	<option value="NIOU…">NIOU…</option>
+   	    	   	    	<option value="NORV»GE">NORV»GE</option>
+   	    	   	    	<option value="NOUVELLE-CAL…DONIE">NOUVELLE-CAL…DONIE</option>
+   	    	   	    	<option value="NOUVELLE-Z…LANDE">NOUVELLE-Z…LANDE</option>
    	    	   	    	<option value="OMAN">OMAN</option>
    	    	   	    	<option value="OUGANDA">OUGANDA</option>
-   	    	   	    	<option value="OUZB√âKISTAN">OUZB√âKISTAN</option>
+   	    	   	    	<option value="OUZB…KISTAN">OUZB…KISTAN</option>
    	    	   	    	<option value="PAKISTAN">PAKISTAN</option>
    	    	   	    	<option value="PALAOS">PALAOS</option>
    	    	   	    	<option value="PANAMA">PANAMA</option>
-   	    	   	    	<option value="PAPOUASIE-NOUVELLE-GUIN√âE">PAPOUASIE-NOUVELLE-GUIN√âE</option>
+   	    	   	    	<option value="PAPOUASIE-NOUVELLE-GUIN…E">PAPOUASIE-NOUVELLE-GUIN…E</option>
    	    	   	    	<option value="PARAGUAY">PARAGUAY</option>
    	    	   	    	<option value="PAYS-BAS">PAYS-BAS</option>
-   	    	   	    	<option value="P√âROU">P√âROU</option>
+   	    	   	    	<option value="P…ROU">P…ROU</option>
    	    	   	    	<option value="PHILIPPINES">PHILIPPINES</option>
    	    	   	    	<option value="PITCAIRN">PITCAIRN</option>
    	    	   	    	<option value="POLOGNE">POLOGNE</option>
-   	    	   	    	<option value="POLYN√âSIE FRANCAISE">POLYN√âSIE FRANCAISE</option>
+   	    	   	    	<option value="POLYN…SIE FRANCAISE">POLYN…SIE FRANCAISE</option>
    	    	   	    	<option value="PORTO RICO">PORTO RICO</option>
    	    	   	    	<option value="PORTUGAL">PORTUGAL</option>
    	    	   	    	<option value="QATAR">QATAR</option>
-   	    	   	    	<option value="R√âPUBLIQUE ARABE SYRIENNE">R√âPUBLIQUE ARABE SYRIENNE</option>
-   	    	   	    	<option value="R√âPUBLIQUE CENTRAFRICAINE">R√âPUBLIQUE CENTRAFRICAINE</option>
-   	    	   	    	<option value="R√âPUBLIQUE DE COR√âE">R√âPUBLIQUE DE COR√âE</option>
-   	    	   	    	<option value="R√âPUBLIQUE DE MOLDOVA">R√âPUBLIQUE DE MOLDOVA</option>
-   	    	   	    	<option value="R√âPUBLIQUE D√âMOCRATIQUE DU CONGO">R√âPUBLIQUE D√âMOCRATIQUE DU CON...</option>
-   	    	   	    	<option value="R√âPUBLIQUE DOMINICAINE">R√âPUBLIQUE DOMINICAINE</option>
-   	    	   	    	<option value="R√âPUBLIQUE POPULAIRE D√âMOCRATIQUE DE COR√âE">R√âPUBLIQUE POPULAIRE D√âMOCRATI...</option>
-   	    	   	    	<option value="R√âPUBLIQUE TCH√àQUE">R√âPUBLIQUE TCH√àQUE</option>
-   	    	   	    	<option value="R√âUNION">R√âUNION</option>
+   	    	   	    	<option value="R…PUBLIQUE ARABE SYRIENNE">R…PUBLIQUE ARABE SYRIENNE</option>
+   	    	   	    	<option value="R…PUBLIQUE CENTRAFRICAINE">R…PUBLIQUE CENTRAFRICAINE</option>
+   	    	   	    	<option value="R…PUBLIQUE DE COR…E">R…PUBLIQUE DE COR…E</option>
+   	    	   	    	<option value="R…PUBLIQUE DE MOLDOVA">R…PUBLIQUE DE MOLDOVA</option>
+   	    	   	    	<option value="R…PUBLIQUE D…MOCRATIQUE DU CONGO">R…PUBLIQUE D…MOCRATIQUE DU CON...</option>
+   	    	   	    	<option value="R…PUBLIQUE DOMINICAINE">R…PUBLIQUE DOMINICAINE</option>
+   	    	   	    	<option value="R…PUBLIQUE POPULAIRE D…MOCRATIQUE DE COR…E">R…PUBLIQUE POPULAIRE D…MOCRATI...</option>
+   	    	   	    	<option value="R…PUBLIQUE TCH»QUE">R…PUBLIQUE TCH»QUE</option>
+   	    	   	    	<option value="R…UNION">R…UNION</option>
    	    	   	    	<option value="ROUMANIE">ROUMANIE</option>
    	    	   	    	<option value="ROYAUME-UNI">ROYAUME-UNI</option>
    	    	   	    	<option value="RWANDA">RWANDA</option>
@@ -624,39 +624,39 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
    	    	   	    	<option value="SAINT-KITTS-ET-NEVIS">SAINT-KITTS-ET-NEVIS</option>
    	    	   	    	<option value="SAINT-MARIN">SAINT-MARIN</option>
    	    	   	    	<option value="SAINT-PIERRE-ET-MIQUELON">SAINT-PIERRE-ET-MIQUELON</option>
-   	    	   	    	<option value="SAINT-SI√àGE">SAINT-SI√àGE</option>
+   	    	   	    	<option value="SAINT-SI»GE">SAINT-SI»GE</option>
    	    	   	    	<option value="SAINT-VINCENT-ET-LES GRENADINES">SAINT-VINCENT-ET-LES GRENADINE...</option>
-   	    	   	    	<option value="SAINTE-H√âL√àNE">SAINTE-H√âL√àNE</option>
+   	    	   	    	<option value="SAINTE-H…L»NE">SAINTE-H…L»NE</option>
    	    	   	    	<option value="SAINTE-LUCIE">SAINTE-LUCIE</option>
    	    	   	    	<option value="SAMOA">SAMOA</option>
-   	    	   	    	<option value="SAMOAS AM√âRICAINES">SAMOAS AM√âRICAINES</option>
-   	    	   	    	<option value="SAO TOM√â-ET-PRINCIPE">SAO TOM√â-ET-PRINCIPE</option>
-   	    	   	    	<option value="SERBIE-ET-MONT√âN√âGRO">SERBIE-ET-MONT√âN√âGRO</option>
+   	    	   	    	<option value="SAMOAS AM…RICAINES">SAMOAS AM…RICAINES</option>
+   	    	   	    	<option value="SAO TOM…-ET-PRINCIPE">SAO TOM…-ET-PRINCIPE</option>
+   	    	   	    	<option value="SERBIE-ET-MONT…N…GRO">SERBIE-ET-MONT…N…GRO</option>
    	    	   	    	<option value="SEYCHELLES">SEYCHELLES</option>
-   	    	   	    	<option value="S√âN√âGAL">S√âN√âGAL</option>
+   	    	   	    	<option value="S…N…GAL">S…N…GAL</option>
    	    	   	    	<option value="SIERRA LEONE">SIERRA LEONE</option>
    	    	   	    	<option value="SINGAPOUR">SINGAPOUR</option>
    	    	   	    	<option value="SLOVAQUIE">SLOVAQUIE</option>
-   	    	   	    	<option value="SLOV√âNIE">SLOV√âNIE</option>
+   	    	   	    	<option value="SLOV…NIE">SLOV…NIE</option>
    	    	   	    	<option value="SOMALIE">SOMALIE</option>
    	    	   	    	<option value="SOUDAN">SOUDAN</option>
    	    	   	    	<option value="SRI LANKA">SRI LANKA</option>
-   	    	   	    	<option value="SU√àDE">SU√àDE</option>
+   	    	   	    	<option value="SU»DE">SU»DE</option>
    	    	   	    	<option value="SUISSE">SUISSE</option>
    	    	   	    	<option value="SURINAME">SURINAME</option>
    	    	   	    	<option value="SWAZILAND">SWAZILAND</option>
    	    	   	    	<option value="TADJIKISTAN">TADJIKISTAN</option>
    	    	   	    	<option value="TANZANIE">TANZANIE</option>
    	    	   	    	<option value="TCHAD">TCHAD</option>
-   	    	   	    	<option value="TERRITOIRE PALESTINIEN OCCUP√â">TERRITOIRE PALESTINIEN OCCUP√â</option>
-   	    	   	    	<option value="THA√èLANDE">THA√èLANDE</option>
+   	    	   	    	<option value="TERRITOIRE PALESTINIEN OCCUP…">TERRITOIRE PALESTINIEN OCCUP…</option>
+   	    	   	    	<option value="THAœLANDE">THAœLANDE</option>
    	    	   	    	<option value="TIMOR-LESTE">TIMOR-LESTE</option>
    	    	   	    	<option value="TOGO">TOGO</option>
-   	    	   	    	<option value="TOK√âLAOU">TOK√âLAOU</option>
+   	    	   	    	<option value="TOK…LAOU">TOK…LAOU</option>
    	    	   	    	<option value="TONGA">TONGA</option>
-   	    	   	    	<option value="TRINIT√â-ET-TOBAGO">TRINIT√â-ET-TOBAGO</option>
+   	    	   	    	<option value="TRINIT…-ET-TOBAGO">TRINIT…-ET-TOBAGO</option>
    	    	   	    	<option value="TUNISIE">TUNISIE</option>
-   	    	   	    	<option value="TURKM√âNISTAN">TURKM√âNISTAN</option>
+   	    	   	    	<option value="TURKM…NISTAN">TURKM…NISTAN</option>
    	    	   	    	<option value="TURQUIE">TURQUIE</option>
    	    	   	    	<option value="TUVALU">TUVALU</option>
    	    	   	    	<option value="UKRAINE">UKRAINE</option>
@@ -664,7 +664,7 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
    	    	   	    	<option value="VANUATU">VANUATU</option>
    	    	   	    	<option value="VENEZUELA">VENEZUELA</option>
    	    	   	    	<option value="VIET NAM">VIET NAM</option>
-   	    	   	    	<option value="Y√âMEN">Y√âMEN</option>
+   	    	   	    	<option value="Y…MEN">Y…MEN</option>
    	    	   	    	<option value="ZAMBIE">ZAMBIE</option>
    	    	   	    	<option value="ZIMBABWE">ZIMBABWE</option>
    	    	 	    	</select></td>
@@ -829,7 +829,7 @@ $(".bullereseausociaux").tipTip({defaultPosition: "right", maxWidth: "150px", ed
     <td align="right"><a href="http://onepercentfortheplanet.org/" target="_blank"><img src="http://www.planete-urgence.org/images/logos/logo-1pc_en.png" border="0" align="right" width="50" style="padding-right:10px;"></a></td>
     <td align="left"><a href="http://www.plant-for-the-planet.org/en" target="_blank"><img src="http://www.planete-urgence.org/images/logos/logo-plantons-pour-la-planete_en.png" border="0" align="left" width="50" style="padding-left:10px;"></a></td>
   </tr>
-</tbody></table>¬© Plan√®te Urgence 2015 - Association reconnue d'utilit√© publique - Nous vous aidons √† agir</div>
+</tbody></table>© PlanËte Urgence 2015 - Association reconnue d'utilitÈ publique - Nous vous aidons ‡ agir</div>
 </div>
 
             </div>

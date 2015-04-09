@@ -1,0 +1,903 @@
+<html><head>	
+    	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <title>Association Planète Urgence</title>
+        <meta name="description" content="Partez 15 jours en mission de Congé Solidaire sur un projet visant à renforcer l'autonomie des populations et la protection de leur environnement.">
+		<meta name="keywords" content="">
+		<meta name="organization" content="PlanÃ¨te Urgence, 39 rue Crozatier, 75012 Paris, France">
+		<meta name="author" content="Steven" >
+        <meta property="og:url" content="http://www.planete-urgence.org/conge-solidaire/conge-solidaire.htm">
+        <meta property="og:type" content="non_profit">
+        <meta property="fb:admins" content="100004107064963">
+        
+        <meta property="og:title" content="Planète Urgence, association de solidarité internationale reconnue d'utilité publique">       
+        <meta property="og:image" content="http://www.planete-urgence.org/images/logos/association-humanitaire.png">
+        <meta property="og:site_name" content="Planète Urgence, 39 rue Crozatier, 75012 Paris, France">
+        <meta property="og:description" content="Partez 15 jours en mission de Congé Solidaire sur un projet visant à renforcer l'autonomie des populations et la protection de leur environnement.">
+        
+        <!--<meta name="ROBOTS" content="NOINDEX,NOFOLLOW">-->
+		<meta name="robots" content="index">
+		<meta name="REVISIT-AFTER" content="7 days">
+        <link rel="shortcut icon" href="../images/logos/favicon.ico">
+        <link rel="stylesheet" href="../css/global.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="../css/jscrollpane.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="../css/clipintro.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="../css/lofslider_diaporama_cs.css" type="text/css" media="screen">
+       <script type="text/javascript" src="../scripts/local.js"></script>
+        <script type="text/javascript" src="../scripts/form.js"></script>
+		<script type="text/javascript" src="../scripts/flash.js"></script>
+		<script type="text/javascript" src="../scripts/swfobject.js"></script>
+        <script language="javascript" type="text/javascript" src="../LofSlider/js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="../LofSlider/js/jquery.easing.js"></script>
+<script language="javascript" type="text/javascript" src="../LofSlider/js/script.js"></script>
+<script type="text/javascript" src="../scripts/jquery.tipTip.js"></script>
+<script type="text/javascript" src="../scripts/mousewheel.js"></script>
+<script type="text/javascript" src="../scripts/mwheelIntent.js"></script>
+<script type="text/javascript" src="../scripts/jscrollpane.min.js"></script>
+    </head>
+
+    <body>
+    
+    	<div id="popup" style="visibility: visible; display: block;">
+		        </div>
+        
+        <script>
+		afficheId('popup');
+        </script>
+        
+    	<div id="header" class="header" style="position:relative; z-index:100001;"> <form id="deconnexion" method="post" action="">
+    <input id="CON" name="CON" type="hidden" value="DECONNECT">
+    <input name="MONPANIER" id="MONPANIER" type="hidden" value="">
+	</form>
+
+<div id="popupconnexion" style="visibility: hidden; display: none;"><div id="popupconnexionbg"></div>
+<div id="popupconnexioncorps" class="popupcorps">
+<p class="popupfermer"><a onclick="cacheId('popupconnexion');">x</a></p>
+<h4>Login to your account</h4>
+<form id="connexion" method="post" action="" onsubmit="return validationconnexion();">
+
+<table width="320" border="0" cellspacing="0" cellpadding="0" style="padding-bottom:20px;">
+  <tbody><tr>
+    <td><p><label><input type="radio" name="connexion_select" value="particulier" id="connexion_select_0" checked="checked">
+    &nbsp;I volunteer or donor and connects me personally</label>
+    </p></td>
+  </tr>
+  <tr>
+    <td><p><label><input type="radio" name="connexion_select" value="entreprise" id="connexion_select_1">&nbsp;I connect to my company name</label>
+    </p></td>
+  </tr>
+  <!--<tr>
+    <td><p><label><input type="radio" name="connexion_select" value="porteur" id="connexion_select_2" />&nbsp;Je me connecte en tant que porteur de projet</label></p></td>
+  </tr>-->
+</tbody></table>
+
+<table width="320" border="0" cellspacing="0" cellpadding="0" style="padding-bottom:20px;">
+  <tbody><tr>
+    <td width="80"><p>Login</p></td>
+    <td><input type="text" id="login" name="login" size="20" class="popupinputtexteoff" onfocus="focusform('login','popupinputtexteon'); if(this.value == 'login') { this.value='' ; } if(this.form.password.value == 'password') { this.form.password.value ='' ; }" onblur="focusform('login','popupinputtexteoff');" value="login" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDhss3LcOZQAAAU5JREFUOMvdkzFLA0EQhd/bO7iIYmklaCUopLAQA6KNaawt9BeIgnUwLHPJRchfEBR7CyGWgiDY2SlIQBT/gDaCoGDudiy8SLwkBiwz1c7y+GZ25i0wnFEqlSZFZKGdi8iiiOR7aU32QkR2c7ncPcljAARAkgckb8IwrGf1fg/oJ8lRAHkR2VDVmOQ8AKjqY1bMHgCGYXhFchnAg6omJGcBXEZRtNoXYK2dMsaMt1qtD9/3p40x5yS9tHICYF1Vn0mOxXH8Uq/Xb389wff9PQDbQRB0t/QNOiPZ1h4B2MoO0fxnYz8dOOcOVbWhqq8kJzzPa3RAXZIkawCenHMjJN/+GiIqlcoFgKKq3pEMAMwAuCa5VK1W3SAfbAIopum+cy5KzwXn3M5AI6XVYlVt1mq1U8/zTlS1CeC9j2+6o1wuz1lrVzpWXLDWTg3pz/0CQnd2Jos49xUAAAAASUVORK5CYII=); background-attachment: scroll; background-position: 100% 50%; background-repeat: no-repeat;" autocomplete="off"></td>
+  </tr>
+  <tr>
+    <td width="80"><p>Password</p></td>
+    <td><input type="password" id="password" name="password" size="20" class="popupinputtexteoff" onfocus="focusform('password','popupinputtexteon'); if(this.value == 'password') { this.value ='' ; }" onblur="focusform('password','popupinputtexteoff');" value="password" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDhss3LcOZQAAAU5JREFUOMvdkzFLA0EQhd/bO7iIYmklaCUopLAQA6KNaawt9BeIgnUwLHPJRchfEBR7CyGWgiDY2SlIQBT/gDaCoGDudiy8SLwkBiwz1c7y+GZ25i0wnFEqlSZFZKGdi8iiiOR7aU32QkR2c7ncPcljAARAkgckb8IwrGf1fg/oJ8lRAHkR2VDVmOQ8AKjqY1bMHgCGYXhFchnAg6omJGcBXEZRtNoXYK2dMsaMt1qtD9/3p40x5yS9tHICYF1Vn0mOxXH8Uq/Xb389wff9PQDbQRB0t/QNOiPZ1h4B2MoO0fxnYz8dOOcOVbWhqq8kJzzPa3RAXZIkawCenHMjJN/+GiIqlcoFgKKq3pEMAMwAuCa5VK1W3SAfbAIopum+cy5KzwXn3M5AI6XVYlVt1mq1U8/zTlS1CeC9j2+6o1wuz1lrVzpWXLDWTg3pz/0CQnd2Jos49xUAAAAASUVORK5CYII=); background-attachment: scroll; background-position: 100% 50%; background-repeat: no-repeat;" autocomplete="off"></td>
+  </tr>
+</tbody></table>
+
+<table width="320" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="right"><input type="hidden" name="action" id="action" value="monespace"><input type="hidden" name="action2" id="action2" value=""><input type="hidden" name="mission1" id="mission1" value=""><input type="hidden" name="mission2" id="mission2" value=""><input type="hidden" name="mission3" id="mission3" value=""><input type="hidden" name="montantconnect" id="montantconnect" value=""><input type="hidden" name="idtemporaire" id="idtemporaire" value=""><input id="CON" name="CON" type="hidden" value="CONNECT"><input type="submit" id="submit2" name="submit2" value="Connection" class="popupbouton"></td>
+    <td width="120" align="right"><input type="button" id="boutonannuler" name="boutonannuler" value="Cancel" class="popupbouton" onclick="cacheId('popupconnexion');"></td>
+  </tr>
+</tbody></table>
+
+</form>
+</div></div>
+<script>
+cacheId('popupconnexion');
+</script>
+
+<div id="popupmiseajour" style="visibility: hidden; display: none;"><div id="popupconnexionbg"></div>
+<div id="popupconnexioncorps" class="popupcorps" style="min-height:30px;">
+<p class="popupfermer"><a href="">x</a></p>
+<h4>Your account has been updated</h4>
+<p style="text-align:center;"><a href="">Click to return to application form</a></p>
+</div></div>
+<script>
+cacheId('popupmiseajour');</script>
+
+
+<div id="popupdossiercs" style="visibility: hidden; display: none;"><div id="popupconnexionbg"></div>
+<div id="popupconnexioncorps" class="popupcorps">
+<p class="popupfermer"><a onclick="cacheId('popupdossiercs');">x</a></p>
+<h4>Your application for a STVA</h4>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:0 0 10px 0 ;">
+	</table>
+</div></div>
+<script>
+cacheId('popupdossiercs');
+</script>
+    
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_cs_ed.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_asso.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_second.css" type="text/css" media="screen">
+
+<div id="headercenterpage" class="header" style="height:80px; margin-top:5px;">
+<div id="headerbaseline" style="background:url(http://www.planete-urgence.org/images/logos/baseline_EN.png) no-repeat;">
+</div>
+<div id="header1" style="position:absolute; float:left; width:180px; line-height:normal; height:70px; vertical-align:bottom;">
+<a href="http://www.planete-urgence.org/?langue=en"><img src="http://www.planete-urgence.org/images/logos/logo-planete-urgence-177_EN.png" width="177" border="0"></a>
+</div>
+
+<div id="header2" style="position:relative; left:180px; width:820px;">
+	<div id="header2haut" style="width:830px; height:60px; vertical-align:top;">
+    	<div id="menusec1">
+<div id="selectlangue">
+    <table width="50" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="50" align="left"><a href="http://www.planete-urgence.org/conge-solidaire/le-conge-solidaire.htm?langue=fr"><img src="http://www.planete-urgence.org/images/icones/drapeau_fr_off.png" width="50" height="50" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/drapeau_fr_on.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/drapeau_fr_off.png';"></a></td>
+  </tr>
+</tbody></table>
+</div>
+<div id="connectionoff" class="connectionoff pointer" onclick="afficheId('popupconnexion');" onmouseover="document.getElementById('connectionoff').className = 'connectionon pointer';" onmouseout="document.getElementById('connectionoff').className = 'connectionoff pointer';">Your account</div>
+
+
+</div>
+
+	</div>
+    
+    
+    <div id="header2bas" style="height:43px; margin-top:-36px;">
+    	<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_cs_ed.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_asso.css" type="text/css" media="screen">
+
+<div id="menuprincipal1" style="position:absolute; width:500px;">
+<ul id="menucsed">
+
+	<!-- D&eacute;but Menu CS -->
+    
+    <li><a href="http://www.planete-urgence.org/conge-solidaire/?langue=en" class="drop">Short-Term Volunteer Assignment</a>
+    
+      <div class="dropdown_2columns">
+        
+            <div class="col_2">
+                <h2>At the request of a local organization (associations, women's groups, artisans, cooperatives, educational networks, scientific partners) the STVA program allows you to be involved in a short-term assignment (2 to 4 weeks).</h2>
+        </div>
+            
+            <div class="col_1">
+            	<ul class="greybox">
+                    <li style="line-height:37px; background:#990099;" onmouseover="this.style.backgroundColor='#333333';" onmouseout="this.style.backgroundColor='#990099';"><a id="menupartez" href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire-missions.htm" style="color:#FFFFFF;">Find and display STVA</a></li>
+                    <li><a href="http://www.planete-urgence.org/conge-solidaire/countries-in-which-conge-solidaire-is-involved.htm">Countries of operation</a></li>
+                </ul>
+            </div>
+            
+            <div class="col_1">
+            	<ul class="greybox">
+                	<li style="line-height:37px;"><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire.htm">What is STVA?</a></li>
+                    <li style="line-height:37px;"><a href="http://www.planete-urgence.org/conge-solidaire/funding-conge-solidaire.htm">Funding STVA</a></li>
+                    
+                    
+                </ul>
+            </div>
+            
+            
+           
+        
+        </div>
+        
+	</li>
+    
+    <!-- Fin Menu CS -->
+
+	<!-- Debut Menu ED -->
+    
+    <li><a href="http://www.planete-urgence.org/environnement-et-developpement/?langue=en" class="drop">Environment &amp; Development</a>
+    
+        <div class="dropdown_2columns">
+        
+            <div class="col_2">
+                <h2>Offering support to local organizations in their project, reconciling the development of economic activities and environmental protection: these are the issues addressed by the "Environment &amp; Development" program that was implemented in 2006 by PU.</h2>
+            </div>
+            
+            <div class="col_1">
+            	<ul class="greybox">
+                <li style="line-height:37px; background:#990099;" onmouseover="this.style.backgroundColor='#333333';" onmouseout="this.style.backgroundColor='#990099';"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development.htm" style="color:#FFFFFF;">The program</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-haiti.htm">Haiti</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-indonesia.htm">Indonesia</a></li>
+                </ul>
+            </div>
+            
+            <div class="col_1">
+            	<ul class="greybox">
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=arbre">Plant a tree!</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-madagascar.htm">Madagascar</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-mali.htm">Mali</a></li>
+                </ul> 
+            </div>
+        </div>
+        
+	</li>
+    
+    <!-- Fin Menu ED -->
+</ul>
+
+</div>
+
+<div id="menuprincipal2" style="position: relative; left:600px; top:32px; width:310px;">
+<ul id="menuasso">
+    
+    <li><a href="http://www.planete-urgence.org/association/?langue=en" class="drop">The association</a>
+    	<div class="dropdown_1column align_right">
+        
+                <div class="col_1">
+                
+                    <ul class="simple">
+                        <li><a href="http://www.planete-urgence.org/association/the-association.htm">Who we are</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/who-is-who.htm">Who's who in the association</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/contact-us.htm">Contact us</a></li>
+                        
+                    </ul>   
+                     
+                </div>
+                
+		</div>
+    </li>
+  
+    
+    <li><a href="http://www.planete-urgence.org/association/make-a-donation.htm" class="drop">Support us!</a>
+    	<div class="dropdown_1column align_right">
+        
+                <div class="col_1">
+                
+                    <ul class="simple">
+                        <li><a href="http://www.planete-urgence.org/association/make-a-donation.htm">Make a donation</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=adherer">Membership</a></li>
+                        <li><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire-missions.htm">Short-Term Volunteer Assignments</a></li>
+                        <li style="padding-top:10px; border-top:1px dotted #6F685F;"><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=arbre">Plant a tree</a></li>
+                        <li style="padding-top:10px; border-top:1px dotted #6F685F; line-height:20px;"><a style="cursor:default; color:#000000;">Share...</a></li>
+                        <li style="line-height:30px;"><a href="http://www.facebook.com/share.php?u=http://www.planete-urgence.org" target="_blank"><img id="facebook2" src="http://www.planete-urgence.org/images/icones/icone-facebook.png" width="22" height="22" border="0" class="img_left" title="Partagez notre site internet sur Facebook !">...on Facebook</a></li>
+                        <li style="line-height:30px;"><a href="http://twitter.com/home?status=Site internet de @PlaneteUrgence : http://www.planete-urgence.org" target="_blank"><img id="twitter2" src="http://www.planete-urgence.org/images/icones/icone-twitter.png" width="22" height="22" border="0" class="img_left" title="Twittez notre site internet !">...via Twitter</a></li>
+                    </ul>   
+                     
+                </div>
+                
+		</div>
+    </li>
+
+</ul>
+</div>	</div>
+    
+</div>
+
+</div></div>
+
+        
+        <div id="centerpage">
+			<script>
+$(function(){
+$(".bulledaide").tipTip({defaultPosition: "top", maxWidth: "300px", edgeOffset: 10});
+});
+
+$(function(){
+$(".bullelegende").tipTip({defaultPosition: "bottom", maxWidth: "300px", edgeOffset: 0});
+});
+
+$(document).ready(function(){
+	$("#menuCS1titre").removeClass("menurechercheunselect");
+	$("#menuCS1titre").addClass("menurechercheselect");
+	$("#CSgen_0").removeClass("menurechercheoff");
+	$("#CSgen_0").addClass("menurechercheon");
+    $("#CSgen_0").click(function(){
+		$("#CScomportement").slideUp("fast") ;
+		$("#CScomportement_0").addClass("menurechercheoff");
+		$("#CScomportement_0").removeClass("menurechercheon");
+		$("#CSsecu").slideUp("fast");
+		$("#CSsecu_0").addClass("menurechercheoff");
+		$("#CSsecu_0").removeClass("menurechercheon");
+		$("#CSmission").slideUp("fast");
+		$("#CSmission_0").addClass("menurechercheoff");
+		$("#CSmission_0").removeClass("menurechercheon");
+        $("#CSetapes").slideUp("fast");
+		$("#CSetapes_0").addClass("menurechercheoff");
+		$("#CSetapes_0").removeClass("menurechercheon");
+		//$("#CSdocuments").slideUp("fast");
+		//$("#CSdocuments_0").addClass("menurechercheoff");
+		//$("#CSdocuments_0").removeClass("menurechercheon");
+		$("#CSequipe").slideUp("fast");
+		$("#CSequipe_0").addClass("menurechercheoff");
+		$("#CSequipe_0").removeClass("menurechercheon");
+		
+        $("#CSgen").slideDown("slow");
+		$("#CSgen_0").addClass("menurechercheon");
+		$("#CSgen_0").removeClass("menurechercheoff");
+		return(false) ;
+    });
+});
+
+$(document).ready(function(){
+	 $("#CScomportement").hide();
+	 $("#CScomportement_0").click(function(){
+		$("#CSsecu").slideUp("fast");
+		$("#CSsecu_0").addClass("menurechercheoff");
+		$("#CSsecu_0").removeClass("menurechercheon");
+		$("#CSmission").slideUp("fast");
+		$("#CSmission_0").addClass("menurechercheoff");
+		$("#CSmission_0").removeClass("menurechercheon");
+        $("#CSgen").slideUp("fast");
+		$("#CSgen_0").addClass("menurechercheoff");
+		$("#CSgen_0").removeClass("menurechercheon");
+        $("#CSetapes").slideUp("fast");
+		$("#CSetapes_0").addClass("menurechercheoff");
+		$("#CSetapes_0").removeClass("menurechercheon");
+		//$("#CSdocuments").slideUp("fast");
+		//$("#CSdocuments_0").addClass("menurechercheoff");
+		//$("#CSdocuments_0").removeClass("menurechercheon");
+		$("#CSequipe").slideUp("fast");
+		$("#CSequipe_0").addClass("menurechercheoff");
+		$("#CSequipe_0").removeClass("menurechercheon");
+		
+        $("#CScomportement").slideDown("slow");
+		$("#CScomportement_0").removeClass("menurechercheoff");
+		$("#CScomportement_0").addClass("menurechercheon");
+		return(false) ;
+    });
+});
+
+$(document).ready(function(){
+	 $("#CSsecu").hide();
+	 $("#CSsecu_0").click(function(){
+    	$("#CScomportement").slideUp("fast") ;
+		$("#CScomportement_0").addClass("menurechercheoff");
+		$("#CScomportement_0").removeClass("menurechercheon");
+		$("#CSmission").slideUp("fast");
+		$("#CSmission_0").addClass("menurechercheoff");
+		$("#CSmission_0").removeClass("menurechercheon");
+        $("#CSgen").slideUp("fast");
+		$("#CSgen_0").addClass("menurechercheoff");
+		$("#CSgen_0").removeClass("menurechercheon");
+        $("#CSetapes").slideUp("fast");
+		$("#CSetapes_0").addClass("menurechercheoff");
+		$("#CSetapes_0").removeClass("menurechercheon");
+		//$("#CSdocuments").slideUp("fast");
+		//$("#CSdocuments_0").addClass("menurechercheoff");
+		//$("#CSdocuments_0").removeClass("menurechercheon");
+		$("#CSequipe").slideUp("fast");
+		$("#CSequipe_0").addClass("menurechercheoff");
+		$("#CSequipe_0").removeClass("menurechercheon");
+		
+        $("#CSsecu").slideDown("slow");
+		$("#CSsecu_0").addClass("menurechercheon");
+		$("#CSsecu_0").removeClass("menurechercheoff");
+		return(false) ;
+    });
+});
+
+$(document).ready(function(){
+	 $("#CSetapes").hide();
+	 $("#CSetapes_0").click(function(){
+		
+		$("#CScomportement").slideUp("fast") ;
+		$("#CScomportement_0").addClass("menurechercheoff");
+		$("#CScomportement_0").removeClass("menurechercheon");
+		$("#CSsecu").slideUp("fast");
+		$("#CSsecu_0").addClass("menurechercheoff");
+		$("#CSsecu_0").removeClass("menurechercheon");
+		$("#CSmission").slideUp("fast");
+		$("#CSmission_0").addClass("menurechercheoff");
+		$("#CSmission_0").removeClass("menurechercheon");
+        $("#CSgen").slideUp("fast");
+		$("#CSgen_0").addClass("menurechercheoff");
+		$("#CSgen_0").removeClass("menurechercheon");
+		//$("#CSdocuments").slideUp("fast");
+		//$("#CSdocuments_0").addClass("menurechercheoff");
+		//$("#CSdocuments_0").removeClass("menurechercheon");
+		$("#CSequipe").slideUp("fast");
+		$("#CSequipe_0").addClass("menurechercheoff");
+		$("#CSequipe_0").removeClass("menurechercheon");
+		
+        $("#CSetapes").slideDown("slow");
+		$("#CSetapes_0").addClass("menurechercheon");
+		$("#CSetapes_0").removeClass("menurechercheoff");
+		return(false) ;
+    });
+});
+
+$(document).ready(function(){
+	 $("#CSmission").hide();
+	 $("#CSmission_0").click(function(){
+		$("#CScomportement").slideUp("fast") ;
+		$("#CScomportement_0").addClass("menurechercheoff");
+		$("#CScomportement_0").removeClass("menurechercheon");
+		$("#CSsecu").slideUp("fast");
+		$("#CSsecu_0").addClass("menurechercheoff");
+		$("#CSsecu_0").removeClass("menurechercheon");
+        $("#CSgen").slideUp("fast");
+		$("#CSgen_0").addClass("menurechercheoff");
+		$("#CSgen_0").removeClass("menurechercheon");
+        $("#CSetapes").slideUp("fast");
+		$("#CSetapes_0").addClass("menurechercheoff");
+		$("#CSetapes_0").removeClass("menurechercheon");
+		//$("#CSdocuments").slideUp("fast");
+		//$("#CSdocuments_0").addClass("menurechercheoff");
+		//$("#CSdocuments_0").removeClass("menurechercheon");
+		$("#CSequipe").slideUp("fast");
+		$("#CSequipe_0").addClass("menurechercheoff");
+		$("#CSequipe_0").removeClass("menurechercheon");
+		
+        $("#CSmission").slideDown("slow");
+		$("#CSmission_0").addClass("menurechercheon");
+		$("#CSmission_0").removeClass("menurechercheoff");
+		return(false) ;
+    });
+});
+
+//$(document).ready(function(){
+//	 $("#CSdocuments").hide();
+//	 $("#CSdocuments_0").click(function(){
+//		$("#CScomportement").slideUp("fast") ;
+//		$("#CScomportement_0").addClass("menurechercheoff");
+//		$("#CScomportement_0").removeClass("menurechercheon");
+//		$("#CSsecu").slideUp("fast");
+//		$("#CSsecu_0").addClass("menurechercheoff");
+//		$("#CSsecu_0").removeClass("menurechercheon");
+//        $("#CSgen").slideUp("fast");
+//		$("#CSgen_0").addClass("menurechercheoff");
+//		$("#CSgen_0").removeClass("menurechercheon");
+//        $("#CSetapes").slideUp("fast");
+//		$("#CSetapes_0").addClass("menurechercheoff");
+//		$("#CSetapes_0").removeClass("menurechercheon");
+//		$("#CSmission").slideUp("fast");
+//		$("#CSmission_0").addClass("menurechercheoff");
+//		$("#CSmission_0").removeClass("menurechercheon");
+//		$("#CSequipe").slideUp("fast");
+//		$("#CSequipe_0").addClass("menurechercheoff");
+//		$("#CSequipe_0").removeClass("menurechercheon");
+//		
+//        $("#CSdocuments").slideDown("slow");
+//		$("#CSdocuments_0").addClass("menurechercheon");
+//		$("#CSdocuments_0").removeClass("menurechercheoff");
+//		return(false) ;
+//    });
+//});
+
+$(document).ready(function(){
+	 $("#CSequipe").hide();
+	 $("#CSequipe_0").click(function(){
+		$("#CScomportement").slideUp("fast") ;
+		$("#CScomportement_0").addClass("menurechercheoff");
+		$("#CScomportement_0").removeClass("menurechercheon");
+		$("#CSsecu").slideUp("fast");
+		$("#CSsecu_0").addClass("menurechercheoff");
+		$("#CSsecu_0").removeClass("menurechercheon");
+        $("#CSgen").slideUp("fast");
+		$("#CSgen_0").addClass("menurechercheoff");
+		$("#CSgen_0").removeClass("menurechercheon");
+        $("#CSetapes").slideUp("fast");
+		$("#CSetapes_0").addClass("menurechercheoff");
+		$("#CSetapes_0").removeClass("menurechercheon");
+		$("#CSmission").slideUp("fast");
+		$("#CSmission_0").addClass("menurechercheoff");
+		$("#CSmission_0").removeClass("menurechercheon");
+		//$("#CSdocuments").slideUp("fast");
+		//$("#CSdocuments_0").addClass("menurechercheoff");
+		//$("#CSdocuments_0").removeClass("menurechercheon");
+		
+		$("#CSequipe").slideDown("slow");
+		$("#CSequipe_0").addClass("menurechercheon");
+		$("#CSequipe_0").removeClass("menurechercheoff");
+		return(false) ;
+    });
+});
+
+</script>
+
+<script>
+$(function(){
+$(".bulledaidemenu").tipTip({defaultPosition: "right", maxWidth: "200px", edgeOffset: 10});
+});
+
+$(document).ready(function(){
+    $("#menuCS1").show();
+	$("#menuCS2").hide();
+	$("#menuCS3").hide();
+	$("#menuCS4").hide();
+});
+</script>
+
+<div id="menugauche">
+
+<div id="menugaucheppl" class="menurecherche">
+
+<h3><a href="conge-solidaire-missions.htm">Find and display Short-Term Volunteer Assignments</a></h3>
+<div id="menuCS3" style="padding-bottom: 20px; display: none;">
+<form name="recherchecs" id="recherchecs" action="conge-solidaire-missions.htm" method="get">
+
+<input name="RAZ" id="RAZ" type="hidden" value="">
+<script type="text/javascript">
+
+//$(function()
+//{
+//	$("#recherchedomaine, #recherchepays, #recherchedate").jScrollPane();
+//});
+	
+$(document).ready(function(){
+	//$("#recherchedomaine").hide();
+    $("#recherchedomaine0").click(function () {
+        $("#recherchedomaine").slideToggle("slow");
+		$(this).toggleClass("enroulemenucs"); return false;
+    });
+});
+
+$(document).ready(function(){
+	$("#recherchepays").hide();
+    $("#recherchepays0").click(function () {
+        $("#recherchepays").slideToggle("slow");
+		$(this).toggleClass("enroulemenucs2"); return false;
+    });
+});
+
+$(document).ready(function(){
+	$("#rechercheurgence").hide();
+    $("#rechercheurgence0").click(function () {
+        $("#rechercheurgence").slideToggle("slow");
+		$(this).toggleClass("enroulemenucs2"); return false;
+    });
+});
+
+$(document).ready(function(){
+	$("#recherchedate").hide();
+    $("#recherchedate0").click(function () {
+        $("#recherchedate").slideToggle("slow");
+		$(this).toggleClass("enroulemenucs2"); return false;
+    });
+});
+
+</script>
+
+<h2><a href="#" id="recherchedomaine0" class="deroulemenucs">By area of competency</a></h2>
+
+<div id="recherchedomaine">
+
+<table width="140" border="0" cellspacing="0" cellpadding="0">
+
+  </table>
+</div>
+
+<h2><a href="#" id="recherchepays0" class="deroulemenucs2">By country of operation</a></h2>
+<div id="recherchepays" style="display: none;">
+
+<table width="140" border="0" cellspacing="0" cellpadding="0">
+
+    
+  </table>
+</div>
+<h2 class="deroulemenucs">By project number</h2>
+<input name="numprojet" id="numprojet" type="text" size="10" maxlength="6" class="inputtexteoff" onfocus="focusform('numprojet','inputtexteon');" onblur="focusform('numprojet','inputtexteoff');" value="">
+
+<input name="" type="submit" value="Search" class="button" onclick="document.getElementById('RAZ').value = 0 ;">
+</form>
+</div>
+
+
+<h1 id="menuCS1titre" class="menurechercheselect" style="padding-top:10px; border-top:1px #6F685F solid;"><a href="conge-solidaire.htm">Short-Term Volunteer Assignments (STVA)</a></h1>
+
+<div id="menuCS1" style="padding-bottom:10px;">
+<ul>
+<li id="CSgen_0" class="menurechercheon"><a href="#">What is STVA?</a></li>
+<li id="CScomportement_0" class="menurechercheoff"><a href="#">Skills and principles of involvement</a></li>
+<li id="CSsecu_0" class="menurechercheoff"><a href="#">Security while on assignment</a></li>
+<li id="CSetapes_0" class="menurechercheoff"><a href="#">Pre-departure training</a></li>
+<li id="CSmission_0" class="menurechercheoff"><a href="#">Organization of the STVA</a></li>
+<!--<li id="CSdocuments_0" class="menurechercheoff"><a href="#">R&eacute;sultats et impacts des missons</a></li>
+<li id="CSequipe_0" class="menurechercheoff"><a href="#">Teams around the world</a></li>-->
+</ul>
+</div>
+
+
+<h1 style="padding-top:10px; border-top:1px #6F685F solid;"><a href="funding-conge-solidaire.htm">Funding STVA</a></h1>
+
+<h1 style="padding-top:10px; border-top:1px #6F685F solid;"><a href="countries-in-which-conge-solidaire-is-involved.htm">Countries of operation</a></h1>
+
+</div>
+
+<div id="menucontact" class="menurecherche">
+<h2 style="color:#666666;">A question? Contact us</h2><img src="" width="100">
+<h2 style="padding-bottom:0px;"></h2>
+<p>STVA Administration</p>
+<p>+33(0)1.43.40.63.72*</p>
+<p class="menurecherchenote">* Cost of a call in France</p>
+</div>
+
+</div>
+<div id="corps" class="corps" style="position:relative; left:200px; width:800px; min-height:950px;">
+
+<div id="CSgen">
+  <h1>What is Short-Term Volunteer Assignments?</h1>
+<h3>At the request of a local organization (associations, women's groups, artisans, cooperatives, educational networks, scientific partners) the STVA allows you to be involved in a short-term assignment (2 to 4 weeks). This assignment takes place after a two-day training course on the premises of PU and a day's work from home, and allows you to share and pass on your skills and knowledge to empower local people and help them protect their environment.</h3>
+<p>You can undertake an international solidarity assignment during your vacation from work, either with funding from your employer or by means of a personal donation. PU offers assignments that are managed and supervised by our teams. Without being a humanitarian or development aid professional, everyone has personal or professional skills and expertise that could be useful to others. PU allows you to identify the development and environmental protection projects that need your input to move forward.</p>
+
+<p>A PU volunteer is not involved "instead of": it is a question of offering assistance and sharing knowledge for a project that is organized and implemented by the people in the countries that more often than not do not have access to vocational training or for whom the cost of bringing in outside skills is too high.</p>
+
+<div id="chiffres">
+<h1>Between 2000 and 2015, PU achieved the following:</h1><ul>
+  <li><span class="chiffres">7,081</span> volunteers went on STVA</li>
+  <li><span class="chiffres">1086</span> projects supported in <span class="chiffres">36</span> countries working with <span class="chiffres">382</span> local partners</li>
+  <li><span class="chiffres">579</span> partner companies, foundations and local authorities</li>
+</ul>
+
+</div>
+
+
+</div>
+
+<div id="CScomportement" style="display: none;">
+<link rel="stylesheet" href="../css/lofslider_illustration.css" type="text/css" media="screen">
+
+<script>
+$(document).ready( function(){	
+		// buttons for next and previous item						 
+		var buttons = { previous:$('#jslidercsintervention .button-previous') ,
+						next:$('#jslidercsintervention .button-next') };			
+		 $('#jslidercsintervention').lofJSidernews( { interval : 3000,
+											direction		: 'opacitys',	
+											easing			: 'easeInOutExpo',
+											duration		: 1200,
+											auto		 	: true,
+											maxItemDisplay  : 5,
+											startItem:0,
+											navPosition     : 'horizontal', // horizontal
+											navigatorHeight : 45,
+											navigatorWidth  : 67,
+											mainWidth		: 350,
+											buttons			: buttons } );	
+	});
+</script>
+
+<div id="container" class="img_right imgshadow">
+<div id="jslidercsintervention" class="lof-slidecontent" style="width:350px; height:233px;">
+                   
+<!-- MAIN CONTENT --> 
+<div class="main-slider-content" style="width:350px; height:233px;">
+        <div class="sliders-wrapper" style="width: 350px;"><ul class="sliders-wrap-inner" style="left: -172.989953561757px; width: 2100px;">
+        <li style="width: 350px;">
+        <img src="../images/diaporamas/cs_intervention/001.jpg" style="width:350px;"> 
+        </li>
+    	<li style="width: 350px;">
+        <img src="../images/diaporamas/cs_intervention/002.jpg" style="width:350px;"> 
+        </li>
+        <li style="width: 350px;">
+        <img src="../images/diaporamas/cs_intervention/003.jpg" style="width:350px;"> 
+        </li>
+		<li style="width: 350px;">
+        <img src="../images/diaporamas/cs_intervention/004.jpg" style="width:350px;"> 
+        </li>
+        <li style="width: 350px;">
+        <img src="../images/diaporamas/cs_intervention/005.jpg" style="width:350px;"> 
+        </li>
+        <li style="width: 350px;">
+        <img src="../images/diaporamas/cs_intervention/006.jpg" style="width:350px;"> 
+        </li>
+		</ul></div>
+</div>
+<!-- END MAIN CONTENT --> 
+
+<!-- NAVIGATOR -->
+           	<div class="navigator-content">
+                  <div class="button-previous">Previous</div>
+                  <div class="button-next">Next</div>
+             </div> 
+          <!----------------- END OF NAVIGATOR --------------------->
+          <!-- BUTTON PLAY-STOP -->
+          <div class="button-control action-stop"><span></span></div>
+           <!-- END OF BUTTON PLAY-STOP -->
+</div></div>
+<!-- Fin diapo --><h1>Skills and principles of involvement</h1>
+<h2>When on STVA with PU you are not on holiday, but in your free time undertake an international solidarity assignment with a non-profit French association serving local people who are involved in development and environmental protection.</h2>
+<p>In order to ensure the success of the assignment, PU volunteers are asked to respect the principles of intervention that will be explained to them during their pre-departure training.</p>
+<h3>The donation charter: "The hand that gives is always above the hand that receives" (Amadou Hampâté Bâ).</h3>
+<p>"Donating clothes, food or drugs to the poor is common reflex. Especially when living in wealthy countries where we have more than enough and often get rid of objects that we say may be useful to others. Unfortunately, not everything is quite so simple in this regard: although a gift would seem to be the most natural form of solidarity, it is not necessarily the best and may even be the worst.</p>
+<p>It is an amazing paradox, but some gestures of generosity can actually harm their beneficiaries. Donations may be unsuitable, inappropriate, dangerous, polluting, destroy the local economy, etc. They may also create power relationships, generate dependent behavior, increase inequalities, feed the black market, etc. All things we do not necessarily think about when emptying our closets, shelves or warehouses.</p>
+<p>Donating equipment is rarely the most effective and responsible way of being supportive. And if a donation is made, it must be a well thought out gift, based on a specific request from the beneficiary and not an opportunity to give things away that are no longer wanted or useful."</p>
+<p>(Source: extract from the document "Donner pour agir?" - November 2006 - Ritimo - Réseau d'information et de documentation pour le développement durable et la solidarité international - information and documentation network for sustainable development and international solidarity)</p>
+<p>PU agrees with this approach, which is why we ask you to respect the following:</p>
+	<ul>
+    	<li>Strictly prohibited donations: drugs, eyeglasses, donations of money, gifts to partners and beneficiaries, new or used clothing, toys and baby clothes, shoes, books.</li>
+        <li>Authorized donations / gifts: photos.</li>
+    </ul>
+<p>Specific equipment needs must be approved by STVA programme managers.</p>
+<p>As an alternative to making collections, we suggest raising funds for our school kits or reforestation programs.</p>
+
+</div>
+
+<div id="CSsecu" style="display: none;">
+<img class="img_right imgshadow bullelegende" style="width:350px;" src="http://www.planete-urgence.org/images/upload/securite-mission-001.jpg">
+<h1>Security on assignment</h1>
+<p>Although the countries in which we operate are not suffering from major political or military crises, they are generally "developing" countries, i.e. suffering from extreme poverty, with a significant wealth divide and a lack of infrastructure and redistribution. This may be in the form of a dangerous road network, poorly controlled crime and a poorly resourced justice system. For each country we operate in we have prepared a description of the security issues and of the principles of vigilance and safety precautions that should be taken. We monitor the situation continuously and are in regular contact with the national and international authorities in each country. However, security is first and foremost a matter of individual behavior which must always be in line with the previously established principles serving the shared project. These principles cannot therefore be interpreted according to each individual or each character.</p>
+<p>In order to undertake a assignment with full knowledge of the facts, we invite you to read the opinion of the French authorities for each country where we operate along with our own analyses and operating principles.</p>
+<h3>More information about the insurance policy covering assignments</h3>
+<p>PU has signed a repatriation assistance contract for its volunteers, which applies in the event of injury, serious illness, or death. The insurer has to agree to the claim beforehand. Once agreed the policy covers:</p>
+	<ul>
+    	<li>Transport costs (ambulance, plane, etc) to the hospital nearest to the volunteer's home in case of illness or serious accident</li>
+		<li>Additional coverage of costs incurred in the country in question (after reimbursement by the social organizations the volunteer is covered by)</li>
+		<li>The repatriation of the body in the event of the death of the volunteer</li>
+		<li>Early return: airfare costs covered in the event of the death of a close family member</li>
+	</ul>
+<p>The insurer may also make a cash advance in the event of unexpected expenses resulting from a serious difficulty. <a href="http://www.planete-urgence.org/documents/dossier/autres-documents/01-EuropAssistance-guarantees_EN.pdf" target="blank">Download our EuropAssistance contract guarantees</a>.</p>
+
+</div>
+
+<div id="CSetapes" style="display: none;">
+<img class="img_right imgshadow bullelegende" style="width:290px;" src="http://www.planete-urgence.org/images/upload/transfert-de-competences-bureautique-001.jpg">
+<h1>Pre-departure training</h1>
+<p>Among the many possibilities offered by PU you can pre- identify up to three in order of preference and interest, depending on your skills and your availability. You then specify the type of funding envisaged:</p>
+	<ul>
+    	<li>Company partner: your employer finances your assignment and concludes a partnership agreement with PU</li>
+		<li>No partner: your employer finances your assignment but without concluding an agreement with PU</li>
+		<li>Or "individual": you or your loved ones make a donation</li>
+	</ul>
+<p>If you plan to become involved in STVA as an individual, you will receive an initial email from the administrative manager, Myriam Merskar. If you checked the "company" box, Benedicte Ayeh, in the STVA partnerships department, will contact you. Ms Merskar or Ms Ayeh will help you finalize funding arrangements for the assignment. They will then inform you of the next steps to take:</p>
+	<ul>
+    <li>Send a CV with a covering letter</li>
+		<li>Interview (free and confidential ) with a psychologist for all assignments involving young people</li>
+	</ul>
+<p>This first stage will not take longer than 10 days. On receipt of the confirmation documents, you will be put in touch with the assignment manager in Paris. Together you will complete the details of the objectives and activities involved in the assignment and will organize the dates for your pre-departure training days.</p>
+
+<h3>Assignment approval, CV and covering letter: why and for whom?</h3>
+<p>Your CV and covering letter allows us to measure the suitability of the chosen assignment against your knowledge and skills. They will also be sent to the local partner benefiting from your STVA. The beneficiary partner will approve your application or request additional information if necessary.</p>
+<p>Important: except for STVA in Haiti, we do not select candidates on the basis of a preliminary interview. However, we do ensure with you that you have chosen an assignment where your skills and personal or professional experience you will enable you to feel comfortable. This is in both your interests and the interests of the beneficiaries who welcome you.</p>
+
+<h3>Creating your personal space</h3>
+<p>Once your application has been registered, your personal space will be automatically created on our site: you can access it with your personal code that will be sent to you automatically when you register. Your file is updated and you will find all the administrative documents and useful information for preparing your assignment in your personal space.</p>
+
+<h3>Assignments involving contact with children and teenagers</h3>
+<p>For educational support STVA, book focused assignments and advisory or supervisory assignments, an appointment is made between the future volunteer and a psychologist from Etap Paris Association as a precaution for both the children and adults. At the end of the interview, the psychologist will either agree to, or disagree with, you undertaking this particular assignment. The information exchanged during the interview is strictly confidential: the psychologist is bound by the rules of professional secrecy, we have no knowledge of the discussion (only the final opinion is made known to us).</p>
+
+<h3>Pre-departure training</h3>
+<p>To prepare you as well as possible and ensure you are quickly operational, the assignment is preceded by three days of pre-departure training.</p>
+<p>The date for your pre-departure training is decided together with your programme manager, taking into account your assignment departure dates and the places still available in the various sessions (no more than 35 people per session).</p>
+<p>The training is mandatory and takes place at on Thursdays and Fridays at regular intervals. We strongly recommend completing it at least one month before departure. You may then meet the people with whom you will be going (depending on their availability).</p>
+
+</div>
+
+<div id="CSmission" style="display: none;">
+<link rel="stylesheet" href="../css/lofslider_illustration.css" type="text/css" media="screen">
+
+<script>
+$(document).ready( function(){	
+		// buttons for next and previous item						 
+		var buttons = { previous:$('#jslidercsderoulement .button-previous') ,
+						next:$('#jslidercsderoulement .button-next') };			
+		 $('#jslidercsderoulement').lofJSidernews( { interval : 3000,
+											direction		: 'opacitys',	
+											easing			: 'easeInOutExpo',
+											duration		: 1200,
+											auto		 	: true,
+											maxItemDisplay  : 5,
+											startItem:0,
+											navPosition     : 'horizontal', // horizontal
+											navigatorHeight : 45,
+											navigatorWidth  : 67,
+											mainWidth		: 350,
+											buttons			: buttons } );	
+	});
+</script>
+
+<div id="container" class="img_right imgshadow">
+<div id="jslidercsderoulement" class="lof-slidecontent" style="width:350px; height:233px;">
+                   
+<!-- MAIN CONTENT --> 
+<div class="main-slider-content" style="width:350px; height:233px;">
+        <div class="sliders-wrapper" style="width: 350px;"><ul class="sliders-wrap-inner" style="left: -1750px; width: 2100px;">
+        <li style="width: 350px;">
+        <img src="../images/diaporamas/cs_deroulement/001.jpg" style="width:350px;"> 
+        </li>
+    	<li style="width: 350px;">
+        <img src="../images/diaporamas/cs_deroulement/002.jpg" style="width:350px;"> 
+        </li>
+        <li style="width: 350px;">
+        <img src="../images/diaporamas/cs_deroulement/003.jpg" style="width:350px;"> 
+        </li>
+		<li style="width: 350px;">
+        <img src="../images/diaporamas/cs_deroulement/004.jpg" style="width:350px;"> 
+        </li>
+        <li style="width: 350px;">
+        <img src="../images/diaporamas/cs_deroulement/005.jpg" style="width:350px;"> 
+        </li>
+        <li style="width: 350px;">
+        <img src="../images/diaporamas/cs_deroulement/006.jpg" style="width:350px;"> 
+        </li>
+		</ul></div>
+</div>
+<!-- END MAIN CONTENT --> 
+
+<!-- NAVIGATOR -->
+           	<div class="navigator-content">
+                  <div class="button-previous">Previous</div>
+                  <div class="button-next">Next</div>
+             </div> 
+          <!----------------- END OF NAVIGATOR --------------------->
+          <!-- BUTTON PLAY-STOP -->
+          <div class="button-control action-stop"><span></span></div>
+           <!-- END OF BUTTON PLAY-STOP -->
+</div></div>
+<!-- Fin diapo --><h1>Organization of the STVA</h1>
+<h3>Once there: supervision and support</h3>
+<p>Assignment never exceed four consecutive weeks and most of them last 15 days. The management and support for your STVA once in the country varies considerably depending on whether we have a PU representative there or a local partner representative. In Paris, six programme managers are in charge of the projects and assignments undertaken each country.</p>
+<p>In some countries the number of partnerships and projects is large enough to justify the presence of a full-time PU employee. Our association's representative(s) will always be present on the ground, responsible for identifying partnerships and for monitoring and supervising / evaluating assignments, and for relations with regional national and international authorities. The representative(s) will usually be supported by one or more colleagues.</p>
+<p>In countries where there a fewer assignments, one of our local partners represents PU.</p>
+<p>When you arrive at the airport, you will be met and transported to your assignment location. You will be briefed again on the terms of your involvement when meeting the beneficiary local partner. It is also an opportunity to resolve any outstanding practical issues, get to know each other, get used to the new environment, and find out about your new living conditions.</p>
+<p>Housing conditions may vary from one assignment to another: simple hotel, single or double rooms camping... Our programme managers will give you logistical details, do not hesitate to ask them.</p>
+<p>You can contact the PU representative(s), or the PU local partner representative in the country, or the STVA manager in Paris at any time.</p>
+<p>On the ground, except for personal expenses, you will not have to pay for your transport, accommodation or food.</p>
+
+<h3>Back in France</h3>
+<p>STVA results and evaluation: at the end of your assignment you and the beneficiary local partner will have a debriefing to evaluate the results and ensure continuity with the next volunteer, if there is one. Within a maximum period of one month from when you return to France you must send us your end of assignment report. The end of assignment report will allow us to draw objective conclusions about your involvement, and with you measure the amount achieved in order to be in a position to more effectively brief the volunteers that will continue your work or that will work on similar assignments.</p>
+<p>Your STVA is formally completed upon receipt of your final activity report.</p>
+
+<h3>The post-assignment program</h3>
+<p>The purpose of the day is to offer support to any volunteers who so wish. Two main objectives are:</p>
+	<ul>
+    	<li>To share experiences of the STVA and explore any desire for future action (with PU or elsewhere). One of the alternatives offered by PU is to become an ambassador).</li>
+        <li>As soon as you return, you can register for the programme directly from your personal space.</li>
+	</ul>
+
+<h3>Become an ambassador</h3>
+<p>After having completed the post assignment day, volunteers can envisage becoming Ambassadors...</p>
+</div>
+</div>          
+        </div>
+        
+        <div id="footerglobal">
+        	<div id="headercenterpage">
+			<script>
+$(function(){
+$(".bullereseausociaux").tipTip({defaultPosition: "right", maxWidth: "150px", edgeOffset: 5});
+});
+</script>
+
+<div id="footercentre" class="footer">
+    
+	<div id="footer20" style="float:left; width:40px; line-height:normal;">
+    <a href="http://www.facebook.com/planete.urgence" target="_blank" class="bullereseausociaux"><img id="facebook" src="http://www.planete-urgence.org/images/icones/icone-facebook.png" width="32" height="32" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/icone-facebook-2.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/icone-facebook.png';"></a>
+    <a href="http://twitter.com/#!/PlaneteUrgence" target="_blank" class="bullereseausociaux"><img id="twitter" src="http://www.planete-urgence.org/images/icones/icone-twitter.png" width="32" height="32" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/icone-twitter-2.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/icone-twitter.png';"></a>
+    <a href="http://www.youtube.com/user/planete1urgence" target="_blank" class="bullereseausociaux"><img id="youtube" src="http://www.planete-urgence.org/images/icones/icone-youtube.png" width="32" height="32" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/icone-youtube-2.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/icone-youtube.png';"></a>
+    <a href="https://plus.google.com/+planeteurgence/" target="_blank" class="bullereseausociaux"><img id="googleplus" src="http://www.planete-urgence.org/images/icones/icone-googleplus.png" width="32" height="32" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/icone-googleplus-2.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/icone-googleplus.png';"></a>
+	</div>
+    
+    <div id="footer21" style="float:left; width:100px; padding-left:20px;  line-height:100%;">
+
+<h1><a href="http://www.planete-urgence.org/?langue=en">Home</a></h1>
+<h1><a href="http://www.planete-urgence.org/association/Make-a-donation.htm">Make a donation</a></h1><h1><a href="http://www.planete-urgence.org/association/Make-a-donation.htm?op=adherer">Membership</a></h1></div>
+    
+    <div id="footer22" style="float:left; width:120px; padding-left:15px; line-height:100%;"><h1><a href="http://www.planete-urgence.org/association/the-association.htm">The association</a></h1><p><a href="http://www.planete-urgence.org/association/the-association.htm">Who we are</a></p><p><a href="http://www.planete-urgence.org/association/who-is-who.htm">Who's who in the association</a></p><p><a href="http://www.planete-urgence.org/association/contact-us.htm">Contact us</a></p></div>
+    
+    <div id="footer23" style="float:left; width:160px; padding-left:15px; line-height:100%;"><h1><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire.htm">Short-Term Volunteer Assignment</a></h1><p><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire-missions.htm">Find and display STVA</a></p><p><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire.htm">What is STVA?</a></p><p><a href="http://www.planete-urgence.org/conge-solidaire/funding-conge-solidaire.htm">Funding STVA</a></p><p><a href="http://www.planete-urgence.org/conge-solidaire//countries-in-which-conge-solidaire-is-involved.htm">Countries of operation</a></p></div>
+    
+    <div id="footer24" style="float:left; width:180px; padding-left:15px; line-height:100%;"><h1><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development.htm">Environment &amp; Development</a></h1><p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development.htm">The program</a></p><p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-haiti.htm">Haiti</a></p>
+    <p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-indonesia.htm">Indonesia</a></p><p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-madagascar.htm">Madagascar</a></p><p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-mali.htm">Mali</a></p><p><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=arbre">Plant a tree!</a></p></div>
+    
+    <div id="footer25" style="float:left; width:120px; padding-left:15px; line-height:100%;"><h1>Direct access</h1>
+    <p><a href="http://www.planete-urgence.org/entreprise/partnership.htm">Partner</a></p><p><a href="#" onclick="afficheId('popupconnexion'); return false;">Your account</a></p></div>
+    
+	<div id="footer26" style="float:left; width:200px; vertical-align:top;"><img src="http://www.planete-urgence.org/images/logos/signature-200.png" width="200"></div>
+
+	<div id="footercopyright" style="position:relative; float:left;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="right"><a href="http://onepercentfortheplanet.org/" target="_blank"><img src="http://www.planete-urgence.org/images/logos/logo-1pc_en.png" border="0" align="right" width="50" style="padding-right:10px;"></a></td>
+    <td align="left"><a href="http://www.plant-for-the-planet.org/en" target="_blank"><img src="http://www.planete-urgence.org/images/logos/logo-plantons-pour-la-planete_en.png" border="0" align="left" width="50" style="padding-left:10px;"></a></td>
+  </tr>
+</tbody></table>© Planète Urgence 2015 - Association reconnue d'utilité publique - Nous vous aidons à agir</div>
+</div>
+
+            </div>
+       	</div>
+        
+    <script type="text/javascript">
+	$('a.lightbox').lightBox({
+		//fixedNavigation:true,
+		imageLoading: '../images/lightbox/loading.png',
+		imageBtnClose: '../images/lightbox/close.png',
+		imageBtnPrev: '../images/lightbox/prev2.png',
+		imageBtnNext: '../images/lightbox/next2.png'
+	   });
+	</script>
+	
+<div id="tiptip_holder" style="max-width:300px;"><div id="tiptip_arrow"><div id="tiptip_arrow_inner"></div></div><div id="tiptip_content"></div></div><script id="hiddenlpsubmitdiv" style="display: none;"></script><script>try{for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){ var lastpass_f = document.forms[lastpass_iter]; if(typeof(lastpass_f.lpsubmitorig2)=="undefined"){ lastpass_f.lpsubmitorig2 = lastpass_f.submit; if (typeof(lastpass_f.lpsubmitorig2)=='object'){ console.error('LastPass: Skipping form because submit is not a function!');continue;}lastpass_f.submit = function(){ var form=this; var customEvent = document.createEvent("Event"); customEvent.initEvent("lpCustomEvent", true, true); var d = document.getElementById("hiddenlpsubmitdiv"); if (d) {for(var i = 0; i < document.forms.length; i++){ if(document.forms[i]==form){ if (typeof(d.innerText) != 'undefined') { d.innerText=i; } else { d.textContent=i; } } } d.dispatchEvent(customEvent); }form.lpsubmitorig2(); } } }}catch(e){}</script></body></html>

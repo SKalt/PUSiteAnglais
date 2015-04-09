@@ -610,10 +610,10 @@ $(document).ready(function(){
 
 <div id="CSgen">
   <h1>What is Short-Term Volunteer Assignments?</h1>
-<h3>At the request of a local organization (associations, women's groups, artisans, cooperatives, educational networks, scientific partners) the STVA allows you to be involved in a short-term assignment (2 to 4 weeks). This assignment takes place after a two-day training course on the premises of PU and a day's work from home, and allows you to share and pass on your skills and knowledge to empower local people and help them protect their environment.</h3>
-<p>You can undertake an international solidarity assignment during your vacation from work, either with funding from your employer or by means of a personal donation. PU offers assignments that are managed and supervised by our teams. Without being a humanitarian or development aid professional, everyone has personal or professional skills and expertise that could be useful to others. PU allows you to identify the development and environmental protection projects that need your input to move forward.</p>
+<h3>At the request of a local organization (associations, women's groups, artisans, cooperatives, educational networks, scientific partners) Short Term Volunteer Assignment (STVA) involves you in a 2 to 4 week assignment. This assignment takes place after a two-day training course at PU's offices and a day's work from home, and allows you to share and pass on your skills and knowledge to empower local people and help them protect their environment.</h3>
+<p>You can undertake an international solidarity assignment during your vacation from work, either with funding from your employer or a personal donation. PU offers assignments that are managed and supervised by our teams. Without being a humanitarian or development aid professional, everyone has personal or professional skills and expertise that could be useful to others. PU allows you to identify the development and environmental protection projects that need your input to move forward.</p>
 
-<p>A PU volunteer is not involved "instead of": it is a question of offering assistance and sharing knowledge for a project that is organized and implemented by the people in the countries that more often than not do not have access to vocational training or for whom the cost of bringing in outside skills is too high.</p>
+<p>PU volunteer work does not replace other aid.  STVA is a question of offering assistance and sharing knowledge for a project that is organized and implemented by the people in the countries that more often than not do not have access to vocational training or for whom the cost of bringing in outside skills is too high.</p>
 
 <div id="chiffres">
 <h1>Between 2000 and 2015, PU achieved the following:</h1><ul>
@@ -655,7 +655,7 @@ $(document).ready( function(){
                    
 <!-- MAIN CONTENT --> 
 <div class="main-slider-content" style="width:350px; height:233px;">
-        <div class="sliders-wrapper" style="width: 350px;"><ul class="sliders-wrap-inner" style="left: -172.989953561757px; width: 2100px;">
+        <div class="sliders-wrapper" style="width: 350px;"><ul class="sliders-wrap-inner" style="left: -700px; width: 2100px;">
         <li style="width: 350px;">
         <img src="../images/diaporamas/cs_intervention/001.jpg" style="width:350px;"> 
         </li>

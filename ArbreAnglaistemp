@@ -334,9 +334,6 @@ or you could <a href="http://www.planete-urgence.org/association/make-a-donation
   					<tr>
     					<td valign="top" style="padding-bottom:20px;;"></td>
   					</tr>
-    				<tr id="deductionfiscale1">
-    					<td><input name="dedfisdonop" style="text-align:center;" class="inputdedfis2" type="text" id="dedfisdonop" size="60" value="Votre don vous coûtera 34 € après déduction fiscale (66%)." readonly=""></td>
-    				</tr>
     				<tr>
     				 <!-- <td id="repartdon" style="height:265px; background:url(http://www.planete-urgence.org/images/action/repartition-cout-don-66pc-1.png); background-repeat:no-repeat; vertical-align:top;"><div style="text-align:center; padding-left:100px; padding-top:37px;">
     <input name="dedfisschema1" style="text-align:center; color:#16320A; font-weight:bold;" type="text" id="dedfisschema1" size="10" class="inputdedfisschema" value="50 &euro;" readonly>

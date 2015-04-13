@@ -1,0 +1,575 @@
+<html><head>
+    	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <title>Association Planète Urgence</title>
+        <meta name="description" content="Reconnue d'utilité publique, Planète Urgence vous aide à agir en faveur des pays du Sud pour renforcer leur autonomie et protéger leur environnement : partez 15 jours en mission de Congé Solidaire ou soutenez notre programme Environnement &amp; Développement.">
+		<meta name="keywords" content="volontaire, volontaires, volontariat, humanitaire, sud, PVD, tiers-monde, environnement, développement, developpement, mission, missions, projet, projets, education, ecole, conges solidaires, congés solidaires, congé solidaire, congés solidaires, conge, congé, conges, congés, solidaire, solidarité, solidarite, international, formation, mali, benin, bénin, cameroun, senegal, sénégal, burkina faso, djibouti, france, mauritanie, togo, guinee, guinée, centre afrique, zimbabwe, madagascar, comores, inde, bolivie, perou, pérou, indonesie, indonésie, niger, argentine, patagonie, polynésie française, arbre, arbres, reforestation, déforestation, deforestation, transfert de compétence, transfert de compétences, transfert de competence, transfert de competences, haiti, haïti, haïtien, haïtiens, haitien, haitiens">
+		<meta name="organization" content="Planète Urgence, 39 rue Crozatier, 75012 Paris, France">
+		<meta name="author" content="Steven" >
+        
+        <meta property="og:title" content="Planète Urgence, association de solidarité internationale reconnue d'utilité publique">
+        <meta property="og:type" content="non_profit">
+        <meta property="og:url" content="http://www.planete-urgence.org/">
+        <meta property="og:image" content="http://www.planete-urgence.org/images/logos/association-humanitaire.png">
+        <meta property="og:site_name" content="Planète Urgence, 39 rue Crozatier, 75012 Paris, France">
+        <meta property="fb:admins" content="100004107064963">
+        <meta property="og:description" content="Reconnue d'utilité publique, Planète Urgence vous aide à agir en faveur des pays du Sud pour renforcer leur autonomie et protéger leur environnement : partez 15 jours en mission de Congé Solidaire ou soutenez notre programme Environnement &amp; Développement.">
+        
+        <!--<meta name="ROBOTS" content="NOINDEX,NOFOLLOW">-->
+		<meta name="robots" content="index">
+		<meta name="REVISIT-AFTER" content="7 days">
+        <link rel="shortcut icon" href="images/logos/favicon.ico">
+        <link rel="stylesheet" href="css/global.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="css/clipintro.css" type="text/css" media="screen">
+       <script type="text/javascript" src="scripts/local.js"></script>
+        <script type="text/javascript" src="scripts/form.js"></script>
+		<script type="text/javascript" src="scripts/flash.js"></script>
+		<script type="text/javascript" src="scripts/swfobject.js"></script>
+        <script language="javascript" type="text/javascript" src="LofSlider/js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="LofSlider/js/jquery.easing.js"></script>
+<script language="javascript" type="text/javascript" src="LofSlider/js/script.js"></script>
+<script type="text/javascript" src="scripts/jquery.tipTip.js"></script>
+<script type="text/javascript" src="scripts/jquery.vticker.js"></script>
+<script>
+$(function(){
+$(".bulledaide").tipTip({defaultPosition: "left", maxWidth: "150px", edgeOffset: 0});
+});
+
+$(function(){
+$(".bulledaide2").tipTip({defaultPosition: "left", maxWidth: "270px", edgeOffset: 0});
+});
+
+$(function(){
+$(".bullelegende").tipTip({defaultPosition: "bottom", maxWidth: "300px", edgeOffset: 0});
+});
+</script>
+
+    </head>
+
+    <body>
+    
+    	<div id="popup" style="visibility: visible; display: block;">
+		        </div>
+        
+        <script>
+		afficheId('popup');
+        </script>
+        
+    	<div id="header" style="position:relative; z-index:100001;"> <form id="deconnexion" method="post" action="">
+    <input id="CON" name="CON" type="hidden" value="DECONNECT">
+    <input name="MONPANIER" id="MONPANIER" type="hidden" value="">
+	</form>
+
+<div id="popupconnexion" style="visibility: hidden; display: none;"><div id="popupconnexionbg"></div>
+<div id="popupconnexioncorps" class="popupcorps">
+<p class="popupfermer"><a onclick="cacheId('popupconnexion');">x</a></p>
+<h4>Login to your account</h4>
+<form id="connexion" method="post" action="" onsubmit="return validationconnexion();">
+
+<table width="320" border="0" cellspacing="0" cellpadding="0" style="padding-bottom:20px;">
+  <tbody><tr>
+    <td><p><label><input type="radio" name="connexion_select" value="particulier" id="connexion_select_0" checked="checked">
+    &nbsp;I volunteer or donor and connects me personally</label>
+    </p></td>
+  </tr>
+  <tr>
+    <td><p><label><input type="radio" name="connexion_select" value="entreprise" id="connexion_select_1">&nbsp;I connect to my company name</label>
+    </p></td>
+  </tr>
+  <!--<tr>
+    <td><p><label><input type="radio" name="connexion_select" value="porteur" id="connexion_select_2" />&nbsp;Je me connecte en tant que porteur de projet</label></p></td>
+  </tr>-->
+</tbody></table>
+
+<table width="320" border="0" cellspacing="0" cellpadding="0" style="padding-bottom:20px;">
+  <tbody><tr>
+    <td width="80"><p>Login</p></td>
+    <td><input type="text" id="login" name="login" size="20" class="popupinputtexteoff" onfocus="focusform('login','popupinputtexteon'); if(this.value == 'login') { this.value='' ; } if(this.form.password.value == 'password') { this.form.password.value ='' ; }" onblur="focusform('login','popupinputtexteoff');" value="login" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDhss3LcOZQAAAU5JREFUOMvdkzFLA0EQhd/bO7iIYmklaCUopLAQA6KNaawt9BeIgnUwLHPJRchfEBR7CyGWgiDY2SlIQBT/gDaCoGDudiy8SLwkBiwz1c7y+GZ25i0wnFEqlSZFZKGdi8iiiOR7aU32QkR2c7ncPcljAARAkgckb8IwrGf1fg/oJ8lRAHkR2VDVmOQ8AKjqY1bMHgCGYXhFchnAg6omJGcBXEZRtNoXYK2dMsaMt1qtD9/3p40x5yS9tHICYF1Vn0mOxXH8Uq/Xb389wff9PQDbQRB0t/QNOiPZ1h4B2MoO0fxnYz8dOOcOVbWhqq8kJzzPa3RAXZIkawCenHMjJN/+GiIqlcoFgKKq3pEMAMwAuCa5VK1W3SAfbAIopum+cy5KzwXn3M5AI6XVYlVt1mq1U8/zTlS1CeC9j2+6o1wuz1lrVzpWXLDWTg3pz/0CQnd2Jos49xUAAAAASUVORK5CYII=); background-attachment: scroll; background-position: 100% 50%; background-repeat: no-repeat;" autocomplete="off"></td>
+  </tr>
+  <tr>
+    <td width="80"><p>Password</p></td>
+    <td><input type="password" id="password" name="password" size="20" class="popupinputtexteoff" onfocus="focusform('password','popupinputtexteon'); if(this.value == 'password') { this.value ='' ; }" onblur="focusform('password','popupinputtexteoff');" value="password" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDhss3LcOZQAAAU5JREFUOMvdkzFLA0EQhd/bO7iIYmklaCUopLAQA6KNaawt9BeIgnUwLHPJRchfEBR7CyGWgiDY2SlIQBT/gDaCoGDudiy8SLwkBiwz1c7y+GZ25i0wnFEqlSZFZKGdi8iiiOR7aU32QkR2c7ncPcljAARAkgckb8IwrGf1fg/oJ8lRAHkR2VDVmOQ8AKjqY1bMHgCGYXhFchnAg6omJGcBXEZRtNoXYK2dMsaMt1qtD9/3p40x5yS9tHICYF1Vn0mOxXH8Uq/Xb389wff9PQDbQRB0t/QNOiPZ1h4B2MoO0fxnYz8dOOcOVbWhqq8kJzzPa3RAXZIkawCenHMjJN/+GiIqlcoFgKKq3pEMAMwAuCa5VK1W3SAfbAIopum+cy5KzwXn3M5AI6XVYlVt1mq1U8/zTlS1CeC9j2+6o1wuz1lrVzpWXLDWTg3pz/0CQnd2Jos49xUAAAAASUVORK5CYII=); background-attachment: scroll; background-position: 100% 50%; background-repeat: no-repeat;" autocomplete="off"></td>
+  </tr>
+</tbody></table>
+
+<table width="320" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="right"><input type="hidden" name="action" id="action" value="monespace"><input type="hidden" name="action2" id="action2" value=""><input type="hidden" name="mission1" id="mission1" value=""><input type="hidden" name="mission2" id="mission2" value=""><input type="hidden" name="mission3" id="mission3" value=""><input type="hidden" name="montantconnect" id="montantconnect" value=""><input type="hidden" name="idtemporaire" id="idtemporaire" value=""><input id="CON" name="CON" type="hidden" value="CONNECT"><input type="submit" id="submit2" name="submit2" value="Connection" class="popupbouton"></td>
+    <td width="120" align="right"><input type="button" id="boutonannuler" name="boutonannuler" value="Cancel" class="popupbouton" onclick="cacheId('popupconnexion');"></td>
+  </tr>
+</tbody></table>
+
+</form>
+</div></div>
+<script>
+cacheId('popupconnexion');
+</script>
+
+<div id="popupmiseajour" style="visibility: hidden; display: none;"><div id="popupconnexionbg"></div>
+<div id="popupconnexioncorps" class="popupcorps" style="min-height:30px;">
+<p class="popupfermer"><a href="">x</a></p>
+<h4>Your account has been updated</h4>
+<p style="text-align:center;"><a href="">Click to return to application form</a></p>
+</div></div>
+<script>
+cacheId('popupmiseajour');</script>
+
+
+<div id="popupdossiercs" style="visibility: hidden; display: none;"><div id="popupconnexionbg"></div>
+<div id="popupconnexioncorps" class="popupcorps">
+<p class="popupfermer"><a onclick="cacheId('popupdossiercs');">x</a></p>
+<h4>Your application for a STVA</h4>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:0 0 10px 0 ;">
+	</table>
+</div></div>
+<script>
+cacheId('popupdossiercs');
+</script>
+    
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_cs_ed.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_asso.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_second.css" type="text/css" media="screen">
+
+<div id="headercenterpage" class="header" style="height:80px; margin-top:5px;">
+<div id="headerbaseline" style="background:url(http://www.planete-urgence.org/images/logos/baseline_EN.png) no-repeat;">
+</div>
+<div id="header1" style="position:absolute; float:left; width:180px; line-height:normal; height:70px; vertical-align:bottom;">
+<a href="http://www.planete-urgence.org/?langue=en"><img src="http://www.planete-urgence.org/images/logos/logo-planete-urgence-177_EN.png" width="177" border="0"></a>
+</div>
+
+<div id="header2" style="position:relative; left:180px; width:820px;">
+	<div id="header2haut" style="width:830px; height:60px; vertical-align:top;">
+    	<div id="menusec1">
+<div id="selectlangue">
+    <table width="50" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="50" align="left"><a href="?langue=fr"><img src="http://www.planete-urgence.org/images/icones/drapeau_fr_off.png" width="50" height="50" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/drapeau_fr_on.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/drapeau_fr_off.png';"></a></td>
+  </tr>
+</tbody></table>
+</div>
+<div id="connectionoff" class="connectionoff pointer" onclick="afficheId('popupconnexion');" onmouseover="document.getElementById('connectionoff').className = 'connectionon pointer';" onmouseout="document.getElementById('connectionoff').className = 'connectionoff pointer';">Your account</div>
+
+
+</div>
+
+	</div>
+    
+    
+    <div id="header2bas" style="height:43px; margin-top:-36px;">
+    	<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_cs_ed.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.planete-urgence.org/css/menu_asso.css" type="text/css" media="screen">
+
+<div id="menuprincipal1" style="position:absolute; width:500px;">
+<ul id="menucsed">
+
+	<!-- D&eacute;but Menu CS -->
+    
+    <li><a href="http://www.planete-urgence.org/conge-solidaire/?langue=en" class="drop">Short-Term Volunteer Assignment</a>
+    
+      <div class="dropdown_2columns">
+        
+            <div class="col_2">
+                <h2>At the request of a local organization (associations, women's groups, artisans, cooperatives, educational networks, scientific partners) the STVA program allows you to be involved in a short-term assignment (2 to 4 weeks).</h2>
+        </div>
+            
+            <div class="col_1">
+            	<ul class="greybox">
+                    <li style="line-height: 37px; background: rgb(153, 0, 153);" onmouseover="this.style.backgroundColor='#333333';" onmouseout="this.style.backgroundColor='#990099';"><a id="menupartez" href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire-missions.htm" style="color:#FFFFFF;">Find and display STVA</a></li>
+                    <li><a href="http://www.planete-urgence.org/conge-solidaire/countries-in-which-conge-solidaire-is-involved.htm">Countries of operation</a></li>
+                </ul>
+            </div>
+            
+            <div class="col_1">
+            	<ul class="greybox">
+                	<li style="line-height:37px;"><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire.htm">What is STVA?</a></li>
+                    <li style="line-height:37px;"><a href="http://www.planete-urgence.org/conge-solidaire/funding-conge-solidaire.htm">Funding STVA</a></li>
+                    
+                    
+                </ul>
+            </div>
+            
+            
+           
+        
+        </div>
+        
+	</li>
+    
+    <!-- Fin Menu CS -->
+
+	<!-- Debut Menu ED -->
+    
+    <li><a href="http://www.planete-urgence.org/environnement-et-developpement/?langue=en" class="drop">Environment &amp; Development</a>
+    
+        <div class="dropdown_2columns">
+        
+            <div class="col_2">
+                <h2>Offering support to local organizations in their project, reconciling the development of economic activities and environmental protection: these are the issues addressed by the "Environment &amp; Development" program that was implemented in 2006 by PU.</h2>
+            </div>
+            
+            <div class="col_1">
+            	<ul class="greybox">
+                <li style="line-height:37px; background:#990099;" onmouseover="this.style.backgroundColor='#333333';" onmouseout="this.style.backgroundColor='#990099';"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development.htm" style="color:#FFFFFF;">The program</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-haiti.htm">Haiti</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-indonesia.htm">Indonesia</a></li>
+                </ul>
+            </div>
+            
+            <div class="col_1">
+            	<ul class="greybox">
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=arbre">Plant a tree!</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-madagascar.htm">Madagascar</a></li>
+                <li style="line-height:37px;"><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-mali.htm">Mali</a></li>
+                </ul> 
+            </div>
+        </div>
+        
+	</li>
+    
+    <!-- Fin Menu ED -->
+</ul>
+
+</div>
+
+<div id="menuprincipal2" style="position: relative; left:600px; top:32px; width:310px;">
+<ul id="menuasso">
+    
+    <li><a href="http://www.planete-urgence.org/association/?langue=en" class="drop">The association</a>
+    	<div class="dropdown_1column align_right">
+        
+                <div class="col_1">
+                
+                    <ul class="simple">
+                        <li><a href="http://www.planete-urgence.org/association/the-association.htm">Who we are</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/who-is-who.htm">Who's who in the association</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/contact-us.htm">Contact us</a></li>
+                        
+                    </ul>   
+                     
+                </div>
+                
+		</div>
+    </li>
+  
+    
+    <li><a href="http://www.planete-urgence.org/association/make-a-donation.htm" class="drop">Support us!</a>
+    	<div class="dropdown_1column align_right">
+        
+                <div class="col_1">
+                
+                    <ul class="simple">
+                        <li><a href="http://www.planete-urgence.org/association/make-a-donation.htm">Make a donation</a></li>
+                        <li><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=adherer">Membership</a></li>
+                        <li><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire-missions.htm">Short-Term Volunteer Assignments</a></li>
+                        <li style="padding-top:10px; border-top:1px dotted #6F685F;"><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=arbre">Plant a tree</a></li>
+                        <li style="padding-top:10px; border-top:1px dotted #6F685F; line-height:20px;"><a style="cursor:default; color:#000000;">Share...</a></li>
+                        <li style="line-height:30px;"><a href="http://www.facebook.com/share.php?u=http://www.planete-urgence.org" target="_blank"><img id="facebook2" src="http://www.planete-urgence.org/images/icones/icone-facebook.png" width="22" height="22" border="0" class="img_left" title="Partagez notre site internet sur Facebook !">...on Facebook</a></li>
+                        <li style="line-height:30px;"><a href="http://twitter.com/home?status=Site internet de @PlaneteUrgence : http://www.planete-urgence.org" target="_blank"><img id="twitter2" src="http://www.planete-urgence.org/images/icones/icone-twitter.png" width="22" height="22" border="0" class="img_left" title="Twittez notre site internet !">...via Twitter</a></li>
+                    </ul>   
+                     
+                </div>
+                
+		</div>
+    </li>
+
+</ul>
+</div>	</div>
+    
+</div>
+
+</div></div>
+
+        
+        <div id="centerpage" style="margin-top:-10px;">
+        
+        	<div id="homeslide" class="homeslide">
+			<link rel="stylesheet" href="css/lofslider_home.css" type="text/css" media="screen">
+<script type="text/javascript">
+ $(document).ready( function(){	
+		// buttons for next and previous item						 
+		var buttons = { previous:$('#jslidernews1 .button-previous') ,
+						next:$('#jslidernews1 .button-next') };			
+		 $('#jslidernews1').lofJSidernews( { interval : 9000,
+											direction		: 'opacitys',	
+											easing			: 'easeInOutExpo',
+											duration		: 1200,
+											auto		 	: true,
+											maxItemDisplay  : 5,
+											startItem:0,
+											navPosition     : 'horizontal', // horizontal
+											navigatorHeight : 45,
+											navigatorWidth  : 67,
+											mainWidth		: 760,
+											buttons			: buttons } );	
+	});
+	
+</script>
+
+<!-- Debut slide show actu -->
+<div id="container">
+	<div id="jslidernews1" class="lof-slidecontent" style="width:760px; height:450px;">
+	                   
+<!-- MAIN CONTENT --> 
+<div class="main-slider-content" style="width:760px; height:450px;">
+        <div class="sliders-wrapper" style="width: 760px;"><ul class="sliders-wrap-inner" style="left: 0px; width: 2280px;">   
+        
+        <li style="width: 760px;">
+        <img src="images/home/slide_principale_pu.jpg" class="pointer" onclick="window.location.href = 'association/?langue=en';"><div class="slider-description">
+            	<div class="slider-meta pointer" onclick="window.location.href = 'association/';"><a target="_parent" title="L'association Planète Urgence" href="association/?langue=en">&nbsp;The Association&nbsp;</a></div>
+          <h4>Who we are</h4>
+                <p>PU supports projects being implemented in vulnerable contexts, where local people are socially and economically isolated and natural environments are being destroyed. The association identifies the support and assistance needed then tailors its response to meet the expectations of its partners</p>
+                <p style="text-align:right;">
+                <a class="readmore" href="association/?langue=en">+</a>
+                </p>
+            </div>
+        </li>
+        
+		<li style="width: 760px;">
+        <img src="images/home/slide_principale_cs.jpg" class="pointer" onclick="window.location.href = 'conge-solidaire/';"><div class="slider-description pointer" onclick="window.location.href = 'conge-solidaire/?langue=en';">
+            	<div class="slider-meta"><a target="_parent" title="Le Congé Solidaire®" href="conge-solidaire/?langue=en">&nbsp;Action&nbsp;</a></div>
+                <h4>Short-Term Volunteer Assignment</h4>
+                <p>At the request of a local organization, the STVA program allows you to be involved in a short term assignment (2 to 4 weeks). Since 2000, 7,105 volunteers went on STVA with PU.</p>
+                <p style="text-align:right;">
+                <a class="readmore" href="conge-solidaire/?langue=en" title="More about Congé Solidaire®">+</a>
+            </p>
+            </div>
+        </li>
+        <li style="width: 760px;">
+        <img src="images/home/slide_principale_002.jpg" class="pointer" onclick="window.location.href = 'environnement-et-developpement/';"><div class="slider-description pointer" onclick="window.location.href = 'environnement-et-developpement/?langue=en';">
+            	<div class="slider-meta"><a target="_parent" title="Le programme Environnement &amp; Développement" href="environnement-et-developpement/?langue=en">&nbsp;Action&nbsp;</a></div>
+                <h4>"Environment &amp; Development" program</h4>
+                <p>Offering support to local organizations in their project, reconciling the development of economic activities and environmental protection in Indonesia, in Haiti, in Madagascar and in Mali. 15,000 beneficiary families. 5,200,000 trees planted.</p>
+                <p style="text-align:right;">
+                <a class="readmore" href="environnement-et-developpement/?langue=en" title="More about Environment &amp; Dévelopment">+</a>
+              </p>
+            </div>
+        </li> 
+        
+        
+        
+              
+	</ul></div>
+</div>
+<!-- END MAIN CONTENT --> 
+
+<!-- NAVIGATOR -->
+           	<div class="navigator-content">
+                  <div class="button-previous">Previous</div>
+                  <div class="navigator-wrapper" style="width: 201px; height: 45px;">
+                        <ul class="navigator-wrap-inner" style="width: 201px; left: 0px;">
+                        	<li class="active" style="height: 45px; width: 67px;"><img src="images/home/slide_principale_pu_thumb.jpg"></li>
+                            <li style="height: 45px; width: 67px;" class=""><img src="images/home/slide_principale_cs_thumb.jpg"></li>
+                             <li style="height: 45px; width: 67px;" class=""><img src="images/home/slide_principale_002_thumb.jpg"></li>
+                           
+                        </ul>
+                  </div>
+                  <div class="button-next">Next</div>
+             </div> 
+          <!----------------- END OF NAVIGATOR --------------------->
+          <!-- BUTTON PLAY-STOP -->
+          <!--<div class="button-control"><span></span></div>-->
+           <!-- END OF BUTTON PLAY-STOP -->            </div>
+            
+            <div id="homeprincipaldroit">
+            <script>
+$(function(){
+$(".bulledaidearticle").tipTip({defaultPosition: "left", maxWidth: "150px", edgeOffset: 0});
+});
+
+$(function(){
+	$('#homechiffres').vTicker({ 
+		speed: 2000,
+		pause: 3000,
+		animation: 'fade',
+		mousePause: false,
+		showItems: 1
+	});
+});
+</script><div id="homedon" style="height:110px;">
+<div id="homevideoicone" class="pointer" style="background:url(images/home/don.png) no-repeat;" onclick="window.location.href = 'association/make-a-donation.htm';">Make a donation</div>
+<form id="formhomedon" action="association/make-a-donation.htm" method="post">
+<input type="radio" name="montanthome" value="0" id="montanthome_0" style="display:none;">
+<table width="180" border="0" cellspacing="0" cellpadding="0" style="margin-left:10px;">
+  <tbody><tr>
+    <td width="60" align="left"><h3><label class="pointer"><input type="radio" name="montanthome" value="50" id="montanthome_50" onclick="dupliquerchamp('montanthome','montanthome_50'); deducfishome('montanthome_50','dedfishomedon');" checked="checked">&nbsp;€&nbsp;50</label></h3></td>
+    <td width="60" align="center"><h3><label class="pointer"><input type="radio" name="montanthome" value="100" id="montanthome_100" onclick="dupliquerchamp('montanthome','montanthome_100'); deducfishome('montanthome_100','dedfishomedon');">&nbsp;€&nbsp;100</label></h3></td>
+    <td width="60" align="right"><h3><label class="pointer"><input type="radio" name="montanthome" value="150" id="montanthome_150" onclick="dupliquerchamp('montanthome','montanthome_150'); deducfishome('montanthome_150','dedfishomedon');">&nbsp;€&nbsp;150</label></h3></td>
+  </tr>
+  </tbody></table>
+  <table width="210" border="0" cellspacing="0" cellpadding="0" style="margin-left:10px;">
+  <tbody><tr>
+    <td width="110" style="font-size:14px; color:#FFFFFF; font-weight:bold; padding-right:5px;">Other amount</td>
+    <td width="70" style=" padding-right:5px;"><input name="homemontantlibre" type="text" class="inputtexteoff" id="homemontantlibre" onfocus="focusform('homemontantlibre','inputtexteon'); document.getElementById('montanthome_0').checked='true';document.getElementById('montanthome_0').value=0;" onblur="focusform('homemontantlibre','inputtexteoff'); deducfishome('homemontantlibre','dedfishomedon');" onkeyup="dupliquerchamp('montanthome','homemontantlibre'); deducfishome('homemontantlibre','dedfishomedon');" size="10" maxlength="7"></td>
+    <td style="color:#C5BFB7;" align="right"><input name="montanthome" id="montanthome" type="hidden"><input type="hidden" id="tauxdeduction" name="tauxdeduction" value="0.66"><input type="submit" class="buttonok pointer" value="OK"></td>
+  </tr>
+</tbody></table>
+</form>
+</div>
+
+<div id="homechiffres" style="overflow: hidden; position: relative; height: 69px;"> 
+<ul style="position: absolute; margin: 0px; padding: 0px; top: -55.30555275px;">
+	
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<li style="margin: 0px; padding: 0px; height: 69px; display: list-item; opacity: 0.19847025;">
+        <div id="homechiffres2">
+        	<div id="homechiffres3">
+    		<h1>7,105 </h1>
+    		<h2>volunteers went on short-term assignments</h2>
+            </div>
+    	</div>
+    </li><li style="margin: 0px; padding: 0px; height: 69px; display: list-item; opacity: 0.80152975;">
+        <div id="homechiffres2">
+        	<div id="homechiffres3">
+            <h1>5,200,000 trees planted</h1>
+            <h2>in Haiti, in Indonesia,</h2>
+            <h2>in Madagascar and in Mali</h2>
+            </div>
+        </div>
+    </li><li style="margin: 0px; padding: 0px; height: 69px; display: list-item;">
+        <div id="homechiffres2">
+        	<div id="homechiffres3">
+            <h1>202 houses</h1>
+            <h2>built or repaired</h2>
+            <h2>in Haiti</h2>
+            </div>
+        </div>
+    </li><li style="margin: 0px; padding: 0px; height: 69px; display: list-item;">
+        <div id="homechiffres2">
+        	<div id="homechiffres3">
+            <h1>130,000 school kits</h1>
+            <h2>given out in schools</h2>
+            </div>
+    	</div>
+    </li><li style="margin: 0px; padding: 0px; height: 69px; display: list-item;">
+        <div id="homechiffres2">
+        	<div id="homechiffres3">
+            <h1>166 partner</h1>
+            <h2>companies, corporate foundations, local authorities</h2>            </div>
+    	</div>
+    </li><li style="margin: 0px; padding: 0px; height: 69px; display: list-item;">
+        <div id="homechiffres2">
+        	<div id="homechiffres3">
+            <h1>293 local partners</h1>
+            <h2>in 36 coutries</h2>
+            </div>
+    	</div>
+     </li><li style="margin: 0px; padding: 0px; height: 69px; display: list-item;">
+        <div id="homechiffres2">
+        	<div id="homechiffres3">
+    		<h1>7,105 </h1>
+    		<h2>volunteers went on short-term assignments</h2>
+            </div>
+    	</div>
+    </li></ul>
+</div>
+
+<div id="homedon" style="height:70px; background-color: #990099; padding:10px; margin-top:10px;">
+    <h1><a href="association/contac-us.htm">Contact us</a></h1>
+<p style="color:#FFFFFF;">By telephone at <strong>+33(0)1.43.40.42.00</strong></p>
+    <p style="color:#FFFFFF;"><strong><a href="association/contact-us.htm" style="color:#FFFFFF; font-size:16px;">By email</a></strong></p>
+</div>            </div>
+
+<div id="homepartenaires">
+            <div id="homepartenairesgauche" class="pointer" onclick="window.location.href = 'partenariats/';">
+	<h1 style="text-align:left; height:45px;">Partnerships with Businesses, Foundations, Works Councils, and Regional Governments
+</h1>
+    <img src="images/home/partenaires_entreprises-04.jpg" width="350">
+    <div id="homepartenairestexte"><p>You hope to rally your teams around a project based on ideals.</p><p>You hope to engage your organisation with environmental protection and international aid.</p><p>International solidarity is central to your guiding principles and CSR policy.</p><p>You want to help.</p><p><strong>Planet Urgence already helps businesses, corporate foundations, works councils, and communities to take action, why not you?</strong></p></div>
+    <p style="text-align:right;"><a href="partenariats/" class="readmore bulledaide2">+</a></p>
+</div>
+
+
+<div id="homepartenairesdroite">
+
+    
+    <h1><a href="http://www.planete-urgence.org/association/contact-us.htm?langue=en">Contact Us</a></h1>
+    <img class="img_left bulledaide2" style="width:32px;" src="http://www.planete-urgence.org/images/icones/telephone_32.png">
+    <p>Par téléphone au<br><strong>+33(0)1.43.40.42.00</strong></p>
+    <!--<p style=" font-style:italic; font-weight:bold; color:#990099;">Un probl&egrave;me informatique chez notre op&eacute;rateur de t&eacute;l&eacute;phone emp&ecirc;che les connexions entrantes et sortantes sur notre ligne (01.43.40.42.00). Notre op&eacute;rateur pr&eacute;voit un retour &agrave; la normale dans la matin&eacute;e. Nous vous prions de nous excuser pour la g&ecirc;ne occasionn&eacute;e.</p>-->
+    <p><a href="association/contactez-nous.htm">Par courrier électronique</a></p>
+</div>
+
+<div id="homepartenairescentre" class="pointer" onclick="window.location.href = 'porteur-de-projets/porteur-de-projets.htm';">
+	<h1 style="height:45px;">The Call to Project Partners</h1>
+    <img src="images/home/partenaires_porteurs-04.jpg" width="350">
+    <div id="homepartenairestexte"><p>You are a nonprofit, a cooperative, a commune, a school, a national park… of a country in the southern hemisphere.  
+</p><p>You work for human rights, education of all ages, or biodiversity protection.  </p><p>You have a development project and have need of traning or consulting.  </p><p><strong>Planet Urgence already provides support to 550 projects in the southern hemisphere, why not you?</strong></p></div>
+    <p style="text-align:right;"><a href="porteur-de-projets/porteur-de-projets.htm" class="readmore bulledaide2">+</a></p>
+</div><div id="chiffres" style="min-height:20px; cursor:pointer" onclick="window.location.href = 'http://www.planete-urgence.org/partenariats/partenaires.htm';">
+  <h1 style="border-bottom:none;"><a href="http://www.planete-urgence.org/partenariats/partenaires.htm">Our 116 Partners (Businesses, foundations, works councils, collectives) during 2014 and 2015</a></h1>
+  <marquee><img src="http://www.planete-urgence.org/images/entreprises/partenaires/W/2864.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/V/1831.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/V/934.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/V/2968.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/V/2962.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/U/1287.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/U/1539.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/U/1017.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/T/1493.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/T/2547.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/T/1292.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/T/2057.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2754.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2740.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2940.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/1307.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/1424.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2965.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2915.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2953.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2723.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2558.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/1418.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2934.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2963.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2779.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/R/1728.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/R/570.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/R/1827.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/P/2674.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/P/2708.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/P/1537.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/O/1865.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/O/2766.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/O/1535.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2747.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2799.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/10008.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2929.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2926.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/10006.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2927.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2930.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2928.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/1894.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/2981.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/1969.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/10007.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/3004.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/3001.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/887.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/2729.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/2702.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/1032.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/2346.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/2793.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/2645.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/758.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/1993.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/2991.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/1188.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/K/2602.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/K/1323.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/J/2310.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/I/1878.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/I/2921.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/I/1684.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/H/2785.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/H/2230.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/H/2597.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/H/2736.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/1690.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/2231.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/2866.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/1888.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/1295.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/1563.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/2467.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/1947.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/2798.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/571.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/1627.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/2796.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/743.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/432.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/438.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/2797.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/1000.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/1376.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/2947.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/E/1378.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/E/1667.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/E/2738.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/E/2012.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/E/1652.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/D/2863.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/D/1394.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/D/2587.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/D/1896.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/D/1706.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/D/2737.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2745.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2661.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1550.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1459.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1949.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1288.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/146.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1247.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2380.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1347.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1116.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2992.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1604.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1298.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/421.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/368.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/547.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2603.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1402.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1933.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2221.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2950.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/459.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/2993.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/2979.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/1361.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/1943.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/2640.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/2644.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/1660.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/1755.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2699.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2629.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2989.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/1666.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2571.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2001.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/817.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2980.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/1757.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2951.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/6/1932.jpg" style="max-height:50px; margin-right:10px;"></marquee>
+</div>
+	
+            </div>
+            
+            <div id="homepartenaires">
+            	
+            </div>
+            
+        </div>
+        
+        <div id="footerglobal">
+        	<div id="headercenterpage">
+            <script>
+$(function(){
+$(".bullereseausociaux").tipTip({defaultPosition: "right", maxWidth: "150px", edgeOffset: 5});
+});
+</script>
+
+<div id="footercentre" class="footer">
+    
+	<div id="footer20" style="float:left; width:40px; line-height:normal;">
+    <a href="http://www.facebook.com/planete.urgence" target="_blank" class="bullereseausociaux"><img id="facebook" src="http://www.planete-urgence.org/images/icones/icone-facebook.png" width="32" height="32" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/icone-facebook-2.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/icone-facebook.png';"></a>
+    <a href="http://twitter.com/#!/PlaneteUrgence" target="_blank" class="bullereseausociaux"><img id="twitter" src="http://www.planete-urgence.org/images/icones/icone-twitter.png" width="32" height="32" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/icone-twitter-2.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/icone-twitter.png';"></a>
+    <a href="http://www.youtube.com/user/planete1urgence" target="_blank" class="bullereseausociaux"><img id="youtube" src="http://www.planete-urgence.org/images/icones/icone-youtube.png" width="32" height="32" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/icone-youtube-2.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/icone-youtube.png';"></a>
+    <a href="https://plus.google.com/+planeteurgence/" target="_blank" class="bullereseausociaux"><img id="googleplus" src="http://www.planete-urgence.org/images/icones/icone-googleplus.png" width="32" height="32" border="0" onmouseover="this.src='http://www.planete-urgence.org/images/icones/icone-googleplus-2.png';" onmouseout="this.src='http://www.planete-urgence.org/images/icones/icone-googleplus.png';"></a>
+	</div>
+    
+    <div id="footer21" style="float:left; width:100px; padding-left:20px;  line-height:100%;">
+
+<h1><a href="http://www.planete-urgence.org/?langue=en">Home</a></h1>
+<h1><a href="http://www.planete-urgence.org/association/Make-a-donation.htm">Make a donation</a></h1><h1><a href="http://www.planete-urgence.org/association/Make-a-donation.htm?op=adherer">Membership</a></h1></div>
+    
+    <div id="footer22" style="float:left; width:120px; padding-left:15px; line-height:100%;"><h1><a href="http://www.planete-urgence.org/association/the-association.htm">The association</a></h1><p><a href="http://www.planete-urgence.org/association/the-association.htm">Who we are</a></p><p><a href="http://www.planete-urgence.org/association/who-is-who.htm">Who's who in the association</a></p><p><a href="http://www.planete-urgence.org/association/contact-us.htm">Contact us</a></p></div>
+    
+    <div id="footer23" style="float:left; width:160px; padding-left:15px; line-height:100%;"><h1><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire.htm">Short-Term Volunteer Assignment</a></h1><p><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire-missions.htm">Find and display STVA</a></p><p><a href="http://www.planete-urgence.org/conge-solidaire/conge-solidaire.htm">What is STVA?</a></p><p><a href="http://www.planete-urgence.org/conge-solidaire/funding-conge-solidaire.htm">Funding STVA</a></p><p><a href="http://www.planete-urgence.org/conge-solidaire//countries-in-which-conge-solidaire-is-involved.htm">Countries of operation</a></p></div>
+    
+    <div id="footer24" style="float:left; width:180px; padding-left:15px; line-height:100%;"><h1><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development.htm">Environment &amp; Development</a></h1><p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development.htm">The program</a></p><p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-haiti.htm">Haiti</a></p>
+    <p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-indonesia.htm">Indonesia</a></p><p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-madagascar.htm">Madagascar</a></p><p><a href="http://www.planete-urgence.org/environnement-et-developpement/environment-and-development-mali.htm">Mali</a></p><p><a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=arbre">Plant a tree!</a></p></div>
+    
+    <div id="footer25" style="float:left; width:120px; padding-left:15px; line-height:100%;"><h1>Direct access</h1>
+    <p><a href="http://www.planete-urgence.org/entreprise/partnership.htm">Partner</a></p><p><a href="#" onclick="afficheId('popupconnexion'); return false;">Your account</a></p></div>
+    
+	<div id="footer26" style="float:left; width:200px; vertical-align:top;"><img src="http://www.planete-urgence.org/images/logos/signature-200.png" width="200"></div>
+
+	<div id="footercopyright" style="position:relative; float:left;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="right"><a href="http://onepercentfortheplanet.org/" target="_blank"><img src="http://www.planete-urgence.org/images/logos/logo-1pc_en.png" border="0" align="right" width="50" style="padding-right:10px;"></a></td>
+    <td align="left"><a href="http://www.plant-for-the-planet.org/en" target="_blank"><img src="http://www.planete-urgence.org/images/logos/logo-plantons-pour-la-planete_en.png" border="0" align="left" width="50" style="padding-left:10px;"></a></td>
+  </tr>
+</tbody></table>© Planète Urgence 2015 - Association reconnue d'utilité publique - Nous vous aidons à agir</div>
+</div>
+
+            </div>
+       	</div>
+        
+    <script type="text/javascript">
+	$('a.lightbox').lightBox({
+		//fixedNavigation:true,
+		imageLoading: '../images/lightbox/loading.png',
+		imageBtnClose: '../images/lightbox/close.png',
+		imageBtnPrev: '../images/lightbox/prev2.png',
+		imageBtnNext: '../images/lightbox/next2.png'
+	   });
+	</script>
+	
+</div></div><div id="tiptip_holder" style="max-width: 150px; display: none; margin: 1369px 0px 0px 37px;" class="tip_right"><div id="tiptip_arrow" style="margin-left: -12px; margin-top: 7.5px;"><div id="tiptip_arrow_inner"></div></div><div id="tiptip_content">YouTube : planete1urgence</div></div><script id="hiddenlpsubmitdiv" style="display: none;"></script><script>try{for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){ var lastpass_f = document.forms[lastpass_iter]; if(typeof(lastpass_f.lpsubmitorig2)=="undefined"){ lastpass_f.lpsubmitorig2 = lastpass_f.submit; if (typeof(lastpass_f.lpsubmitorig2)=='object'){ console.error('LastPass: Skipping form because submit is not a function!');continue;}lastpass_f.submit = function(){ var form=this; var customEvent = document.createEvent("Event"); customEvent.initEvent("lpCustomEvent", true, true); var d = document.getElementById("hiddenlpsubmitdiv"); if (d) {for(var i = 0; i < document.forms.length; i++){ if(document.forms[i]==form){ if (typeof(d.innerText) != 'undefined') { d.innerText=i; } else { d.textContent=i; } } } d.dispatchEvent(customEvent); }form.lpsubmitorig2(); } } }}catch(e){}</script></body></html>

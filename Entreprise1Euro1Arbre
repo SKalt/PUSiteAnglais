@@ -1,18 +1,18 @@
 <html><head>
     	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-        <title>Association Planète Urgence</title>
-        <meta name="description" content="L'association Planète Urgence  mène des actions visant le renforcement de l'autonomie des populations  et la protection de leur environnement à travers le Congé solidaire d'une part et le programme Environnement et Développement d'autre part.">
-		<meta name="keywords" content="volontaire, volontaires, volontariat, humanitaire, sud, PVD, tiers-monde, environnement, développement, developpement, mission, missions, projet, projets, education, ecole, conges solidaires, congés solidaires, congé solidaire, congés solidaires, conge, congé, conges, congés, solidaire, solidarité, solidarite, international, formation, mali, benin, bénin, cameroun, senegal, sénégal, burkina faso, djibouti, france, mauritanie, togo, guinee, guinée, centre afrique, zimbabwe, madagascar, comores, inde, bolivie, perou, pérou, indonesie, indonésie, niger, argentine, patagonie, polynésie française, arbre, arbres, reforestation, déforestation, deforestation, transfert de compétence, transfert de compétences, transfert de competence, transfert de competences, haiti, haïti, haïtien, haïtiens, haitien, haitiens">
-		<meta name="organization" content="Planète Urgence, 39 rue Crozatier, 75012 Paris, France">
+        <title>Association PlanÃ¨te Urgence</title>
+        <meta name="description" content="L'association PlanÃ¨te Urgence  mÃ¨ne des actions visant le renforcement de l'autonomie des populations  et la protection de leur environnement Ã&nbsp; travers le CongÃ© solidaire d'une part et le programme Environnement et DÃ©veloppement d'autre part.">
+		<meta name="keywords" content="volontaire, volontaires, volontariat, humanitaire, sud, PVD, tiers-monde, environnement, dÃ©veloppement, developpement, mission, missions, projet, projets, education, ecole, conges solidaires, congÃ©s solidaires, congÃ© solidaire, congÃ©s solidaires, conge, congÃ©, conges, congÃ©s, solidaire, solidaritÃ©, solidarite, international, formation, mali, benin, bÃ©nin, cameroun, senegal, sÃ©nÃ©gal, burkina faso, djibouti, france, mauritanie, togo, guinee, guinÃ©e, centre afrique, zimbabwe, madagascar, comores, inde, bolivie, perou, pÃ©rou, indonesie, indonÃ©sie, niger, argentine, patagonie, polynÃ©sie franÃ§aise, arbre, arbres, reforestation, dÃ©forestation, deforestation, transfert de compÃ©tence, transfert de compÃ©tences, transfert de competence, transfert de competences, haiti, haÃ¯ti, haÃ¯tien, haÃ¯tiens, haitien, haitiens">
+		<meta name="organization" content="PlanÃ¨te Urgence, 39 rue Crozatier, 75012 Paris, France">
 		<meta name="author" content="Steven" >
         
         <meta property="og:title" content="">
         <meta property="og:type" content="non_profit">
         <meta property="og:url" content="http://www.planete-urgence.org/">
         <meta property="og:image" content="">
-        <meta property="og:site_name" content="Planète Urgence, 39 rue Crozatier, 75012 Paris, France">
+        <meta property="og:site_name" content="PlanÃ¨te Urgence, 39 rue Crozatier, 75012 Paris, France">
         <meta property="fb:admins" content="100004107064963">
-        <meta property="og:description" content="L'association Planète Urgence  mène des actions visant le renforcement de l'autonomie des populations  et la protection de leur environnement à travers le Congé solidaire d'une part et le programme Environnement et Développement d'autre part.">
+        <meta property="og:description" content="L'association PlanÃ¨te Urgence  mÃ¨ne des actions visant le renforcement de l'autonomie des populations  et la protection de leur environnement Ã&nbsp; travers le CongÃ© solidaire d'une part et le programme Environnement et DÃ©veloppement d'autre part.">
         
         <!--<meta name="ROBOTS" content="NOINDEX,NOFOLLOW">-->
 		<meta name="robots" content="index">
@@ -68,13 +68,13 @@ webleads_site_ids.push(100544702);
 <div id="popupconnexion" style="visibility: hidden; display: none;"><div id="popupconnexionbg"></div>
 <div id="popupconnexioncorps" class="popupcorps">
 <p class="popupfermer"><a onclick="cacheId('popupconnexion');">x</a></p>
-<h4>Connexion à votre compte</h4>
+<h4>Connexion Ã&nbsp; votre compte</h4>
 <form id="connexion" method="post" action="" onsubmit="return validationconnexion();">
 
 <table width="320" border="0" cellspacing="0" cellpadding="0" style="padding-bottom:20px;">
   <tbody><tr>
     <td><p><label><input type="radio" name="connexion_select" value="particulier" id="connexion_select_0" checked="checked">
-    &nbsp;Je suis volontaire ou donateur et me connecte à titre personnel</label></p></td>
+    &nbsp;Je suis volontaire ou donateur et me connecte Ã&nbsp; titre personnel</label></p></td>
   </tr>
   <tr>
     <td><p><label><input type="radio" name="connexion_select" value="entreprise" id="connexion_select_1">&nbsp;Je me connecte au nom de mon entreprise</label></p></td>
@@ -111,7 +111,7 @@ cacheId('popupconnexion');
 <div id="popupmiseajour" style="visibility: hidden; display: none;"><div id="popupconnexionbg"></div>
 <div id="popupconnexioncorps" class="popupcorps" style="min-height:30px;">
 <p class="popupfermer"><a href="">x</a></p>
-<h4>Votre compte a été mis à jour</h4>
+<h4>Votre compte a Ã©tÃ© mis Ã&nbsp; jour</h4>
 <p style="text-align:center;"><a href="">Cliquez pour retourner au formulaire</a></p>
 </div></div>
 <script>
@@ -121,7 +121,7 @@ cacheId('popupmiseajour');</script>
 <div id="popupdossiercs" style="visibility: hidden; display: none;"><div id="popupconnexionbg"></div>
 <div id="popupconnexioncorps" class="popupcorps">
 <p class="popupfermer"><a onclick="cacheId('popupdossiercs');">x</a></p>
-<h4>Votre dossier de Congé Solidaire</h4>
+<h4>Votre dossier de CongÃ© Solidaire</h4>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:0 0 10px 0 ;">
 	</table>
 </div></div>
@@ -315,19 +315,15 @@ $(document).ready(function(){
 
 <h3><a href="http://www.planete-urgence.org/partenariats/partnership.htm?langue=en">Become a Partner</a></h3>
 
-<div id="menuENT1" style="padding-bottom:10px;">
-<ul>
-<li id="ENTgen5_0" class="menurechercheon"><a href="partenariat.htm">Why &amp; How ?</a></li>
-<li id="ENTgen1_0" class="menurechercheoff"><a href="http://www.planete-urgence.org/partenariats/company.htm?langue=en">Businesses</a></li>
-<li id="ENTgen2_0" class="menurechercheoff"><a href="http://www.planete-urgence.org/partenariats/corporate-foundation.htm?langue=en">Foundations </a></li>
-<li id="ENTgen3_0" class="menurechercheoff"><a href="http://www.planete-urgence.org/partenariats/vse.htm?langue=en">Planet Sponsors membership</a></li>
-<li id="ENTgen4_0" class="menurechercheoff"><a href="http://www.planete-urgence.org/partenariats/local-authority-and-public-sector.htm?langue=en">LOCAL AUTHORITIES AND PUBLIC SECTOR</a></li>
-</ul>
-</div>
+
 
 <h1 style="padding-top:10px; border-top:1px #6F685F solid;"><a href="devenir-partenaire-du-conge-solidaire.htm">Short Term Volunteer Assignment</a></h1>
 
-<h1 style="padding-top:10px; border-top:1px #6F685F solid;"><a href="1-euro-1-arbre.htm">1&nbsp;€ = 1 tree planted</a></h1>
+<h1 style="padding-top:10px; border-top:1px #6F685F solid;"><a href="1-euro-1-arbre.htm">1 € = 1 tree planted</a></h1><div id="menuED7">
+<ul>
+<li id="ED1e1a0_0" class="menurechercheon"><a href="#">Reforestation Projects</a></li>
+<li id="ED1e1a1_0" class="menurechercheoff"><a href="#">Start a Shared Product
+</a></li></ul></div>
 <div id="menuED7" style="display: none;">
 <ul>
 <li id="ED1e1a0_0" class="menurechercheoff"><a href="#">Les projets de reforestation</a></li>
@@ -342,6 +338,7 @@ $(document).ready(function(){
 
 </div>
 
+
 <div id="menucontact" class="menurecherche">
 <img src="http://www.planete-urgence.org/images/equipe/equipe-siege-175_thumb.jpg" width="100">
 <h2 style="padding-bottom:0px;">Muriel Roy</h2>
@@ -351,67 +348,65 @@ $(document).ready(function(){
 </div>
 
 </div>
-<div id="corps" class="corps" style="position:relative; left:200px; width:800px; min-height:800px;">
 
-<div id="ENTgen1">
-
-<h1>Become a partner of Planet Urgence</h1>
-<!-- <div id="chiffres" style="height:300px; width:340px;" >-->
-<div id="chiffres">
-  <h2>Why?</h2>
-<p style="padding-bottom:10px;">A non-profit international aid organization created in 2000, <strong>Planet Urgence helps you take action to facilitate sustainable development of communities in the southern hemisphere.</strong>.</p><p></p><p style="padding-bottom:10px;">Becoming a partner of Planet Urgence means:</p>
-<ul><li style="padding-bottom:10px;">Involving your employees in your CSR policy</li><li style="padding-bottom:10px;">Growing the attractiveness of your organization</li><li style="padding-bottom:10px;">Supporting a concrete action promoting the autonomy of developing communities while respecting the environment</li></ul>
-</div>
-
-<div id="chiffres" style="min-height:20px;">
-<h2>How ?</h2>
-
-<img src="../images/diaporamas/cs_intervention/004.jpg" style="width:220px;" class="img_right imgshadow">
-<h3>Offer a chance for your employees to leave on Short Term Volunteer Assignment.</h3>
-<p>Planet Urgence started this original sponsorship program in 2000.   It offers a chance to involve your employees in your apporach to corporate social responsibility by letting them participate on short (2 to 4 week) aid missions during their vacation time.</p>
-<ul>
-  <li><a href="http://www.planete-urgence.org/partenariats/become-a-partner-of-conge-solidaire.htm?langue=en">Learn more about Short-Term Volunteer Assignment partnerships</a></li>
-  <!--li><a href="../actualites/article,6672_table-ronde-andrh-ile-de-france---le-conge-solidaire%C2%AE-une-experience-unique-de-developpement-de-la-rse.htm">Table ronde ANDRH Île-de-France : «&nbsp;Le Congé Solidaire, une expérience unique de développement de la RSE&nbsp;»</a> [article publié le 21 novembre 2013]</li-->
-<!--li><a href="../actualites/article,6598_association-nationale-des-drh-d-ile-de-france--le-conge-solidaireÂ®-presente-aux-membres-de-l-andrh.htm">Association Nationale des DRH d'Île-de-France : Le Congé Solidaire présenté aux membres de l'ANDRH</a> [article publié le 3 avril 2014]</li-->  
-  
-  <!--li style="padding-bottom:40px;"><a href="../documents/entreprise/boite-a-outils/ANDRH-Planete-Urgence-ROICS.pdf">L'intérêt du Congé Solidaire en entreprise : le «&nbsp;retour sur investissements&nbsp;» en termes RH</a> [pdf]</li>--></ul>
-
-
-<img src="../images/diaporamas/indonesie/006.jpg" style="width:220px;" class="img_right imgshadow">
-<h3>Participez à l'opération 1€ = 1 arbre planté !</h3> 
-<ul>
-  <li><a href="1-euro-1-arbre.htm">En savoir plus sur les projets de reforestation</a></li>
-<li><a href="1-euro-1-arbre.htm">Mettre en place un produit partage 1 € = 1 arbre planté</a></li>
-<li style="padding-bottom:40px;"><a href="../environnement-et-developpement/geolocalisation.htm">La géolocalisation des arbres</a></li></ul>
-
-
-<h3>Support the Environment &amp; Développement Program</h3>
-<img src="../images/diaporamas/haiti/001.jpg" style="width:220px;" class="img_right imgshadow">
-<p>In Haiti, Indonesia,  Madagascar, and Mali, the projets of the E&amp;D program aim to respond to specific issues of local communities while respecting their environment.</p>
-
-<p>Habitat management, support for education, development of economic activities: our projets are constructed in partnership with the benéficiairies and contribute to offer them greater autonomy.</p>
-<p>Becoming a partner of the E&amp;D program means mobilizing your organization to make a concrete contribution to an international aid project. </p>
-<ul>
-  <li><a href="http://www.planete-urgence.org/partenariats/become-an-environment-and-development-partner.htm?langue=en">Learn more about the E&amp;D program</a></li>
-<li><a href="../environnement-et-developpement/geographic-location.htm?langue=en">Location of our activities</a></li></ul>
-</div>
-
-<div id="chiffres" style="min-height:20px;">
-<h1>Partnerships Adapted to your Structure:</h1> 
-<ul>
-<li><a href="entreprise.htm">Company</a></li>
-<li><a href="fondation-d-entreprise.htm">Corporate foundation</a></li>
-<li><a href="tpe.htm">VSE</a></li>
-<li><a href="collectivite-et-service-public.htm">Local authority and public sector</a></li></ul>
-</div>
-<div id="chiffres" style="min-height:20px; cursor:pointer" onclick="window.location.href = 'http://www.planete-urgence.org/partenariats/partenaires.htm';">
-  <h1 style="border-bottom:none;"><a href="http://www.planete-urgence.org/partenariats/partenaires.htm">Our 166 partners (Businesses, Foundations, Works Councils, Communities) in 2014 and 2015</a></h1>
-  <marquee><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/146.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/368.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/421.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/432.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/438.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/459.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/547.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/R/570.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/571.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/743.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/758.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/817.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/887.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/V/934.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/1000.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/U/1017.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/1032.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1116.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/1188.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1247.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/U/1287.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1288.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/T/1292.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/1295.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1298.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/1307.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/K/1323.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1347.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/1361.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/1376.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/E/1378.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/D/1394.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1402.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/1418.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/1424.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1459.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/T/1493.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/O/1535.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/P/1537.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/U/1539.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1550.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/1563.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1604.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/1627.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/E/1652.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/1660.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/1666.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/E/1667.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/I/1684.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/1690.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/D/1706.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/R/1728.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/1755.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/1757.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/R/1827.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/V/1831.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/O/1865.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/I/1878.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/1888.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/1894.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/D/1896.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/6/1932.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1933.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/1943.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/1947.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/1949.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/1969.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/1993.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2001.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/E/2012.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/T/2057.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2221.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/H/2230.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/2231.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/J/2310.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/2346.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2380.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/2467.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/T/2547.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2558.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2571.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/D/2587.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/H/2597.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/K/2602.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2603.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2629.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/2640.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/2644.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/2645.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2661.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/P/2674.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2699.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/2702.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/P/2708.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2723.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/2729.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/H/2736.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/D/2737.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/E/2738.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2740.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2745.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2747.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2754.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/O/2766.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2779.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/H/2785.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/2793.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/2796.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/2797.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/2798.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2799.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/D/2863.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/W/2864.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/G/2866.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2915.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/I/2921.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2926.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2927.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2928.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2929.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/2930.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2934.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2940.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/F/2947.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2950.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2951.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2953.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/V/2962.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2963.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/S/2965.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/V/2968.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/2979.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2980.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/2981.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/A/2989.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/L/2991.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/C/2992.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/B/2993.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/3001.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/3004.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/10006.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/M/10007.jpg" style="max-height:50px; margin-right:10px;"><img src="http://www.planete-urgence.org/images/entreprises/partenaires/N/10008.jpg" style="max-height:50px; margin-right:10px;"></marquee>
-</div>
-</div>
-</div>
           
         </div>
+<div id="corps" class="corps" style="position:relative; left:250px; width:800px; min-height:800px;">
+
+<div id="ED1e1a0">
+<h1>Reforestation Projects</h1>
+<h3>For Planet Urgence, a tree is much more than a plant: a tree is an environmental tool that can drive cultural and economic development.</h3>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="33%" valign="top"><div id="chiffres" style=" margin-right:8px; min-height:20px;"><h2>Trees in the Ecosystem</h2>
+    <ul><li>Fight against global warming: trees capture CO<sub>2</sub></li>
+    <li>Shelters numerous animal, inesct, and plant species</li>
+    <li>protects the soil and regulates runoff from rainfall</li></ul>
+    </div>
+</td>
+    <td width="33%" valign="top"><div id="chiffres" style=" margin-right:4px; margin-left:4px; min-height:20px;"><h2>Trees in the Economy</h2>
+      <ul><li>A source of energy</li>
+        <li>Construction material</li>
+        <li>Food resource for local populations</li></ul></div>
+      
+</td>
+    </tr>
+  <tr>
+    <td align="center" valign="top"><img src="../images/partenariats/arbre_ecologique-2.jpg" class="imgshadow bullelegende"></td>
+    <td align="center" valign="top"><img src="../images/partenariats/arbre_economique-2.jpg" class="imgshadow bullelegende"></td>
+    </tr>
+</tbody></table>
+
+<p>Conversion into farmland, urbanisation, intensive and often illegal exploitation of tropical wood, charcoal production, palm oil production... There are many causes of deforestation, and it has dramatic consequences for us all:</p><ul><li>Increasing CO<sub>2</sub> levels in the atmosphere</li><li>Soil erosion and desertification</li><li>Destruction of the lifestyles of numerous communities</li><li>Disappearance of uncountable animal and vegetable species</li></ul>
+<h3>Lead in<a href="../environnement-et-developpement/environnement-et-developpement-haiti.htm">Haiti</a>, in <a href="../environnement-et-developpement/environnement-et-developpement-indonesie.htm">Indonesia</a>, in <a href="../environnement-et-developpement/environnement-et-developpement-madagascar.htm">Madagascar</a>, and in <a href="../environnement-et-developpement/environnement-et-developpement-haiti.htm">Mali</a>, Planet Urgence's reforestation projects reconcile environmental restoration and sustainable economic development.</h3>
+
+</div>
+
+<div id="ED1e1a1" style="display: none;">
+<h1>Mettre en place un produit partage «&nbsp;1 € = 1 arbre planté&nbsp;»</h1>
+<h3>La forêt a plus de valeur vivante que coupée et c'est pour cela que Planète Urgence a créé l'opération 1 € = 1 arbre planté !</h3> 
+
+<p>Grâce à cette opération, vous pouvez agir simplement et concrètement pour la protection des forêts du monde et communiquer sur votre engagement pour la planète : vous valorisez vos produits et services.  Vous pouvez choisir le pays et le projet dans lequel vous souhaitez planter vos arbres.
+</p>
+<p>élaborés en partenariats avec vos équipes, les partenariats produits-partage sont de puissants vecteurs de communication et de sensibilisation. Ils vous permettent de valorisez vos produits et votre image auprès des consommateurs. 
+</p>  
+
+<p>Dans le cadre d'un partenariat, nous vous proposons différents outils de communication et de suivi : 
+</p>
+<ul><li>Le logo de Planète Urgence</li><li>Un certificat de plantation</li><li>Une lettre partenaires trimestrielle</li><li>Un outil de géolocalisation vous permettant de visualiser vos parcelles de plantation</li><li>Une campagne "suivez vos arbre" présentant les étapes de plantation et de vie de vos arbres</li><li>Un appui dans la construction de votre campagne de communication (mise à disposition de visuels et textes)</li></ul>
+<h1 style="padding-top:20px;">Exemples d'opération de mécénat au titre du produit partage</h1>
+<img src="../images/entreprises/Itancia_2014/logo_operation_itancia.jpg" class="img_left imgshadow bullelegende">
+<h2>Itancia</h2>
+<p>Itancia finance la plantation d'un arbre pour chaque poste éco-recyclé acheté. Ce partenariat a déjà permis de financer la plantation de 100&nbsp;000&nbsp;arbres au bénéfice des populations vulnérables de Madagascar.</p>
+<p><em>«&nbsp;En associant un poste éco-recyclé à un arbre planté, Itancia a souhaité mettre en avant l'atout éco-responsable de cette gamme de téléphonie respectueuse de l'environnement.</em></p>
+<p><em>En effet, en donnant une seconde vie au produit, Itancia s'inscrit
+complètement dans une logique d'économie circulaire.</em></p>
+<p><em>L'impact a été très positif auprès de nos clients, qui ont pu de leur côté, relayer cette communication auprès des clients finaux. D'après notre dernière enquête satisfaction clients, 91&nbsp;% de nos clients sont sensibles à notre opération : 1 poste éco-recyclé = 1 arbre planté&nbsp;!&nbsp;»</em></p>
+<p style="text-align:right;">Itancia, Stéphanie Vivant, Responsable Marketing Communication</p>
+
+</div>
+
+</div>
         
         <div id="footerglobal">
         	<div id="headercenterpage">
@@ -463,7 +458,7 @@ $(".bullereseausociaux").tipTip({defaultPosition: "right", maxWidth: "150px", ed
     <td align="right"><a href="http://onepercentfortheplanet.org/" target="_blank"><img src="http://www.planete-urgence.org/images/logos/logo-1pc_en.png" border="0" align="right" width="50" style="padding-right:10px;"></a></td>
     <td align="left"><a href="http://www.plant-for-the-planet.org/en" target="_blank"><img src="http://www.planete-urgence.org/images/logos/logo-plantons-pour-la-planete_en.png" border="0" align="left" width="50" style="padding-left:10px;"></a></td>
   </tr>
-</tbody></table>© Planète Urgence 2015 - Association reconnue d'utilité publique - Nous vous aidons à agir</div>
+</tbody></table>Â© PlanÃ¨te Urgence 2015 - Association reconnue d'utilitÃ© publique - Nous vous aidons Ã&nbsp; agir</div>
 </div>
 
             </div>

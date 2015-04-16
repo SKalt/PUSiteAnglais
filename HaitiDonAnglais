@@ -274,8 +274,12 @@ cacheId('popupdossiercs');
 
 <!-- operations spÃ©ciale entreprise -->
 <p>Planet Urgence will assign your donation to our projects in Haiti.  However, if you wish, you can earmark your donation for 
-<a href="../don-haiti"> the 1 &euro; = 1 tree planted program</a>, <a href="../don-kits-scolaires">School Kits</a>, <a href="../don-aide-et-securite-alimentaires-prioritaires-au-mali">Priority Aid and Food Security</a> in Mali, 
-or you could <a href="http://www.planete-urgence.org/association/make-a-donation.htm?langue=en"> let Planet Urgence allocate your donation according to our projects' needs</a>
+<a href="http://www.planete-urgence.org/association/make-a-donation&op=haiti">
+ the 1 &euro; = 1 tree planted program</a>,
+  <a href="http://www.planete-urgence.org/association/make-a-donation&op=kits-scolaires">School Kits</a>, 
+  <a href="http://www.planete-urgence.org/association/make-a-donation&op=mali">Priority Aid and Food Security</a> in Mali, 
+or you could 
+<a href="http://www.planete-urgence.org/association/make-a-donation.htm?langue=en"> let Planet Urgence allocate your donation according to our projects' needs</a>
 .</p>
 
 <h2 style="padding-top:10px;">Transnational Giving Europe (TGE) program</h2>

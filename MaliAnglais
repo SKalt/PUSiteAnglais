@@ -274,9 +274,11 @@ cacheId('popupdossiercs');
 
 <!-- operations spÃÂ©ciale entreprise -->
 <p>Your donation will go towards the program of Food Security and Aid in Mali. Alternately, if you wish, you could earmark your donation to the following projects : the
-<a href="http://www.planete-urgence.org/planter-un-arbre"> 1 € = 1 Tree Planted</a> program, 
-  <a href=" ..=" "="" don-haiti"=""> Haiti,</a> <a href="../don-kits-scolaires">School Kits</a>, 
-or you could <a href="http://www.planete-urgence.org/association/make-a-donation.htm?langue=en"> let Planet Urgence allocate your donation according to our projects' needs</a>
+<a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=arbre"> 1 € = 1 Tree Planted</a> program,  
+<a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=haiti"> Haiti</a>, 
+<a href="http://www.planete-urgence.org/association/make-a-donation.htm?op=kits-scolaires">School Kits</a>,  
+or you could 
+<a href="http://www.planete-urgence.org/association/make-a-donation.htm?langue=en"> let Planet Urgence allocate your donation according to our projects' needs</a>
 .</p>
 
 <h2 style="padding-top:10px;">Transnational Giving Europe (TGE) program</h2>
